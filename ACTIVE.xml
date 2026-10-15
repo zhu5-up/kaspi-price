@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-15 14:25">
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-15 15:27">
     <company>16276143</company>
     <merchantid>16276143</merchantid>
     <offers>
@@ -50,6 +50,3936 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">64450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI447532754">
+            <model>Ковер комнатный 300х400 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1238689389">
+            <model>Ковер комнатный напольный 200х300 мягкий с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI712322009">
+            <model>Ковер комнатный ворсовый 160х230 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI373593626">
+            <model>Уют c Pinterest! Ковёр комнатный пушистый 200х140 с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI917838575">
+            <model>Ковер комнатный на пол в гостиную 200х300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI318183713">
+            <model>Ковер комнатный ворсовый 200х300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1201144713">
+            <model>Ковер комнатный на пол 200х300 овальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI373580122">
+            <model>Ковер комнатный с высоким ворсом 230х160 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI993707098">
+            <model>Ковер в комнату 200х300 пушистый с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1390828288">
+            <model>Ковер комнатный 200х300 серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI480607677">
+            <model>Ковер комнатный 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI917772927">
+            <model>Ковер комнатный на пол в гостиную 200x300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI855723530">
+            <model>Ковер комнатный 200х300 антискользяший</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI603855694">
+            <model>Ковер комнатный с длинным ворсом 300х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI917834832">
+            <model>Ковер комнатный на пол в гостиную 200x300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523373178">
+            <model>Ковер комнатный 200х300 пудровый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI293562928">
+            <model>Ковер комнатный ворсовый 200х300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI918170727">
+            <model>Ковер комнатный в гостиную 160х230 мягкий пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI505684905">
+            <model>Ковер 200х400 комнатный KEEP OFF на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI230991909">
+            <model>Ковер комнатный ворсовый 80х150 дорожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1003039919">
+            <model>Ковер комнатный 200x300 см в гостиную на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI138945899">
+            <model>Ковер мальдивский песок 80х120 в детскую комнатный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI366039891">
+            <model>Ковер комнатный на пол в гостиную 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1127612825">
+            <model>Ковер комнатный на пол в гостиную 200x300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI993707272">
+            <model>Ковер в комнату 200х300 с ворсом в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI364888135">
+            <model>Ковер комнатный 200х400 см с ворсом на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1238689404">
+            <model>Ковер комнатный напольный 200х300 мягкий с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI189932539">
+            <model>Ковер в детскую для девочки 160х230 SOFT DOTS</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1162650987">
+            <model>Ковер 200х300 пушистый с ворсом длинным комнатный плюшевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI983061190">
+            <model>Ковер турецкий 150х230 в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI838369567">
+            <model>Ковер комнатный 200 на 300 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI556849269">
+            <model>Ковер 160х230 комнатный с ворсом на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI70886789">
+            <model>Ковер комнатный ворсовый 200х300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI541476566">
+            <model>Ковер 200х400 комнатный ворсовый на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI227312844">
+            <model>Ковер 200x300 см на пол комнатный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI740387541">
+            <model>Ковер комнатный 200х300 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI303595745">
+            <model>Ковер комнатный 200х300 см в гостиную спальню безворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI993707103">
+            <model>Ковер комнатный 200х300 пушистый с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI240598393">
+            <model>Ковер комнатный прикроватный 80х150</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI758521813">
+            <model>Ковер комнатный 200х300 пушистый с длинным ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1390819052">
+            <model>Ковер комнатный 200х300 бежевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI712322084">
+            <model>Ковер комнатный ворсовый овальный 160х230 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI583608792">
+            <model>Ковер комнатный 160х230 серый с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI541278589">
+            <model>Ковер 135х200 (150х200) пушистый в комнату на пол DEVIS</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI269093201">
+            <model>Ковер 160х230 с ворсом SOFT FRESCO</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523320211">
+            <model>Ковер комнатный 200х300 коричневый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI366775584">
+            <model>Ковер комнатный 300х400 с ворсом на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">79410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI216562104">
+            <model>Ковер 160х230 с ворсом в спальню LANGORIA PLUM</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523385310">
+            <model>Ковер комнатный 300х400 серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">103480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI227130004">
+            <model>Ковер комнатный 200х300 серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI189932287">
+            <model>Ковер 135х200 (150х200) пушистый в комнату на пол DOTS</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI223030569">
+            <model>Ковер безворсовый 160x230 в спальню ASTORIA VERSAL</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1390789149">
+            <model>Ковер комнатный 200х300 бежевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI316447359">
+            <model>Ковер комнатный 120х180 овальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI258676863">
+            <model>Ковер комнатный на пол в гостиную 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1127610925">
+            <model>Ковер комнатный на пол в гостиную 200x300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI377581734">
+            <model>Ковер пушистый 200х300 комнатный мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI917834842">
+            <model>Ковер комнатный на пол в гостиную 200x300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI993707263">
+            <model>Ковер в комнату 200х300 пушистый с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1144048614">
+            <model>Ковер комнатный 200х300 нескользящий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI308732191">
+            <model>Ковер комнатный ворсовый 300Х400 для дома в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">83790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI293798255">
+            <model>Ковер 200х300 с ворсом персидский SILK SHAKIRA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1249602452">
+            <model>Ковер комнатный 200х300 серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI213785782">
+            <model>Ковер комнатный 300х500 см в детскую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">94930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523415054">
+            <model>Ковер комнатный 300х400 слоновая кость</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">102850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI454222884">
+            <model>Ковер турецкий 120х180 комнатный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">112020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI143128783">
+            <model>Ковер комнатный 200x300 см в гостиную на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523293964">
+            <model>Ковер комнатный 200х300 радуга</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1127612834">
+            <model>Ковер комнатный на пол в гостиную 200х300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI213185204">
+            <model>Ковер комнатный килим 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI282148814">
+            <model>Ковер 200х300 с ворсом Турция прямоугольный комнатный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">163980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI438883740">
+            <model>Ковер комнатный 200х300 с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">146240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1351629949">
+            <model>Ковер комнатный ворсовый 200х300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI536767639">
+            <model>Ковер комнатный 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523313672">
+            <model>Ковер комнатный 200х300 зеленый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI306148272">
+            <model>Ковер комнатный 200х300 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1310922199">
+            <model>Ковер комнатный 200*300 серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI159180829">
+            <model>Комнатный ковер на пол 300х300 с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI387773119">
+            <model>Ковер комнатный 200x300 с длинным ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI734456987">
+            <model>Ковер без ворса турецкий винтаж 75х150</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI216562116">
+            <model>Ковер 160х230 с ворсом LANGORIA IVORY</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI377484917">
+            <model>Ковер комнатный ворсовый для дома 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">113100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI907062688">
+            <model>Ковер 200x300 на пол комнатный ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI701872511">
+            <model>Ковер 160х230 безворсовый в гостиную BLAZE MASSIMO</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI851181508">
+            <model>Ковер комнатный 200х300 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI993707128">
+            <model>Ковер в комнату 200х300 пушистый с длинным ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI110261187">
+            <model>Ковер комнатный безворсовый 135х195 вискозный BLOSSOM</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">87310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI829547170">
+            <model>Ковер турецкий в гостиную и спальню мягкий для дома 200х290</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI642768670">
+            <model>Ковер 200х400 комнатный с ворсом на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI691701010">
+            <model>Ковер комнатный с ворсом на пол 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI196446720">
+            <model>Ковер 250х300 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523427969">
+            <model>Ковер комнатный 300х400 зеленый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">103480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI893202609">
+            <model>Ковер комнатный 250х350 на пол в гостиную 250 на 350</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">133740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI569651630">
+            <model>Ковер комнатный ворсовый 300х400 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">79100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI756862370">
+            <model>Ковер комнатный на пол в гостиную 200х300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1184066270">
+            <model>Ковер комнатный 200х300 овальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI189373024">
+            <model>Ковер комнатный 80х120 мальдивский песок в детскую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI565997341">
+            <model>Ковер винтаж комнатный 120х180</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">105190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI228302893">
+            <model>Ковер 300х400 см комнатный в гостиную на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">86420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI114518279">
+            <model>Ковер на пол прикроватный 200х350</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1220858639">
+            <model>Ковер комнатный напольный 200х300 безворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI366039892">
+            <model>Ковер комнатный на пол в гостиную 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1127612819">
+            <model>Ковер комнатный на пол в гостиную 200x300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI725570849">
+            <model>Шкура на пол, коврик комнатный, натуральная овчина .</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI556755904">
+            <model>Ковер 150х200 комнатный с ворсом на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI859391528">
+            <model>Ковер комнатный дорожка 80х150</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI556911643">
+            <model>Ковер 200х250 комнатный с ворсом на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">116590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI197241503">
+            <model>Ковер комнатный 200х300 с ворсом напольный в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1404781666">
+            <model>Ковер 200х300 комнатный ворсовый на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1420301236">
+            <model>Ковер комнатный 160х230 на пол в гостиную мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1390809836">
+            <model>Ковер комнатный 200х300 черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI171192596">
+            <model>Ковер комнатный на пол 250х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI412671878">
+            <model>Ковер из искусственной воловьей кожи 158х190 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI733033913">
+            <model>Ковер винтаж комнатный 120х180 без ворса</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">107930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1144307331">
+            <model>Ковер 200x300 см комнатный на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI340621911">
+            <model>Ковер комнатный килим 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523364051">
+            <model>Ковер комнатный 200х300 мятный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1416809923">
+            <model>Ковер комнатный овальный 200х300см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI969583675">
+            <model>Ковер комнатный ворсовый 150х230 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI753678452">
+            <model>Ковёр комнатный 200×300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI735889894">
+            <model>Коврик прикроватный пушистый мягкий 60х180</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI110265393">
+            <model>Ковер безворсовый в комнату вискозный BERNE VEGA 135х195</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI613386474">
+            <model>Ковер комнатный 150х400 в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI216562115">
+            <model>Ковер 150х200 в комнату пушистый LANGORIA IVORY</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI366041705">
+            <model>Ковер комнатный на пол в гостиную 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI917834851">
+            <model>Ковер комнатный на пол в гостиную 200x300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1177503763">
+            <model>Ковер комнатный 200х300 кремовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1290239244">
+            <model>Ковер безворсовый 150х200 противоскользящий OPTIMA PERSA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1466404795">
+            <model>Ковер 200х300 комнатный ворсовый на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1007856184">
+            <model>Ковер комнатный 200х290 нескользящий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1046905592">
+            <model>Ковер пушистый 200x400 комнатный мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">72370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI321324422">
+            <model>Ковер комнатный 200х300 с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">153780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI548312828">
+            <model>Ковер комнатный 200х300 на пол в гостиную мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">126730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI554649421">
+            <model>Ковер овальный 200х300 на пол в гостиную мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">90700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI879027513">
+            <model>Ковер комнатный 200x300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">75620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI141663464">
+            <model>Ковер комнатный 200x300 см в гостиную на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1238689394">
+            <model>Ковер комнатный напольный 200х300 мягкий с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI426306974">
+            <model>Ковер мальдивский песок 140х200 пушистый прикроватный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">158500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1386972494">
+            <model>Ковер комнатный напольный для зала прямоугольный 200х300 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1503027212">
+            <model>Ковер в спальню 160х230 мягкий нескользящий BOUNTY IVORY</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI529649310">
+            <model>Ковер комнатный 250х300 для пола на кухню, зала и спальни</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523401924">
+            <model>Ковер комнатный 300х400 бежевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">102850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI163940692">
+            <model>Ковер комнатный в гостиную 200x300 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1496328522">
+            <model>Коврик прикроватный 80х150 BERNE APOLLO вискозный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI554649472">
+            <model>Ковер овальный 150х230 на пол в гостиную мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI860818944">
+            <model>Ковер пушистый 200х300 комнатный мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI377581722">
+            <model>Ковер пушистый 200х300 комнатный мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI189938209">
+            <model>Ковер 150х200 безворсовый OPTIMA RODEN</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI551263129">
+            <model>Ковер 120х120 круглый комнатный с ворсом на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI556795272">
+            <model>Ковер 160х230 комнатный с ворсом на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1390851222">
+            <model>Ковер комнатный 200х300 серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI155641182">
+            <model>Турецкий ковер комнатный 200х400 на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">176510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI681554766">
+            <model>Ковер комнатный ворсовый 200х300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI203820606">
+            <model>Ковер комнатный 160х230 безворсовый вискозный BERNE BARON</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">118410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523393147">
+            <model>Ковер комнатный 300х400 розовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">102850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1012331466">
+            <model>Ковер комнатный 200х400 с ворсом на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">110750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI233043497">
+            <model>Ковер комнатный 200х300 с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1503058086">
+            <model>Ковер 200х300 с ворсом нескользящий BOUNTY GRAFIT</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">105470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI237696527">
+            <model>Коврик комнатный джутовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI291813227">
+            <model>Ковер комнатный 300х350 см в гостиную на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI563133617">
+            <model>Ковер комнатный 300х400 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI962660177">
+            <model>Ковер комнатный современный 200x400 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI143719277">
+            <model>Ковер с ворсом комнатный 200х300 см для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">75270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI265341377">
+            <model>Ковер 120х180 комнатный с ворсом на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI141495737">
+            <model>Ковер комнатный на пол 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI607675307">
+            <model>Ковер 160х230 комнатный с ворсом Турецкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI983054927">
+            <model>Ковер комнатный 200х300 в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">97450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI701843496">
+            <model>Ковер 150х200 безворсовый нескользящий BLAZE MASSIMO</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI494840436">
+            <model>Ковер комнатный килим 240х340 Турция</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">111310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1707208746">
+            <model>Ковер безворсовый в гостиную, спальню 200х300 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1149400776">
+            <model>Ковер комнатный современный 150x500 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1281781506">
+            <model>Ковер в спальню 200x290 безворсовый BLAZE VEGAS</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">117540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI756674856">
+            <model>Ковер комнатный напольный 200х300 мягкий пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI584917048">
+            <model>Ковер комнатный 200х400 на пол в гостиную 200 на 400 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI878832784">
+            <model>Ковер 150х400 комнатный на пол в гостиную 150 на 400</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI465063088">
+            <model>Ковер ворсовый прикроватный турецкий овальный 200Х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">124400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI430373608">
+            <model>Ковер комнатный килим 160х230 Турция</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI143466658">
+            <model>Ковер комнатный ворсовый 200х300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI247447738">
+            <model>Ковер комнатный на пол 300х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263834758">
+            <model>Ковровая дорожка 80х300 с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1002980248">
+            <model>Ковер комнатный 200x300 см в гостиную на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI99030508">
+            <model>Ковер джутовый прикроватный для комнаты</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI479953961">
+            <model>Ковер комнатный 150х200 см серо-коричневый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1152370721">
+            <model>Ковер комнатный овальный 200х300см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI262436398">
+            <model>Ковер комнатный 200х400 см в гостиную спальню безворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI524307868">
+            <model>Ковер комнатный 200х300 для пола на кухню, зала и спальни</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1003039931">
+            <model>Ковер комнатный 200x300 см в гостиную на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI440072231">
+            <model>Ковер комнатный 200х300 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57760</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI837550978">
+            <model>Ковер 200*300 комнатный на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI196491387">
+            <model>Шкура на пол натуральная мутоновая коврик</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI86019447">
+            <model>Ковер безворсовый турецкий UNGARO VERDI 140х200 в кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">88610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1576013817">
+            <model>Ковер турецкий 200х400 с ворсом в комнату</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">107290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI213185067">
+            <model>Ковер комнатный килим 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI436609977">
+            <model>Ковер комнатный 80х150 дорожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI581120157">
+            <model>Ковер турецкий 200x290</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">298570</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI99030507">
+            <model>Ковер джутовый прикроватный для комнаты</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI111498657">
+            <model>Дорожка ковровая UNGARO CASTLE 80 * 200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI556748757">
+            <model>Ковер 150х200 комнатный с ворсом на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI870863277">
+            <model>Ковер комнатный на пол в гостиную 200x300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI820742067">
+            <model>Ковер комнатный килим 160х230 Турция</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI213185200">
+            <model>Ковер комнатный килим 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1654069300">
+            <model>Ковёр 200х300 с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI569651620">
+            <model>Ковер комнатный ворсовый 200х300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI266698900">
+            <model>Ковер комнатный 200х400 с ворсом напольный в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI949060810">
+            <model>Ковер пушистый 200х300 комнатный мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523346520">
+            <model>Ковер комнатный 200х300 фиолетовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI112996210">
+            <model>Ковер на пол прикроватный 250х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI213185080">
+            <model>Ковер комнатный килим 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI82171060">
+            <model>Ковер 140х200 комнатный на пол спальню 140 на 200 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI266070630">
+            <model>Ковер комнатный 200х300 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI587394030">
+            <model>Ковер 160х230 с ворсом Турция прямоугольный комнатный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">120880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI365221222">
+            <model>Ковер комнатный 200х400 с ворсом на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1201176885">
+            <model>Ковер комнатный с ворсом 250х350</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">68650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI143719278">
+            <model>Ковер с ворсом комнатный 200х300 см для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">90850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI68050485">
+            <model>Ковер комнатный 120х180 в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI983051445">
+            <model>Ковер комнатный 200х400 в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">129930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1127612828">
+            <model>Ковер комнатный на пол в гостиную 200x300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI166333417">
+            <model>Ковер овальный 200х300 комнатный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1046959147">
+            <model>Ковер пушистый 200x400 комнатный мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">72060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI218524335">
+            <model>Ковер круглый 200х200 комнатный на пол в гостиную 200 на 200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI733036035">
+            <model>Ковер комнатный без ворса с орнаментом восточный 150х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">144710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1216381357">
+            <model>Ковер 200x300 комнатный с ворсом на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI329157247">
+            <model>Ковер комнатный 300х400 с ворсом на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1474969297">
+            <model>Ковер 200х300 комнатный ворсовый на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI446314597">
+            <model>Ковер 160х230 с ворсом в спальню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">92680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI236797005">
+            <model>Ковер комнатный без ворса 120х180</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">105190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI343215574">
+            <model>Ковер комнатный 200х300 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI193420643">
+            <model>Ковер комнатный Шегги 150х200 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI269087568">
+            <model>Ковер 150х200 пушистый в комнату SOFT FRESCO</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">73790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI141663468">
+            <model>Ковер комнатный 200x300 см в гостиную на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI292900728">
+            <model>Ковер комнатный современный 150x500 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI197794038">
+            <model>Ковер комнатный в гостиную 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">193740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI130171488">
+            <model>Ковер на пол прикроватный 200х400</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI618338358">
+            <model>Ковер комнатный 300х400 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">72760</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI323058648">
+            <model>Ковер для спальни серый 80х150</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI893174660">
+            <model>Ковер пушистый 150х200 комнатный мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI204078009">
+            <model>Ковер комнатный 300х300 с ворсом напольный в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI219679174">
+            <model>Ковер круглый мальдивский песок 150х150 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI358800352">
+            <model>Ковер комнатный 300х400 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI260361159">
+            <model>Ковер комнатный 200х300 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI189938210">
+            <model>Ковер в спальню 150х200 безворсовый OPTIMA SIENNA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI171798680">
+            <model>Ковер комнатный 150х300 с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">110800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI259457919">
+            <model>Ковер комнатный 200х400 см в гостиную спальню безворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1124425670">
+            <model>Ковер комнатный ворсовый для дома 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1391448260">
+            <model>Ковер комнатный 200х300 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI86019440">
+            <model>Ковер безворсовый турецкий UNGARO MAESTRO 140х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">94040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI910404980">
+            <model>Ковер комнатный напольный 200х300 мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI337647020">
+            <model>Ковер детский комнатный килим 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI710811260">
+            <model>Ковер комнатный овальный 150х230 с ворсом в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI993707169">
+            <model>Ковер комнатный 200х300 пушистый с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI320134449">
+            <model>Ковер комнатный 400х500 в зал или спальню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">144480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI190801790">
+            <model>Ковер комнатный килим 200х300 Турция</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI216562119">
+            <model>Ковер 160х230 с ворсом LANGORIA ROSE в детскую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">87000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1144307323">
+            <model>Ковер 200x300 см комнатный на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1124630514">
+            <model>Ковер комнатный ворсовый для дома 200х290</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI556856551">
+            <model>Ковер 160х230 комнатный с ворсом на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI120380341">
+            <model>Ковер комнатный на пол 200х300 с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">100420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI219675293">
+            <model>Ковер круглый мальдивский песок 150х150 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1338403555">
+            <model>Ковер комнатный 300х400 с ворсом на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">79410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI178579589">
+            <model>Ковер 200x400 см комнатный на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI213185129">
+            <model>Ковер комнатный килим 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI183603899">
+            <model>Ковер комнатный 150х400 на пол в гостиную 150 на 400 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI998961089">
+            <model>Ковер комнатный напольный 200х300 мягкий пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI534959309">
+            <model>Ковер 150х200 с ворсом в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">93750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI535354764">
+            <model>Ковер 80х180 прикроватный пушистый мальдивский песок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI855726904">
+            <model>Ковер комнатный 200х300 антискользяший</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI860792429">
+            <model>Ковер комнатный ворсовый для дома 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">185140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI82673789">
+            <model>Ковер комнатный с ворсом 150х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI190627829">
+            <model>Ковер комнатный 200х300 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1242067319">
+            <model>Ковер комнатный 200х400 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1493015371">
+            <model>Ковер комнатный 200х300 в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI282148813">
+            <model>Ковер 200х300 с ворсом Турция прямоугольный комнатный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">163980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI240364375">
+            <model>Джутовый ковер Cleopatra круг 150х150 натуральный плетёный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">85410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523398284">
+            <model>Ковер комнатный 300х400 черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">116520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI333931382">
+            <model>Ковер комнатный 200х300 см на пол с высоким ворсом пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">124910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI285837523">
+            <model>Ковер 300х400 см комнатный в гостиную на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">86420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI214960414">
+            <model>Коврик меховой,шкура на пол,натуральная овчина L</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1351629955">
+            <model>Ковер комнатный ворсовый 200х300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI261412674">
+            <model>Ковер в гостиную ворсовый 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">206670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1562430733">
+            <model>Ковер 150х230 комнатный ворсовый на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI695344613">
+            <model>Циновка на противоскользящей резиновой основе</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1390754905">
+            <model>Ковер комнатный 200х300 серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1228539534">
+            <model>Ковер 200x300 см комнатный на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1416941108">
+            <model>Безворсовый винтажный ковер 200×300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI185185063">
+            <model>Прикроватный коврик в спальню 80х150 BERNE BLOSSOM вискоза</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI193420645">
+            <model>Ковер комнатный Шегги 150х200 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI320136338">
+            <model>Ковер комнатный 200х300 на кухню и в зал</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI341762596">
+            <model>Ковер 160х230 с ворсом в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">87210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1582560496">
+            <model>Ковер 200х300 комнатный ворсовый на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI983013556">
+            <model>Ковер турецкий 150х230 в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI468829396">
+            <model>Ковер комнатный 200х300 в гостиную напольный 200 на 300 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1007693746">
+            <model>Ковер комнатный 160х230 нескользящий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI474894270">
+            <model>Ковер комнатный 200х500 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI378662155">
+            <model>Ковер комнатный ворсовый для дома 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">106810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI156640016">
+            <model>Ковер 135х200 (150х200) пушистый в комнату на пол FIONA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1042825046">
+            <model>Ковёр комнатный 200×300 см на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI293562926">
+            <model>Ковер комнатный ворсовый 200х300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI599248436">
+            <model>Ковер комнатный 160x230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI430373696">
+            <model>Ковер комнатный килим 160х230 Турция</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI820742066">
+            <model>Ковер комнатный килим 160х230 Турция</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI366042553">
+            <model>Ковер комнатный на пол в гостиную 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI204001105">
+            <model>Ковер детский комнатный 300х400 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI156640015">
+            <model>Ковер 150х200 пушистый в комнату скандинавский SOFT INGRID</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI992124961">
+            <model>Ковер комнатный 300х300 с ворсом на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">59570</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI198071524">
+            <model>Ковер комнатный на пол 300х300 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI454247991">
+            <model>Ковер в комнату без ворса турецкий 75х150</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI583529331">
+            <model>Ковер комнатный ворсовый для дома 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">106810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1267260801">
+            <model>Ковер комнатный 200х300 напольный с мягким ворсом 5 мм</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI195903711">
+            <model>Ковер комнатный 160х230 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">188580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1302065721">
+            <model>Ковер комнатный ворсовый для дома 160х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">132910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1009951491">
+            <model>Комнатный ковер на пол 300х300 с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1593617841">
+            <model>Ковер комнатный 150x230 с длинным ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI387965994">
+            <model>Ковер в детскую комнату 175х300 Звезды серый безворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI371349038">
+            <model>Ковер комнатный 150х230 см турецкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1127610913">
+            <model>Ковер комнатный на пол в гостиную 200x300 ворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI295650532">
+            <model>Ковер безворсовый в гостиную 200х300 OPTIMA SMART</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">88030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI304758022">
+            <model>Ковер комнатный 400х500 с ворсом напольный в зал</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">172030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1390861705">
+            <model>Ковер комнатный 200х300 зеленый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI430373672">
+            <model>Ковер комнатный килим 160х230 Турция</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI238206564">
+            <model>Двусторонний ковер комнатный килим 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI305862952">
+            <model>Ковер комнатный в гостиную на пол 200х400</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI735895954">
+            <model>Коврик прикроватный пушистый мягкий 60*180</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI865966853">
+            <model>Ковер комнатный 100х400 см циновка в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI143132405">
+            <model>Ковер 120х180 овальный Турция</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61760</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI594176825">
+            <model>Ковер с мягким ворсом комнатный 200х300 см для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">94810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1465379315">
+            <model>Ковер 250х400 комнатный ворсовый на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">106040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI340616765">
+            <model>Ковер комнатный килим 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1576471205">
+            <model>Ковер 300х400 в комнату</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">113100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI866508155">
+            <model>Ковер комнатный 200х200 см циновка на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI399602003">
+            <model>Ковер 200x300 с ворсом в детскую LANGORIA ROSE</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">116520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI386531544">
+            <model>Ковер 160х230 комнатный на пол в гостиную 160 на 230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1504975081">
+            <model>Ковер комнатный 200х300 на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1261058854">
+            <model>Ковер овальный 240х340 нескользящий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI474894263">
+            <model>Ковер комнатный 400х400 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">113450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1003039923">
+            <model>Ковер комнатный 200x300 см в гостиную на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI328463383">
+            <model>Ковер комнатный ворсовый 200х300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">80470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1253076443">
+            <model>Ковер 300х400 комнатный ворсовый на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1238689384">
+            <model>Ковер комнатный напольный 200х300 мягкий с ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI291483144">
+            <model>Ковер комнатный на пол 150х400</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI893270648">
+            <model>Ковер 200х300 комнатный на пол в гостиную 200 на 300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">83090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI171022328">
+            <model>Коврик комнатный джутовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">89260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI213785824">
+            <model>Ковер комнатный 250х400 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI420187403">
+            <model>Ковер в детскую 160х230 безворсовый OPTIMA BLADE</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1380789663">
+            <model>Ковер ворсовый 150x200 джутовый комнатный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI114519483">
+            <model>Ковер на пол прикроватный 250х350</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI552704733">
+            <model>Ковер комнатный ворсовый 200х300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1503027211">
+            <model>Ковер в спальню 160х230 мягкий нескользящий BOUNTY GRAFIT</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI148876471">
+            <model>Ковер комнатный 200х500 см в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI556965124">
+            <model>Ковер 200х300 комнатный с ворсом на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">139910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1515645773">
+            <model>Ковер 200х300 см комнатный , в гостиную , спальную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI208194844">
+            <model>Ковер комнатный 300х400 с ворсом на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1051562842">
+            <model>Ковер комнатный с ворсом пушистый 200х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1593612292">
+            <model>Ковер комнатный 160x230 безворсовой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI918170730">
+            <model>Ковер комнатный напольный 160х230 мягкий пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI213785753">
+            <model>Ковер комнатный 250х300 см в детскую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI238578453">
+            <model>Ковер 200х300 с ворсом пушистый в детскую SOFT DOTS</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">108510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI216562103">
+            <model>Ковер 150х200 в комнату пушистый LANGORIA PLUM</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI608986688">
+            <model>Ковер комнатный 150х230 на пол в гостиную мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1228539532">
+            <model>Ковер 200x300 см комнатный на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI340616761">
+            <model>Ковер комнатный килим 160х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1593617854">
+            <model>Ковер комнатный 150x200 с длинным ворсом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523369454">
+            <model>Ковер комнатный 200х300 черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI179077203">
+            <model>Ковер комнатный прикроватный 300х400 на пол 300 на 400</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">87550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI256627863">
+            <model>Ковер комнатный 300х400 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI549602340">
+            <model>Ковер 160х230 c ворсом в гостиную современный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">132150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1437124294">
+            <model>Ковер комнатный 200х400</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI784008602">
+            <model>Ковер в гостиную современный 195х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">206220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI401145722">
+            <model>Ковер мальдивский песок 100х200 пушистый в спальню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">98080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI756661412">
+            <model>Ковер комнатный напольный 200х300 мягкий пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI219906511">
+            <model>Ковер овальный 200х300 комнатный на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">89830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI496138772">
+            <model>Ковер комнатный 300х500 в спальню на пол 300 на 500</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">105540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI313756950">
+            <model>Ковер комнатный с животными 150х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">152130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI296915191">
+            <model>Ковер 150Х400 прямоугольный турецкий в комнату гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">117890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1177451792">
+            <model>Ковер комнатный 200х300 в зал</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI900845432">
+            <model>Ковер комнатный ворсовый 200х300 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI316677093">
+            <model>Ковер комнатный ворсовый для дома 120х180</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI430373371">
+            <model>Ковер комнатный килим 200х300 Турция</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">80210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI98226151">
+            <model>Ковер 250х400 комнатный в гостиную на пол 250 на 400</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">162550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1334043481">
+            <model>Ковер бохо с ворсом 200x300 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1469877781">
+            <model>Ковер 250х350 комнатный ворсовый на пол в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">111780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI817598252">
+            <model>Ковер комнатный ворсовый для дома 150х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">129140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI138945901">
+            <model>Ковер прикроватный пушистый 80х120 мальдивский песок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI328511100">
+            <model>Ковер 150x450 комнатный на пол 150 на 450</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263553064">
+            <model>Ковер комнатный 200х400 см в гостиную спальню безворсовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI127847311">
+            <model>Ковер 150х230 овальный в гостиную на пол 150 на 230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI216562113">
+            <model>Ковер 160х230 с ворсом LANGORIA GRAFIT</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI924390573">
+            <model>Ковер комнатный с ворсом мальдивский песок 200х300 пудровый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">143670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI181943700">
+            <model>Ковер 80х150 комнатный с ворсом на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI541357562">
+            <model>Ковер 260х210 с ворсом в гостинную в зал.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI373554780">
+            <model>Ковер комнатный 160х200 черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI908556872">
+            <model>Ковер комнатный на пол 230х300</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI546386040">
+            <model>Ковер 120х180 в детскую с бахромой на пол</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI298865010">
+            <model>Шкура Зебры на пол искусственная 140*200см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">114190</cityprice>
             </cityprices>
         </offer>
     </offers>
