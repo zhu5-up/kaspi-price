@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-15 17:23">
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-15 19:34">
     <company>16276143</company>
     <merchantid>16276143</merchantid>
     <offers>
@@ -3990,6 +3990,2576 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">146570</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1652783480">
+            <model>Обогреватель напольный электрический поворотный с камином</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">59380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1653292782">
+            <model>Тепловая пушка для дома обогреватель 2500Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI180604479">
+            <model>Обогреватель для дома газовый инфракрасный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1711171792">
+            <model>Обогреватель для дома электрический поворотный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1473689142">
+            <model>Обогреватель масляный радиатор для дома электрический</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1579642899">
+            <model>Настенный обогреватель - кондиционер с пультом и креплением</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1380740677">
+            <model>Тепловая пушка электрическая 3000 Вт, обогреватель для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI95652945">
+            <model>Обогреватель кварцевый инфракрасный 500Вт Эко + подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI267675915">
+            <model>Обогреватель инфракрасный NEOLINE INFRARED NRP-600</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI281951268">
+            <model>Инфракрасный настенный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1473684651">
+            <model>Обогреватель настенный для дома картина Эвкалипт 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI8933407">
+            <model>Инфракрасный обогреватель BIH-L-2.0</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1478083245">
+            <model>Обогреватель керамический с вращением</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41570</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1473684650">
+            <model>Обогреватель настенный для дома картина Флер 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI523577870">
+            <model>Кварцевый обогреватель 800Вт настенный и напольный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI179938404">
+            <model>Инфракрасный настенный обогреватель картина Котик</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI961948049">
+            <model>Обогреватель настенный для дома картина Аура 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI281955162">
+            <model>Инфракрасный настенный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI722906891">
+            <model>Обогреватель настенный пленочный картина Перья 400 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1579539644">
+            <model>Обогреватель электрический 3в1, увлажнитель + ночник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1380740678">
+            <model>Тепловая пушка электрическая 2000 Вт, обогреватель для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI831885645">
+            <model>Обогреватель инфракрасный NEOLINE NATIVE HEAT NRB-600</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI281924552">
+            <model>Инфракрасный настенный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1507966546">
+            <model>Обогреватель настенный инфракрасный для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI961948044">
+            <model>Обогреватель настенный для дома картина Букет 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI167813878">
+            <model>Инфракрасный обогреватель BIH-LM-1.5-R</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI329723105">
+            <model>Настенный обогреватель для дома картина Париж 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI159118739">
+            <model>Инфракрасный обогреватель BIH-GSW-1.0</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">89810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1473689144">
+            <model>Обогреватель масляный радиатор для дома электрический</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI179955658">
+            <model>Инфракрасный обогреватель картина Ласточкино гнездо</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI156641613">
+            <model>Обогреватель кварцевый инфракрасный 500Вт Эко + подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246831235">
+            <model>Обогреватель кварцевый инфракрасный 800Вт Эко + подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI198070481">
+            <model>Инфракрасный обогреватель для дома настенный картина 400 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI270497868">
+            <model>Обогреватель кварцевый инфракрасный 500Вт Эко + подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI95624241">
+            <model>Обогреватель кварцевый инфракрасный 400Вт Эко + подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1055930727">
+            <model>Обогреватель инфракрасный IV-20 "Oasis"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI270486976">
+            <model>Обогреватель кварцевый инфракрасный 800Вт Эко + подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI227142905">
+            <model>обогреватель картина для дома на стену</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246707890">
+            <model>Обогреватель для дома электрический конвекторный 2000Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI281964144">
+            <model>Инфракрасный настенный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI281959781">
+            <model>Инфракрасный настенный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI167813306">
+            <model>Инфракрасный обогреватель BIH-LM-1.5-S</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI37250671">
+            <model>Обогреватель настенный пленочный картина Котенок 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI281961406">
+            <model>Инфракрасный настенный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI301658759">
+            <model>Настенный инфракрасный обогреватель для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI147352992">
+            <model>Обогреватель для дома газовый керамический</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">113600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI414470557">
+            <model>Обогреватель инфракрасный Ballu BIH-GTW-1.0</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">89670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1544969097">
+            <model>Обогреватель электрический с увлажнителем и подсветкой 3 в 1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI270499648">
+            <model>Обогреватель кварцевый инфракрасный 400Вт Эко + подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI233394033">
+            <model>Обогреватель настенный для дома картина Камин 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI115890094">
+            <model>Обогреватель кварцевый Жаркая Дюна Био с терморегулятором</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1484234734">
+            <model>Обогреватель керамический напольный с увлажнением 2500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI414470558">
+            <model>Обогреватель инфракрасный Ballu BIH-GTW-1.3</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">96260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI253931595">
+            <model>Обогреватель для дома электрический 2000Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">85460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1579539645">
+            <model>Обогреватель для дома маленький электрический поворотный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI230117504">
+            <model>обогреватель картина для дома на стену</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI526596208">
+            <model>Обогреватель для дома электрический конвекторный 1000 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1469665451">
+            <model>Тепловая пушка обогреватель для дома T-HG2-Q25M</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI277500048">
+            <model>Обогреватель инфракрасный газовый Ballu BIGH-10</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">150640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI262885678">
+            <model>Нагреватель воздуха электрический инфракрасный QE-1500i</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI184216871">
+            <model>Инфракрасный обогреватель BALLU BIH-S2-0.3</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI179941956">
+            <model>Настенный обогреватель картина Гобелен</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI497786390">
+            <model>Инфракрасный настенный пленочный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI526633280">
+            <model>Обогреватель для дома электрический конвекторный 1500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI292652627">
+            <model>Обогреватель настенный инфракрасный для дома картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1579495789">
+            <model>Обогреватель напольный электрический поворотный с камином</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI156643895">
+            <model>Обогреватель кварцевый инфракрасный 600Вт Эко + подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI156640129">
+            <model>Обогреватель кварцевый инфракрасный 400Вт Эко + подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1709086832">
+            <model>Обогреватель для дома напольный настольный увлажнитель</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI37250650">
+            <model>Обогреватель настенный пленочный картина 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI364813450">
+            <model>Обогреватель для дома инфракрасный керамический</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI177334120">
+            <model>Инфракрасный обогреватель для дома RAGGIO</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI252313120">
+            <model>Газовый обогреватель уличный инфракрасный Ballu Vela BOGH-16</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">258810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI58105888">
+            <model>Обогреватель инфракрасный BHH M-20</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI558064052">
+            <model>Обогреватель инфракрасный потолочный серии ECLIPSE, 1000 ВТ</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI281957005">
+            <model>Инфракрасный настенный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI230352366">
+            <model>Тепловая пушка электрическая в круглом корпусе 5 кВт TDM</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">180100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI179420190">
+            <model>Инфракрасный настенный пленочный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1455027455">
+            <model>Обогреватель для дома напольный электрический с пультом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI8933424">
+            <model>Масляный радиатор Classic BOH CL-09WRN 2000 (9 секций)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1459047294">
+            <model>Обогреватель 700 Вт инфракрасный Двусторонний</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">169680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI182770704">
+            <model>Электрическая тепловая пушка, обогреватель ТЭП-2000К</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI551456664">
+            <model>Обогреватель для дома электрический масляный радиатор 2000Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI188873754">
+            <model>Настенный пленочный обогреватель картина Тигр 400 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI295454874">
+            <model>Обогреватель керосиновый 2,5 кВт, с метталической колбой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">118590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI184508934">
+            <model>Обогреватель масляный с вентилятором 2500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">101280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1194950448">
+            <model>Настенный инфракрасный обогреватель "Водопад"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1720755357">
+            <model>Обогреватель для дома с пультом электрический поворотный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1055930726">
+            <model>Обогреватель инфракрасный Oasis IV-12</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI177736406">
+            <model>Электрический конвектор, обогреватель для дома ОК-1600</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI614732876">
+            <model>Инфракрасный обогреватель потолочный RAGGIO A, до 20 кв.м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI175041808">
+            <model>Обогреватель масляный напольный 1000 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI184148028">
+            <model>Инфракрасный обогреватель Ballu BIH-APL-3.0-M</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">131430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI614732910">
+            <model>Инфракрасный обогреватель потолочный RAGGIO A, до 30 кв.м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI281951801">
+            <model>Инфракрасный настенный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI189553081">
+            <model>Обогреватель для дома 9 секций</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1223530501">
+            <model>Обогреватель для дома электрический, 1500 Вт, 1,5 кВт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI178254781">
+            <model>Обогреватель для дома масляный напольный радиатор</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">92160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI536060401">
+            <model>Электрический обогреватель для дома тепловентилятор ветерок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246666781">
+            <model>Обогреватель кварцевый инфракрасный 800Вт Эко + подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI267675918">
+            <model>Обогреватель инфракрасный NEOLINE INFRARED NRP-1000</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI234533460">
+            <model>Тепловентилятор напольный 2000 Вт с термостатом TDM</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI182763816">
+            <model>Электрическая тепловая пушка, обогреватель ТЭП-2000</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1152462198">
+            <model>Масляный радиатор Oasis US-20 обогреватель для дома 9 секций</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">88840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI260880554">
+            <model>Обогреватель для дома конвектор электрический 1500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI237419774">
+            <model>Инфракрасный обогреватель для дома настенный картина 400 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1805573525">
+            <model>Инфракрасный обогреватель потолочный Ресанта ИКО-1500, 1500</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">541630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI266212126">
+            <model>Конвектор обогреватель для дома стич</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1272248346">
+            <model>Настенный инфракрасный обогреватель "Венеция"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI179415059">
+            <model>Инфракрасный настенный пленочный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI178173569">
+            <model>Картина Обогреватель на стену инфракрасный Камин 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI614732879">
+            <model>Инфракрасный обогреватель потолочный RAGGIO A, до 26 кв.м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI502208039">
+            <model>Обогреватель СТЕП 250 Вт инфракрасный экономичный безопасный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">94080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246689669">
+            <model>Обогреватель для дома электрический масляный CT-6207</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI355464479">
+            <model>Кварцевый обогреватель с встроенным термостатом настенный М</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI182998979">
+            <model>Обогреватель для дома электрический с вентилятором</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">238870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI503058449">
+            <model>Обогреватель для дома, конвектор ОК-2500</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">83240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI270493289">
+            <model>Обогреватель кварцевый инфракрасный 600Вт Эко + подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI281963280">
+            <model>Инфракрасный настенный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI600985895">
+            <model>Обогреватель потолочный инфракрасный 800 Вт 16 м2</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI526628016">
+            <model>Обогреватель для дома электрический конвекторный 1500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1566323478">
+            <model>Обогреватель масляный для дома 9 секций BOH/CM-09WDN 2000 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI467408711">
+            <model>ИК Обогреватель настенный для дома Лавандовое поле</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1629113585">
+            <model>Обогреватель для дома электрический HeatFlow A30</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">172640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI551686966">
+            <model>Обогреватель для дома электрический масляный радиатор 2000Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI261327761">
+            <model>Обогреватель для дома электрический масляный радиатор</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI494091665">
+            <model>Обогреватель для дома электрический MIVENTO Econo 1500М</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI373427896">
+            <model>Обогреватель для дома инфракрасный керамический</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">75520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI180903342">
+            <model>Обогреватель для дома, масляный радиатор ОМ-9НВ</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">86160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI178046952">
+            <model>Электрический конвектор, обогреватель ОК-2000СЧ (стич)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI260687862">
+            <model>Картина Обогреватель на стену инфракрасный Лагуна 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1469665452">
+            <model>Тепловая пушка обогреватель для дома T-HG3-Q25M</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI233468952">
+            <model>Газовый обогреватель плита портативная для дома и туризма</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495854322">
+            <model>Обогреватель для дома конвектор электрический 1 кВт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI177742662">
+            <model>Обогреватель для дома, электрический конвектор ОК-2000</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">73220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI275262192">
+            <model>Настенный обогреватель для дома картина Речка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI45705852">
+            <model>Масляный радиатор CENTEK CT-6201 black</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">93610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI722906894">
+            <model>Обогреватель настенный пленочный картина Абстракция 400 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI95651795">
+            <model>Обогреватель кварцевый инфракрасный 600Вт Эко + подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI179424607">
+            <model>Инфракрасный настенный пленочный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI257098927">
+            <model>Модуль отопительный электрического конвектора Evolution</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI526628017">
+            <model>Обогреватель для дома электрический конвекторный 1000 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI140185507">
+            <model>Низкопрофильный конвектор с Х-элементом 1000W</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI197957707">
+            <model>Обогреватель для дома электрический с вентилятором</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">250920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1801793527">
+            <model>Радиатор масляный 11 секций обогреватель для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI159932886">
+            <model>Инфракрасный обогреватель BIH-APL-1.0-M</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI303759614">
+            <model>Обогреватель масляный радиатор 9 секций</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1194845855">
+            <model>Настенный инфракрасный обогреватель "Берёзки"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI315672212">
+            <model>Инфракрасный настенный обогреватель картина Краски</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1272585627">
+            <model>Настенный инфракрасный обогреватель "Ночной город"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI276140008">
+            <model>Обогреватель для дома, электрический конвектор ОК-1700</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI551452562">
+            <model>Обогреватель для дома электрический масляный радиатор 1500Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI467402970">
+            <model>Инфракрасный настенный обогреватель картина Бунгало</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI172723020">
+            <model>Обогреватель электрический конвектор с подсветкой для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI148060629">
+            <model>Инфракрасный настенный пленочный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI252274689">
+            <model>Инфракрасный обогреватель ИКО-1200Л</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI292633809">
+            <model>Обогреватель настенный инфракрасный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1372131099">
+            <model>Обогреватель для дома электрический напольный 1300 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI295464639">
+            <model>Обогреватель для дома масляный BB-15T 1500 Вт с вентилятором</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI178194027">
+            <model>Обогреватель для дома, электрический конвектор ОК-1500СН</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1272316004">
+            <model>Настенный инфракрасный обогреватель "Капучино"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI284282255">
+            <model>Обогреватель масляный с 9 секциями</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI718966523">
+            <model>Газовая плита туристическая обогреватель для палатки и дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI188874323">
+            <model>Настенный пленочный обогреватель картина Италия 400 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1662150533">
+            <model>Тепловентилятор напольный электрический для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI252312832">
+            <model>Камин уличный газовый инфракрасный Ballu BOGH-15E</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">560870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1482560875">
+            <model>Обогреватель для дома, тепловентилятор</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI234533462">
+            <model>Конвектор электрический термостат, ножки, 1500 Вт TDM</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">116770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI275263405">
+            <model>Инфракрасный настенный обогреватель Цветы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI178182524">
+            <model>Картина Обогреватель на стену инфракрасный Лагуна 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI528834513">
+            <model>Обогреватель для дома электрический с терморегулятором</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI321905433">
+            <model>Инфракрасный обогреватель BIH-AP4-1.0-M</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">79090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI607781883">
+            <model>Обогреватель напольный электрический для дома с увлажнителем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">94630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI167814453">
+            <model>Инфракрасный обогреватель BIH-LL-2.1-S</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">137000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI75763416">
+            <model>Обогреватель конвектор электрический RIBERA Meccanico 2000</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI292629507">
+            <model>Обогреватель настенный инфракрасный для дома картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI156637175">
+            <model>Инфракрасный обогреватель потолочный РЕСАНТА ИКО-2000К</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">122140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI959105572">
+            <model>Инфракрасный газовый обогреватель Ballu BIGH-3 3 кВт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">279840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI718888008">
+            <model>Обогреватель походный плита для дома и туризма 2в1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI534657175">
+            <model>ИК Обогреватель настенный пленочный картина корабль 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI324996875">
+            <model>Карбоновый обогреватель Zet-517</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">126720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI535973284">
+            <model>Тепловентилятор ветерок обогреватель для дома 2000 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI201922238">
+            <model>Обогреватель инфракрасный карбоновый 1200 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI182046338">
+            <model>Портативный Мини обогреватель Portable Heater</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI329960768">
+            <model>Инфракрасный настенный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI260414378">
+            <model>Инфракрасный обогреватель Париж</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI260687858">
+            <model>Картина Обогреватель на стену инфракрасный Камин 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI335709728">
+            <model>Настенный инфракрасный обогреватель "Камин"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI905039760">
+            <model>Эффективный настенный обогреватель для уютных помещений</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI292650725">
+            <model>Обогреватель масляный радиатор 9 секций,2400 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI863347005">
+            <model>Масляный радиатор ОМ- 7Н (1,5 кВт)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI330987735">
+            <model>Настенный обогреватель для дома картина Дзен 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI551686965">
+            <model>Обогреватель для дома электрический масляный радиатор 1500Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI260880555">
+            <model>Обогреватель для дома конвектор электрический 2000 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI45865137">
+            <model>Кварцевый обогреватель 400Вт настенный и напольный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI284049079">
+            <model>Обогреватель масляный 7 секций</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI184217981">
+            <model>Инфракрасный обогреватель BALLU BIH-S3-0.6</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1842378046">
+            <model>Обогреватель для дома электрический напольный с камином</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI614732886">
+            <model>Инфракрасный обогреватель потолочный RAGGIO A, до 60 кв.м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">106310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI152326855">
+            <model>Обогреватель конвектор электрический 1000 Вт, 15м FIORI</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1590290891">
+            <model>Обогреватель инфракрасный RH06 800Вт белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI275262425">
+            <model>Инфракрасный настенный обогреватель картина Водопад</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI265306140">
+            <model>Обогреватель кварцевый настенный энергосберегающий Floret</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI282517522">
+            <model>Конвектор SPOT DIGITAL 1000W</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">264310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI113411400">
+            <model>Газовый керамический обогреватель T-GS4-G10</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">113600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI329714954">
+            <model>Настенный обогреватель для дома картина Сквер 500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI184148026">
+            <model>Инфракрасный обогреватель Ballu BIH-APL-1.5-M</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1579495788">
+            <model>Обогреватель напольный электрический поворотный с камином</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">88840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1473689141">
+            <model>Обогреватель масляный радиатор для дома электрический</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1484234735">
+            <model>Обогреватель тепловентилятор напольный керамический 2500 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1274643258">
+            <model>Обогреватель для дома, Конвектор электрический 1500 Вт, Рэмо</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">92450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI178192271">
+            <model>Обогреватель для дома, электрический конвектор ОК-2000С</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI252312831">
+            <model>Камин уличный газовый инфракрасный Ballu BOGH-15</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">330580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI185086461">
+            <model>Обогреватель для дома электрический с вентилятором</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">358350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI723439941">
+            <model>Обогреватель настенный картина Город Теплофон 450 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI276686991">
+            <model>Обогреватель для дома, масляный радиатор ОМ-7НВ</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI267675921">
+            <model>Обогреватель инфракрасный NEOLINE INFRARED NRP-2000</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1153190451">
+            <model>Масляный радиатор Zerten MRS-20 обогреватель для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI180214677">
+            <model>Обогреватель для дома, масляный радиатор ОМ-5Н</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1507966544">
+            <model>Обогреватель настенный инфракрасный для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI959225886">
+            <model>Инфракрасный газовый обогреватель Ballu BIGH-3 3 кВт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">292580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1801793414">
+            <model>Радиатор масляный 9 секций обогреватель напольный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI37141124">
+            <model>Конвектор электрический обогреватель для дома ОК-EU-1500СН</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI179419558">
+            <model>Инфракрасный настенный пленочный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI275264132">
+            <model>ИК Гибкий настенный обогреватель Костёр</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI314655265">
+            <model>Обогреватель настенный инфракрасный для дома картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI552374621">
+            <model>Обогреватель для дома тепловентилятор ветерок 2 в 1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI315671968">
+            <model>Инфракрасный настенный обогреватель картина Сакура</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI527421362">
+            <model>Обогреватель для дома электрический тепловентилятор</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI159118737">
+            <model>Инфракрасный обогреватель BIH-GSW-0.8</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">80880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI75772100">
+            <model>Обогреватель конвектор электрический SORENTO Meccanico 1500</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI364844570">
+            <model>Обогреватель для дома инфракрасный керамический</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI143630062">
+            <model>Низкопрофильный конвектор с Х-элементом 1500 ВТ</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI541546094">
+            <model>Обогреватель напольный с увлажнителем HA-2200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">239060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI624869659">
+            <model>Керамический обогреватель для дома электрический</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI179546062">
+            <model>Обогреватель для дома, тепловентилятор ТВС-2</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI299162711">
+            <model>Керамический электрический обогреватель W300 CALACATTA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1274643257">
+            <model>Обогреватель для дома, Конвектор электрический 1500 Вт, Рэмо</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">92450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1842378047">
+            <model>Обогреватель напольный электрический керамический с пультом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI184148027">
+            <model>Инфракрасный обогреватель Ballu BIH-APL-2.0-M</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">105120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI633906107">
+            <model>Обогреватель для дома, конвектор ОК-1600Ч</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI179917952">
+            <model>Гибкий настенный обогреватель Камин</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI148060631">
+            <model>Инфракрасный настенный пленочный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI524941639">
+            <model>Тепловентилятор настенный, обогреватель ТВК-5</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI295504080">
+            <model>Обогреватель масляный для дома MRS-15 1500 Вт 7 секций</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI233396428">
+            <model>Инфракрасный настенный пленочный обогреватель картина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI174640862">
+            <model>Обогреватель для дома ТЭПК-2000K керамический ветерок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1706990755">
+            <model>Инфракрасный обогреватель напольный IRP-2400-QTM 2000 Вт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI276204731">
+            <model>Обогреватель для дома, электрический конвектор ОК-500</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI558064063">
+            <model>Обогреватель инфракрасный потолочный серии ECLIPSE, 1500 ВТ</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1507966543">
+            <model>Обогреватель настенный инфракрасный для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI109080673">
+            <model>Обогреватель конвектор электрический 1500 Вт/ 20м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI502247593">
+            <model>Обогреватель для дома инфракрасный керамический</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">137000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1801793362">
+            <model>Обогреватель масляный 9 секций с термостатом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">59860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI497501665">
+            <model>Обогреватель инфракрасный потолочный ИКО-1000</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI315396690">
+            <model>Обогреватель масляный WEN OH-07 (7 секций)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">111300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI502247585">
+            <model>Обогреватель для дома инфракрасный керамический</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">97570</cityprice>
             </cityprices>
         </offer>
     </offers>
