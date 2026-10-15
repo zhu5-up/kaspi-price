@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-15 20:51">
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-15 21:21">
     <company>16276143</company>
     <merchantid>16276143</merchantid>
     <offers>
@@ -6560,6 +6560,3006 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">97570</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI881140178">
+            <model>Турник 3 в 1 усиленный настенный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI617571040">
+            <model>Турник настенный 2 хвата</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">18330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI190665671">
+            <model>Турник распорный в дверной проем 70-100 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">13140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI567252697">
+            <model>Турник настенный 3 в 1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1252783287">
+            <model>Турник распорный 95-130см настенный в дверной проем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI279858351">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">18920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI212372062">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI996256650">
+            <model>Турник наддверный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">14530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI212372058">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1228890654">
+            <model>Турник напольный 3 в 1 с брусьями для дома и зала</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">90670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI453237392">
+            <model>Турник раздвижной распорный 72-95 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI525079459">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI863014704">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI188274095">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1500895298">
+            <model>Турник распорный для занятий спортом дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">19130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI996222377">
+            <model>Турник наддверный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">14530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI132717793">
+            <model>Турник распорный для дома в дверной проем 72-97см с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI863016673">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI529713090">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">17270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI237347730">
+            <model>Турник распорный в дверной проем с креплением 80-95 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">18080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI833472388">
+            <model>Турник распорный для дома 93-120 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">18350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI146523703">
+            <model>Турник распорный для дома в дверной проем 72-97см с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI612018650">
+            <model>Турник распорный для дома 115-150 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI612018644">
+            <model>Турник распорный для дома 72-97 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">16680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI40648786">
+            <model>Турник настенный наддверный "Классик" BLACK</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI122395284">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI837271687">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">17980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI535616720">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1443543338">
+            <model>Турник настенный усиленный, 3 хвата</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI431828048">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">15780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI104437860">
+            <model>Турник распорный для дома в дверной проем 72-97см с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI833472384">
+            <model>Турник распорный наддверный раздвижной для дома 72-97 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">16680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI229023414">
+            <model>Турник распорный раздвижной с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI201807669">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI40712583">
+            <model>Турник распорный BLACK в проем 110-125 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI243205645">
+            <model>Турник распорный в дверной проем с креплением 95-110 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">19490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI40704634">
+            <model>Турник распорный PRO в проем 80-95 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI25860647">
+            <model>Турник 3в1 Мультихват для шведской стенки</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI560830625">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI431829112">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">19040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI135563002">
+            <model>Турник распорный раздвижной с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI676114347">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI50137138">
+            <model>Турник распорный раздвижной в дверной проем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22760</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI46610609">
+            <model>Турник распорный раздвижной в дверной проем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI135563003">
+            <model>Турник распорный раздвижной с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI391220528">
+            <model>Турник брусья напольные для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">111300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1190778464">
+            <model>Турник распорный в дверной проем 120 -160 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">19910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI311752964">
+            <model>Турник наддверный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI137908806">
+            <model>Турник распорный для дома в дверной проем 72-97см с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI466303578">
+            <model>Турник распорный в дверной проем 73-100 см без сверления</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">16560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI373632654">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI237384159">
+            <model>Турник распорный в дверной проем с креплением 110-125 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI110347885">
+            <model>турник настенный для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">10720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI166804138">
+            <model>Турник распорный для дома в дверной проем 93-120см с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI529716033">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI237345003">
+            <model>Турник распорный в дверной проем с креплением 80-95 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">18080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI178010163">
+            <model>Турник наддверный на стену ONE S</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">15930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI366109016">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI453237393">
+            <model>Турник раздвижной распорный 93-120 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI40713085">
+            <model>Турник распорный COMFORT в проем 80-95 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI210358618">
+            <model>Турник-брусья G007Y</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">96020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI122396263">
+            <model>Шведская стенка (турник,лестница,кольца)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI311750458">
+            <model>Турник наддверный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI170998385">
+            <model>Серия "Профессионал": турник 3 в 1 усиленный настенный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI32345105">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI676116425">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI431828807">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">17270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1105416987">
+            <model>Турник напольный + Степпер POWER TOWER</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">154600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI788761617">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI117221428">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">18840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI482916422">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">17270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI46610608">
+            <model>Турник распорный раздвижной в дверной проем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI909817013">
+            <model>Турник распорный в дверной проем 68,5-95,5 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI766030791">
+            <model>Турник распорный в дверной проем 74-97 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI189761361">
+            <model>Турник распорный для дома в дверной проем 72-97см без уровня</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI237384160">
+            <model>Турник распорный в дверной проем с креплением 110-125 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI366109022">
+            <model>Турник настенный 3 в 1 усиленный брусья пресс для спорта дом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI584808855">
+            <model>Турник 3 хвата на шведскую стенку</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI724261155">
+            <model>Турник настенный 3 в 1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1689798407">
+            <model>Турник распорный раздвижной 95-135 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI178100926">
+            <model>Турник-брусья 2 в 1 Dop 1 для ДСК</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI34686548">
+            <model>Турник 3в1 брусья-пресс настенный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI117221444">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI109699814">
+            <model>Турник настенный 3 в 1 мультихват POWER брусья пресс 3 в 1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI17941424">
+            <model>Турник 3в1 Мультихват Усиленный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">97520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI25860646">
+            <model>Турник 3в1 Мультихват для шведской стенки</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI38080064">
+            <model>Турник настенный наддверный "Бизон" PRO</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI38706284">
+            <model>Турник наддверный "Бизон" COMFORT</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1045753124">
+            <model>Турник в дверной проем без сверления</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">18170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI25860644">
+            <model>Турник 3в1 Мультихват для шведской стенки</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI36112304">
+            <model>Турник на шведскую стенку Три хвата</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI57590978">
+            <model>Турник настенный "Тарантул" PRO - прорезиненные хваты</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">103990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI997624718">
+            <model>Турник брусья напольные для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI17671426">
+            <model>Турник Брусья Пресс 3 в 1 Мультихват</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">88150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI420822346">
+            <model>Турник на шведскую стенку Рукоход</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">92750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI232843838">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI212372798">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1070571788">
+            <model>Турник распорный в дверной проем без сверления (72-92 см)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402659978">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI39232328">
+            <model>Турник наддверный "Бизон" BLACK</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">68540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI120160306">
+            <model>Турник распорный в дверной проем для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI25774178">
+            <model>Турник Настенный Разборный "Мультихват"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI24862514">
+            <model>Турник 3в1 Мультихват настенный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1045577442">
+            <model>Турник в дверной проем без сверления</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">19490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI311747310">
+            <model>Турник настенный, наддверный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI239353452">
+            <model>Турник подвесной на цепях "NEW"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1005420222">
+            <model>Универсальный межкомнатный турник для домашних тренировок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI17671422">
+            <model>Турник Брусья Пресс 3 в 1 Мультихват</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">88150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI137913042">
+            <model>Турник распорный для дома в дверной проем 115-140 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI815117472">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">170220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI997625622">
+            <model>Турник брусья напольные для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1587022457">
+            <model>Турник распорный усиленный 69-104см с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1502389380">
+            <model>Турник раздвижной в дверной проем 850-1100 мм</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24570</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI697111320">
+            <model>Турник распорный в дверной проем 64-90 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">17810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI447733350">
+            <model>Турник настенный для спорта</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402657822">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI203924172">
+            <model>Турник настенный Y0010F</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI32404812">
+            <model>Брусья напольные для отжиманий хайлетсы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI46495890">
+            <model>Турник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI788760690">
+            <model>Брусья напольные для отжиманий хайлетсы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">72240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI117221442">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI526199112">
+            <model>Турник и брусья для дома навесной без сверления</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">15740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI13420855">
+            <model>Турник распорный в дверной проем 3 вида 62-100 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">13940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI837277547">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">17110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI420626935">
+            <model>Турник на шведскую стенку 3 хвата</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI75584976">
+            <model>Брусья напольные для отжиманий хайлетсы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI127816296">
+            <model>Вращающийся турник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI421494126">
+            <model>Турник настенный наддверный 100 см черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI65911896">
+            <model>Турник настенный VENOM COMFORT, с неопреновыми ручками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI46788606">
+            <model>Турник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">98500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI32345106">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI119936916">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI525043708">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI381857711">
+            <model>Турник настенный, наддверный потолочный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1421024081">
+            <model>Турник-брусья-пресс 3в1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI134628191">
+            <model>Турник распорный для дома в дверной проем 93-120см с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI65911901">
+            <model>Турник настенный VENOM PRO, прорезиненные хваты</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI420931121">
+            <model>Турник Мультихват 3в1 на Шведскую стенку</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI90184331">
+            <model>Турник Мультихват на шведскую стенку, белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">85580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI837274721">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402658637">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI57590965">
+            <model>Турник настенный "Тарантул" COMFORT - неопреновое покрытие</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">99760</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI137909418">
+            <model>Турник распорный для дома в дверной проем 93-120см с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI928272708">
+            <model>Турник напольный 3 в 1 для дома,Черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">130800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402660918">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI97610838">
+            <model>Турник распорный для дома в дверной проем 93-120см с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI396024288">
+            <model>Турник распорный, без сверления</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">17230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1160863608">
+            <model>Турник распорный в дверной проем 74-97 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402683238">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI612018648">
+            <model>Турник распорный для дома 93-120 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">18350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI141534259">
+            <model>Турник настенный Брусья Пресс 3 в 1 на раме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">212020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI269495218">
+            <model>Турник и брусья для дома навесной без сверления</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">15740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI518111158">
+            <model>Хомут для турника 89х42</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI143309119">
+            <model>Турник 120P в проем, без сверления стен для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI584808859">
+            <model>Турник на шведскую стенку, узкий хват (Антик)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI117221424">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402662179">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">170220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI560832949">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI420626934">
+            <model>Турник на шведскую стенку 3 хвата</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI781542984">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">17980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224566164">
+            <model>Турник складной брусья напольные для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">115340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI25894854">
+            <model>Турник 3 хвата на шведскую стенку</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI879368394">
+            <model>Стойка для подтягиваний и отжиманий D011</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">154300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI628003399">
+            <model>Турник настенный с двумя хватами "Apollo Plus"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI525078727">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402679029">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI65911899">
+            <model>Турник настенный "Классик" COMFORT с двумя перекладинами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">59370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI97608159">
+            <model>Турник распорный для дома в дверной проем 72-97см с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402675819">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI178100927">
+            <model>Турник-брусья 2 в 1 Dop 1 для ДСК</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI35987283">
+            <model>Турник брусья пресс 3 в 1 PREMIUM</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1230035403">
+            <model>Турник распорный наддверный раздвижной для дома 72-97 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">16680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI952935453">
+            <model>Турник раздвижной ONLYTOP, межпроёмный, 60-100 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">14550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI40646793">
+            <model>Турник наддверный "Буйвол" BLACK - стальное рифление</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI659411433">
+            <model>Турник 3в1 усиленный RP 2.0 до 300кг</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1479075266">
+            <model>Турник наддверный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI676116093">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI40712456">
+            <model>Турник распорный BLACK в проем 95-110 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI152336996">
+            <model>Турник настенный наддверный ГРТ005 до 200 кг</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI57590966">
+            <model>Турник настенный "Тарантул" BLACK - стальное рифление хватов</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">102340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI837268346">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI212372876">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI162594596">
+            <model>Потолочный турник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI836222786">
+            <model>Турник настенный с 2 хватами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI40704926">
+            <model>Турник распорный PRO в проем 95-110 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI837278437">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">15780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI212372057">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402648602">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI152336995">
+            <model>Турник настенный наддверный ГРТ005 до 200 кг</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI25878958">
+            <model>Турник Настенный Разборный "Рукоход"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI894325903">
+            <model>Турник распорный без сверления</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1465340533">
+            <model>Напольный турник с брусьями HOMEGYM SC-G740-1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">93170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI391220923">
+            <model>Турник настенный, наддверный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI742767673">
+            <model>Турник распорный для дома в дверной проем без сверления</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI26239843">
+            <model>Турник настенный Мультихват</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI234531433">
+            <model>Турник настенный для спорта 5 хватов</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI399268393">
+            <model>Тренажер для отжимания от пола</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI40714153">
+            <model>Турник распорный COMFORT в проем 110-125 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI391220188">
+            <model>Турник брусья напольные для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">107580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI136521574">
+            <model>Турник рукоход на шведскую стенку "Светофор"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">75500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402661234">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI529715434">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1230035404">
+            <model>Турник распорный для дома 93-120 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">18350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI270921424">
+            <model>Турник распорный для дома в дверной проем без сверления</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI198233734">
+            <model>Турник напольный 240 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">226640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI332643985">
+            <model>Турник складной брусья напольные для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">107580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523291027">
+            <model>Турник 3 в 1 настенный 2 хвата</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI332636522">
+            <model>Турник брусья напольные для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI222360127">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI586343585">
+            <model>Турник настенный с тремя хватами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI141526175">
+            <model>Турник настенный Брусья Пресс 3 в 1 на петлях</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">183960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI136521575">
+            <model>Турник рукоход на шведскую стенку "Светофор"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">73690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI836163215">
+            <model>Турник настенный с 2 хватами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI283668815">
+            <model>Турник для дома напольный 3 в 1 COMFORT</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">689470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI65911895">
+            <model>Турник настенный "Классик" BLACK с двумя перекладинами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">59670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI72822485">
+            <model>Турник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI53571305">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI37381925">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI40646495">
+            <model>Турник наддверный "Буйвол" PRO - прорезиненное покрытие</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI721448197">
+            <model>Турник настенный наддверный 110 см белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI391220341">
+            <model>Турник брусья напольные для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">107580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI807839911">
+            <model>Турник настенный с 4 хватами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI40713691">
+            <model>Турник распорный COMFORT в проем 95-110 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI72820231">
+            <model>Турник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI46788601">
+            <model>Турник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">98500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI518163181">
+            <model>Хомут для турника 89х42</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI26928091">
+            <model>Турник на шведскую стенку нагрузка до 250кг</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI152085211">
+            <model>Турник распорный раздвижной с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI57590962">
+            <model>Турник настенный 3 в 1 Брусья пресс VENOM BLACK на раме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">169990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI40649512">
+            <model>Турник настенный наддверный "Классик" PRO</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI909817012">
+            <model>Турник распорный в дверной проем 95-130,5 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI450240232">
+            <model>Турник раздвижной распорный без сверления</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI430289722">
+            <model>Турник настенный тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI609299392">
+            <model>Гимнастические кольца взрослые на турник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI65864482">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">17270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI757837252">
+            <model>Дверной турник SPORTSTECH KS500 со станцией для отжиманий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI707889058">
+            <model>Турник брусья напольные для помещений</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">108330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1479075267">
+            <model>Турник наддверный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI117221427">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI17440077">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI532196097">
+            <model>Турник 3 хвата на шведскую стенку "Светофор"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI430287507">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI420913377">
+            <model>Турник Брусья Пресс 3в1 Premium 40x40</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">102790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI13417437">
+            <model>Турник 3в1 Мультихват (5 хватов) Черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">102340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI482917678">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">19630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI40648472">
+            <model>Турник настенный наддверный "Классик" COMFORT</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI75584977">
+            <model>Брусья напольные для отжиманий хайлетсы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">73030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI212372060">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI420905150">
+            <model>Турник 3в1 на Шведскую стенку</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">105250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI453236600">
+            <model>Домашний напольный турник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">13770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI676118570">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI60911810">
+            <model>Турник настенный 3 в 1 Брусья Пресс VENOM BLACK, на петлях</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">164800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI237371600">
+            <model>Турник распорный в дверной проем с креплением 95-110 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">19350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI253846138">
+            <model>Турник настенный 3в1 для спорта 3 в 1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI120049648">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI833472392">
+            <model>Турник распорный для дома 115-150 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI504100828">
+            <model>Турник, брусья, пресс 3 в 1 до 250 кг</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI177687239">
+            <model>Турник брусья-пресс 3в1 настенный белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI201441119">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI46751969">
+            <model>Турник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">87670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI317640869">
+            <model>тренажер для отжиманий дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">12590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI57590969">
+            <model>Турник настенный складной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1515234839">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">18530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI683570999">
+            <model>Турник раздвижной в дверной проем 75- 100 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">14710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1229434919">
+            <model>Турник междверный раздвижной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI962419769">
+            <model>Турник напольный 3 в 1 для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">87210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI104437859">
+            <model>Турник распорный для дома в дверной проем 72-97см с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI431828425">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">18060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI505357973">
+            <model>Турник рукоход для шведской стенки для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">88980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI229023413">
+            <model>Турник распорный раздвижной с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI915292043">
+            <model>Турник белый усиленный настенный 3 хвата</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402659333">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1502514263">
+            <model>Турник раздвижной в дверной проем 1050-1300мм</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI273196793">
+            <model>Турник для скалолазов и силы хвата "Фингерборд" для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI16202647">
+            <model>Турник 3 хвата для шведской стенки</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1134900512">
+            <model>Турник уличный HUDORA Fabian Pro регулируемый 150 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">190990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI303078907">
+            <model>Турник распорный для дома в дверной проем без сверления</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI212372061">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI332644221">
+            <model>Турник складной брусья напольные для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">107580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI25860651">
+            <model>Турник 3в1 Мультихват для шведской стенки</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI627689391">
+            <model>Турник распорный в дверной проем 73-100 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI25770111">
+            <model>Турник настенный 3 в 1 мультихват брусья и пресс для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">89340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI60911811">
+            <model>Турник настенный 3 в 1 Брусья Пресс VENOM PRO, на петлях</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">164800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI757830621">
+            <model>Дверной турник SPORTSTECH KS600 с тренировочными петлями</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI542291571">
+            <model>Турник в дверной проем FitTop</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI232836898">
+            <model>Турник распорный в дверной проем раздвижной для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">13200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI627741640">
+            <model>Турник распорный в дверной проем 90-120 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI26239840">
+            <model>Турник настенный 3 хвата</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI65911900">
+            <model>Турник настенный "Классик" PRO с двумя перекладинами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">59370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402671380">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI57590980">
+            <model>Турник настенный 3 в 1 Брусья пресс VENOM COMFORT, на раме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">196820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI402660640">
+            <model>Турник настенный 3 в 1 брусья пресс тренажер для спорта дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI25777510">
+            <model>Турник на шведскую стенку Три хвата</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI120216550">
+            <model>Турник настенный 3 в 1 усиленный треххватный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI17941420">
+            <model>Турник 3в1 Мультихват Усиленный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">97520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI627646540">
+            <model>Турник распорный в дверной проем 120-150 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI132722110">
+            <model>Турник распорный для дома в дверной проем 72-97см с уровнем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI43085800">
+            <model>Турник 3в1 для шведской стенки Белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">124890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI482917180">
+            <model>Турник настенный для спорта тренажер спортивный инвентарь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI316237738">
+            <model>Турник напольный с брусьями</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">351490</cityprice>
             </cityprices>
         </offer>
     </offers>
