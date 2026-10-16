@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-15 22:27">
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-16 16:49">
     <company>16276143</company>
     <merchantid>16276143</merchantid>
     <offers>
@@ -14440,6 +14440,4006 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">25780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI483259539">
+            <model>Эва коврики Haval Jolion передний привод с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1332950367">
+            <model>Авто коврик органайзер в багажник с белой окантовкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI785350645">
+            <model>ЕВА коврик в багажник Lada Vesta SW (с фальш полом), EVA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI754799577">
+            <model>Коврики в салон Lada Niva 2123 2020-2021/Niva Travel 2021-</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1207390719">
+            <model>ЕВА коврики в салон Hyundai Solaris I 2010-2017/ Kia Rio III</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI754799538">
+            <model>Коврики в салон Haval Jolion 21-н.в. (вкл. рест I-II)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI608952915">
+            <model>Лада ларгус коврик в багажник органайзер</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI211545281">
+            <model>Ламинированные бумажные коврики для автомобиля (500 штук)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1027364259">
+            <model>Эва коврики в салон авто Фольксваген Поло 5 полный комплект</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI759878791">
+            <model>Коврик в багажник Lada Granta седан 2011-н.в. (вкл. Рест.)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1082784190">
+            <model>Коврики с бортами ВАЗ 2108 - 2115 имитация кожи</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI294024393">
+            <model>Коврик в багажник с органайзером в машину</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI65384210">
+            <model>Коврики Ева, Эва для Ваз 2108-2115, Самара</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI936501021">
+            <model>Эва коврики для Haval M6 с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI984428152">
+            <model>ЕВА коврики в салон Lada Niva Legend/Urban</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI917144256">
+            <model>Коврики в салон Lada Largus I рест 7 мест 2021-н.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI759878754">
+            <model>Коврик в багажник Geely Monjaro 2022-н.в./Volga K50</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI808772424">
+            <model>Коврик в багажник Lada Iskra (Лада Искра) I универсал 2024-</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI984428136">
+            <model>ЕВА коврики в салон Lada Vesta 2015-2023 (вкл. Cross и CNG)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI482033303">
+            <model>Коврики в машину Эва для Лада Гранта Lada Granta 2011-н.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI917145544">
+            <model>Коврик в багажник для Changan CS75 Plus 2WD III 2024-н.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI820222293">
+            <model>Коврики в салон Chery Tiggo 7 Pro/ Tiggo 7L/ Tenet T7/T4L</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI960253743">
+            <model>Эва коврики для Kia Rio 4 Hyundai Solaris 2 с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI329697962">
+            <model>Ковер пола для автомобиля Нива 2121, 21213, 21214</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1160530371">
+            <model>Коврик в багажник Mazda CX-5 II 2017-н.в. (вкл. рестайлинг)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI220612548">
+            <model>Авто коврики EVA(ЭВА) с бортами на Приора ВАЗ 2110-12</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI218926743">
+            <model>Авто коврики EVA(ЭВА) из имитации кожи на Приора ВАЗ 2110-12</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI249791512">
+            <model>Авто коврики EVA (ЭВА) с бортами на MITSUBISHI LANCER 10</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI858963024">
+            <model>Авто коврики EVA в салон AUDI Q3 II (F3) КИТАЙ 2018-2026</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI816612022">
+            <model>Коврик в багажник Lada Vesta I/ Vesta NG седан 2022-н.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1109955890">
+            <model>Коврики в салон для Jaecoo J6/Jeland J6, полиуретан</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI820222246">
+            <model>Коврики в салон Haval M6 (Хавал М6) II 2021-н.в., полиуретан</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI215403427">
+            <model>Автоковрики Ева для Лада Гранта FL, Калина с подпятником</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI389938170">
+            <model>Коврики в машину EVA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1186856156">
+            <model>Ева ковры на 2108-09, 21099, 2113-15 3D Лапа черн. кант</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1082671496">
+            <model>Коврики с бортами Лада Приора Ваз 2110 - 2112 имитация кожи</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1186854674">
+            <model>Ева ковры на Ларгус(Largus) 7 мест</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI966906650">
+            <model>Коврик в багажник универсальный в седан</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI808772430">
+            <model>Коврики в салон Kia Sportage (Киа Спортейдж 5) V (NQ5)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI817810937">
+            <model>Эва коврики для LADA PRIORA 2013-2018 с бортами EVA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI499143708">
+            <model>Авто коврики EVA ЭВА с бортами на Лада Гранта Калина Datsun</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI444574862">
+            <model>Универсальные влаговпитывающие авто коврики с 3d рисунком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1149268690">
+            <model>ЭВА коврики с бортами Tenet T4L, Tenet T7, Chery Tiggo 7</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1235391460">
+            <model>Эва коврики для Renault Sandero 1 с бортами Рено Сандеро 1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI863527910">
+            <model>Коврики в салон Hyundai Sonata VIII DN8 2019-н.в, полиуретан</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1186854827">
+            <model>Ева ковры Gazel 3д лапа</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI295321874">
+            <model>Автомобильные ева коврики в машину HONDA CR-V 3</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI204558690">
+            <model>Коврики в багажник Geely Monjaro 2021-2026, Джели Монжаро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI109007090">
+            <model>Автомобильные эва коврики в машину TOYOTA RAV4 XA40</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI541335279">
+            <model>Автомобильный коврик LADA GRANTA CROSS (Лада Гранта)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI192993362">
+            <model>Автомобильные эва коврики в машину TOYOTA CAMRY XV50, XV55</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI492238334">
+            <model>Коврик в багажник универсальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI222965672">
+            <model>Авто коврики EVA (ЭВА) в Газель, Бизнес, Соболь, Баргузин</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI279373874">
+            <model>Накидка на панель грузовое DAF 105</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">68630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1136560161">
+            <model>Эва коврики в салон авто ВАЗ 2101-2107 полный комплект</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI170375145">
+            <model>Коврики для автомобиля Хавал HAVAL JOLION Eva</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1264930221">
+            <model>Резиновые коврики для ВАЗ 2108-21099, 2113-2115, с бортиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI389947191">
+            <model>Коврики в машину EVA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI219248362">
+            <model>Авто коврики EVA(ЭВА) из имитации кожи на Kia Rio3 Solaris 1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI863527952">
+            <model>ЕВА коврик в багажник Lada Granta лифтбек I 2011-н.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1192127223">
+            <model>Автомобильный коврик органайзер в багажник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI163248961">
+            <model>Eva коврики для TOYOTA WISH 2WD 3 ряда 2012-2017 Правый руль</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI288834525">
+            <model>Чехлы в багажник Chery Tiggo 4 pro, Черри</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI65384900">
+            <model>Автомобильные резиновые коврики для Ваз 2108-2015</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI496642549">
+            <model>5д коврик в багажник универсальный органайзер в машину</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1313428032">
+            <model>Автомобильные EVA коврики в Kia Seltos IR CN</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI200850643">
+            <model>Коврик в багажник HAVAL M6 2021-2026, Хавал М6</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI220610581">
+            <model>Авто коврики EVA (ЭВА) с бортами на LADA НИВА УРБАН</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI188666115">
+            <model>Коврики ламинированные для автомобиля Следы 405х525мм, 500шт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI618580377">
+            <model>EVA коврики в машину на зад FORD FOCUS 2 (Форд Фокус 2)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1179475347">
+            <model>Коврик в багажник с высокими бортами Changan CS 55 Plus</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1136560167">
+            <model>Эва коврики в салон авто Фольксваген Поло 5 полный комплект</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI321990177">
+            <model>ЭВА Ева коврики на Газель</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI754799457">
+            <model>Коврики в салон для Geely Monjaro 21-н.в./Volga K50</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI370976376">
+            <model>Changan CS55 Plus, UNI-S кроссовер коврики в салон эва ева</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1113522104">
+            <model>Коврик в багажник Kia K5</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI137737922">
+            <model>Ковролин (ковер) пола для Ваз 2101,02,03,04,05,06,07</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI754799583">
+            <model>Коврики в салон Changan CS55 Plus/UNI-S 2024- FWD</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI431000168">
+            <model>Накидка на приборную панель Toyota sienta XP170</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI831059256">
+            <model>Коврик в багажник Chery Tiggo 7L I 2024-/TenetT7 I 2025-</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI216040835">
+            <model>Ковры для SITRAK C7H кожаные 3D</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI221030285">
+            <model>Авто коврики EVA (ЭВА) с бортами на Cruze-1 Opel Astra J</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI65406035">
+            <model>Коврики Ева, Эва для лада Гранта, Калина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI236921956">
+            <model>EVA коврик в машину FORD FOCUS 2 (Форд Фокус 2)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI554609086">
+            <model>Коврики Eva для машины Changan CS55 Plus, UNI-S кроссовер</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI831059296">
+            <model>ЕВА коврик в багажник Lada Granta седан I 2011-н.в. EVA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI327231916">
+            <model>ЭВА Коврик в багажник Hyundai Solaris 1 седан</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1136560171">
+            <model>Эва коврики в салон авто Приора полный комплект</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1056737077">
+            <model>Автомобильные ева коврики в Хонда HONDA VEZEL</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI585718474">
+            <model>Ковролин салона для ваз 2108-21099, 2113-2114, 2115</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI771027355">
+            <model>Коврики в салон Haval Dargo 2022-н.в./H6 III, полиуретан</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI221029105">
+            <model>Авто коврики EVA (ЭВА) с бортами на SKODA OCTAVIA A5</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI375682465">
+            <model>Коврики автомобильные Газель</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI236933483">
+            <model>Автомобильный эва коврик в LADA NIVA 2121,URBAN Нива 2121</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI367575533">
+            <model>Эва Коврики Киа Рио 3 Kia Rio3/Hyundai Solaris1 EVA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI865068683">
+            <model>ЭВА коврики для ВАЗ 2101-2107, соты с бортиком, полики</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI951659183">
+            <model>Коврики в машину Toyota Land Cruiser 200 2007 - 2012 эва</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI759878392">
+            <model>Коврик в багажник Lada Vesta I универсал без фальшпола</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI541716266">
+            <model>Автомобильные эва коврики в машину RENAULT SCENIC</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI754799475">
+            <model>Коврики в салон Lada Niva Legend 2121 2021-, полиуретан</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI83361806">
+            <model>Коврики для ВАЗ Lada Priora 2170 2007-2018</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI444571086">
+            <model>Универсальные влаговпитывающие авто коврики с 3d рисунком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI790435160">
+            <model>Коврик ЭВА в багажник Volkswagen Tharu XR</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI274320581">
+            <model>Коврик в багажник универсальный органайзер</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI149026924">
+            <model>Коврик багажника Toyota RAV4 3 поколение</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI264040940">
+            <model>Eva коврики для Toyota Yaris Cross 2WD 2021-н.в. Правый руль</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI808772441">
+            <model>Коврики в салон Changan Uni‑K (Чанган Юни-К) 2020-н.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI978732368">
+            <model>Коврики в машину Geely COOLRAY BELGEE X50 с бортиками EVA 5D</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1065466289">
+            <model>Эва коврики Chery Tiggo 7 Pro МАХ с пресс бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI808772443">
+            <model>Коврики в салон Hyundai Tucson (Хендай Туксон 4) IV 2020-</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI238874466">
+            <model>Авто коврики с бортами Черри Тигго7\7Pro\7ProMAX</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI498865560">
+            <model>Автомобильные коврики ЭВА для LADA VESTA 2015 - н.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47760</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI247517868">
+            <model>3D EVA коврики Toyota Carina 7 1996-2001 T210 правый ЭВА</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI303748603">
+            <model>ЭВА Коврик в багажник ВАЗ 2114, 2109 - имитация кожи</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI585093070">
+            <model>Коврик в багажник автомобиля Мазда CX5 (СХ 5) 2, Mazda eva</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1144614910">
+            <model>Резиновые Эва соты Газель 3302, с бортиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI504925930">
+            <model>Коврик в багажник с органайзером Lada Largus</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI447687490">
+            <model>Коврик в багажник Lada Largus</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI190618240">
+            <model>Коврик в багажник с органайзером</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1125060040">
+            <model>Резиновые коврики сетка в салон для Gac Trumpchi S7</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI995242810">
+            <model>Коврик в багажник для Mitsubishi Eclipse Cross</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI240444190">
+            <model>7D коврики Daewoo Nexia N100 (N150)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI247731460">
+            <model>Коврик в багажник с органайзером</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI232956370">
+            <model>EVA коврик в машину KIA SPORTAGE 4 (Киа Спортейдж 4)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI166044040">
+            <model>Накидка на панель Веста</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1274748550">
+            <model>Ворсовые коврики для Mercedes-Benz E-Class W212 2009-2016</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1264096120">
+            <model>Коврики в машину Toyota Land Cruiser 200 2012 - 2021</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI578124160">
+            <model>Коврик в салон 3D для MITSUBISHI Outlander 2012-2015, 2015-н</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI313641790">
+            <model>EVA Коврик в багажник FORD FOCUS 2 Хэтчбек (Фокус 2)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI399603765">
+            <model>Ворсовые коврики на Mercedes-Benz GL GLS GLE M-Class 166</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">98180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI210927730">
+            <model>Коврик в багажник с органайзером</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI453975430">
+            <model>Коврик в багажник с высокими бортами и органайзером</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1390666394">
+            <model>Коврик в багажник с высокими бортами Volkswagen Tharu</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI449089510">
+            <model>Коврик в багажник с органайзером</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI225078460">
+            <model>Авто коврики EVA (ЭВА) с бортами на Daewoo matiz</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI956042503">
+            <model>Автомобильные коврики в машину eva BELGEE X70 (Белджи Х70)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI398644844">
+            <model>3D Коврики Honda Civic 8 06-12 Эва с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI401029815">
+            <model>Коврик в багажник LEXUS LX 570 Toyota LC200 7 мест</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1313572368">
+            <model>Автомобильные коврики в салон Voyah Passion</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI482392861">
+            <model>Автомобильные эва коврики в машину Volkswagen Tayron</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI188408912">
+            <model>Коврик в багажник универсальный от грязи влаговпитывающий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI837873827">
+            <model>ЭВА коврики с бортами Tenet t7</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI102474214">
+            <model>Коврик ЭВА в багажник Рено Дастер</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI754799468">
+            <model>Коврики в салон для Haval Jolion 21-н.в. (вкл. рест I-II)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI541335302">
+            <model>Автомобильные ева коврики LADA Vesta Sportline</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI711891129">
+            <model>Коврики Эва для HONDA STEPWGN 5 (RP) 2015-2021 Бензиновый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1251587739">
+            <model>Коврики 3D в салон VOLKSWAGEN Passat B8 2014- правый руль</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">83750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1186854849">
+            <model>Ева ковры на Гранта (Granta) 2190 3Д синий кант</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1572104439">
+            <model>Коврики в машину Lada Granta с бортиками EVA 5D</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI915750099">
+            <model>Ворсовые коврики BMW 5 F10 2010-2017 г.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI99065979">
+            <model>Автомобильный эва коврик в багажник MITSUBISHI OUTLANDER 3</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI776100699">
+            <model>Коврики салона для а/м ВАЗ 2101-2107 с перемычкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI65199219">
+            <model>Автомобильные резиновые коврики для Лада Приора</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI152755989">
+            <model>Коврики в машину Skoda Octavia A8</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI989534979">
+            <model>Коврики для Volkswagen T-Roc</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1144628829">
+            <model>Резиновые Эва соты Volkswagen Polo Rapid, с бортиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI473053899">
+            <model>Резиновые коврики Нива (2121-2131)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1284919899">
+            <model>Эва, Ева Коврики Kia Rio3/Hyundai Solaris1 EVA, с Бортами 3D</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI551730554">
+            <model>Коврики EVA с бортами в машину Хендай Солярис 2 и Киа Рио 4</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1186857489">
+            <model>Ева ковры Gazel NEXT (с джостиком) 3Д лапа</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI237924009">
+            <model>3D EVA коврики с бортами Kaiyi X3, Каи Х3 Pro</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1141641857">
+            <model>Коврики на VOLVO FH 13 с 2013г.в по н.в</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI141072061">
+            <model>Автомобильные эва коврики в машину MERCEDES BENZ (X204) GLK</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI326714732">
+            <model>Chery tiggo 7 pro max коврики в машину чери тигго с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI236920159">
+            <model>Автомобильный эва коврик в машину VOLKSWAGEN POLO 5 SEDAN</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI489367173">
+            <model>Ковер салона для автомобиля ВАЗ 2101-2107</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI585888227">
+            <model>Коврики для автомобиля Audi Q3 Ауди Q3 (Ку3) на F3</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">119200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI951405018">
+            <model>Коврики в машину Lada Iskra с бортиками EVA эва 5D</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI733150178">
+            <model>Коврик в багажник Audi Q3 (F3) 2018-нв Верхний, кроме Китая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI300297362">
+            <model>Коврик Eva в багажник Toyota Mark X X120 2004-2009</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1178180419">
+            <model>Эва коврики для Kia Optima 4 с пресс бортами Киа оптима 4</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI919550627">
+            <model>Коврики для Nissan Qashqai III в кузове J12</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI102249585">
+            <model>Коврик ЭВА в багажник Мазда 6 GG</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI585359145">
+            <model>3D Эва коврики на Changan x5 plus черно-красные соты</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI237850308">
+            <model>EVA (ЭВА) коврик в багажник Приора седан ВАЗ 2110</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1144728272">
+            <model>Полики 2107 с бортиком AutoDriver</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI164267433">
+            <model>Eva коврики для Nissan Skyline (R34) Правый руль 1998-2002</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI968657597">
+            <model>Коврик в багажник Honda Stepwgn</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI539394142">
+            <model>Коврик в багажник Toyota Ipsum (2001-2009) ACM21W</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI808478235">
+            <model>Коврики на Газель Некст</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI351471064">
+            <model>Коврики EVA на Opel Astra H хэтчбек универсал</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI837583868">
+            <model>Коврики для Шкода Октавиа А7</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI141702392">
+            <model>Коврики Чери Тигго 7 Про Макс, Xcite X-Cross 2024-</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">108900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI475942262">
+            <model>Коврики с бортом для Skoda Rapid 2</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI794909211">
+            <model>Коврики Хендай Элантра CN7 (2020-2025) с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1244937171">
+            <model>Накидка на панель Toyota Corolla</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI138721491">
+            <model>Коврики Газель</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI98644701">
+            <model>Ева коврики 3D на ВАЗ 2110 2170</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI196577301">
+            <model>EVA коврики в машину CHERY TIGGO 7 PRO MAX (7 Про Макс)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI483268941">
+            <model>Эва коврики в машину Джили Монжаро с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI191859081">
+            <model>Автомобильные эва коврики в машину TOYOTA CAMRY XV50,XV55</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI222991341">
+            <model>Авто коврики EVA ЭВА без бортов на Лада Гранта Калина Datsun</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI583195551">
+            <model>Коврики для автомобиля Лада Ларгус Стандарт, Lada Largus</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI951659181">
+            <model>Коврики в машину Toyota Camry XV 50, XV55 2011 - 2018 эва</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI630192261">
+            <model>Автомобильные EVA коврики в машину Audi A4 (B9)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI760494951">
+            <model>накидка на панель Hyundai Sonata 2004-2007 NF 5 пок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI506908851">
+            <model>В камри 70 машину xv70 эва коврики toyota с бортами camry</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1390236171">
+            <model>Коврик в багажник Tenet T7 - Тенет Т7</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI978801081">
+            <model>Коврики в машину Kia K3 CERATO 2022 - 2025 г.в. эва</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI221031201">
+            <model>Авто коврики EVA (ЭВА) с бортами на WV POLO 5</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI466056918">
+            <model>Коврики для Tenet T7, Chery Tiggo 7L</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">114820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1186884561">
+            <model>Коврик в багажник УАЗ Патриот органайзер</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI180272556">
+            <model>3D EVA коврики с бортами Газель Некст, Газель Next</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI759878253">
+            <model>Коврик в багажник Chery Tiggo 7 Pro/Tenet T7/T7L/X-Cross 7</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI42370639">
+            <model>ЭВА коврики в салон Nissan March K12</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI664344287">
+            <model>Коврики Eva для машины FORD FOCUS 3 c бортами Форд Фокус 3</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI756630465">
+            <model>Комплект ворсовых ковриков Lexus LX 570/450d 2012-2022г.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">88660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI329928110">
+            <model>Ковры кожаные 3D на KAMAZ 5490 NEO (от 2016г ) МКП</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI504641628">
+            <model>EVA коврик в багажник Geely Coolray (Джили Кулрей)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI220609219">
+            <model>Авто коврики EVA ЭВА с бортами на Лада Гранта Калина Datsun</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI197411856">
+            <model>Коврик ЭВА в багажник FAW Bestune B70, Фав Бестун Б70</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI502002232">
+            <model>Коврики ЭВА РОМБ для автомобиля Ford Mustang Mach-E 2020+</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI907568865">
+            <model>Эва коврики для Suzuki Grand Vitara 2 поколения с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI194272520">
+            <model>Автомобильные эва коврики в машину NIVA 2121,URBAN</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1147753471">
+            <model>Ворсовые коврики в машину KIA SPORTAGE 5 (SHOT) 2021-н.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">95140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI831059192">
+            <model>Коврики в салон Volkswagen Polo V 2010-2020</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI982673807">
+            <model>Коврики в салон Changan CS75 Plus полный привод 4WD IV 2025-</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI831058942">
+            <model>Коврики в салон Lada Largus I 5 мест 2012-н.в. (вкл. Cross)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI304567880">
+            <model>Универсальные влаговпитывающие авто коврики с 3d рисунком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI219251041">
+            <model>Авто коврики EVA ЭВА из имитации кожи на Kia Rio 4,Solaris 2</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI226828771">
+            <model>Автоковрики Ева для Гранта FL, Калина с подпятником</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI970397553">
+            <model>Коврики автомобильные эва в машину HAVAL Jolion</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224279567">
+            <model>EVA коврики в машину HYUNDAI SOLARIS 2 (Хендай Солярис 2)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI467359394">
+            <model>Автомобильные коврики ева в машину HAVAL F7 (Хавал Ф7)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1181401384">
+            <model>Коврики в машину Tenet T4 с бортиками EVA эва 5D</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI86307094">
+            <model>Автомобильные коврики ЭВА с бортом Киа Серато 4</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1332104462">
+            <model>Эва коврики для Lada Largus 7 мест с пресс бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI699255333">
+            <model>Коврик в багажник для Tenet T7 2025- 1 шт. полноразмерный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI264274956">
+            <model>ЭВА коврики на Газель Бизнес</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI250600852">
+            <model>Коврик в Багажник Лада Приора Седан 2007-2018г</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI138683930">
+            <model>Коврики в машину на пол резиновые автоковрики для Lada Niva</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI142208168">
+            <model>Коврики ЭВА Ромб для авто Хавал / Haval F7 (FX7) 2018-2022</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI184142976">
+            <model>Коврик ЭВА в багажник Рено Логан 1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI622989502">
+            <model>Коврики для машины Lada Granta</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI218927415">
+            <model>Авто коврики EVA(ЭВА) из имитации кожи на Приора ВАЗ 2110-12</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI975044944">
+            <model>Коврики автомобильные эва в машину Honda Vezel</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI140255299">
+            <model>Эва ковры 2190-2192 3Д Лапа черный кант</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI154059652">
+            <model>Коврики в машину reno duster 1 эва с бортами рено дастер 1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI152312085">
+            <model>Ворсовые коврики для Chevrolet Niva</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1041152071">
+            <model>Накидка на панель Toyota Prado 150 рестайлинг</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1030968578">
+            <model>Коврики в машину Tenet T4 с бортиками EVA эва 5D</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224981082">
+            <model>Коврики в салон Changan CS55 Plus 2021-26 TPE EVA 3D Premium</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">102030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI181556172">
+            <model>Коврик в багажник накидка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI541654182">
+            <model>Коврики Ниссан Тиида 1 (С11) пр. руль (2004-2013) с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI237537827">
+            <model>Коврик в багажник LiXiang L7</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">59040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1249282242">
+            <model>Эва коврики для Volkswagen Passat B6 с пресс бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI380893002">
+            <model>Коврики для Skoda Octavia A5 (09-13)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI250533312">
+            <model>Коврики в салон полиуретан Geely Monjaro (22-Н.В.)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1186855452">
+            <model>Ева ковры на 21213-21214 3Д Лапа Синий к.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI784118382">
+            <model>3D EVA коврики с бортами Киа Рио 4, Солярис 2, Kia Rio 4</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI327425292">
+            <model>Ковролин (ковер) пола для автомобиля Ваз 2110, 2111, 2112</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI291151722">
+            <model>Коврики автомобильные Хавал Джулион Джолион ева,эва</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI794910552">
+            <model>Коврики Хавал Ф7 2 Нью (4WD) (2024-2026) с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI192376602">
+            <model>Автомобильные эва коврики в машину TOYOTA RAV4 XA40</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI993948972">
+            <model>Резиновые коврики в салон подходят для Лада Приора - 2 шт.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI368784132">
+            <model>Коврик салонный резина Toyota Land Cruiser Prado 150 (09-17)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI309896982">
+            <model>Коврики салона для Рено Сандеро 1 Renault Sandero 1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI299223672">
+            <model>Авто коврики EVA (ЭВА) из имитации кожи на FORD FOCUS 3</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI116784792">
+            <model>3D EVA коврики с бортами Форд Фокус 3, Ford Focus 3</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI234900102">
+            <model>Коврики в автомобиль Lada Vesta NG I рест. 2022-25 Standard</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI166272057">
+            <model>Комплект 3D eva ковриков LADA PRIORA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI164218677">
+            <model>Коврики Toyota Wish передний привод (2003-2009) правый руль</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI255273687">
+            <model>Эва коврики Приора Ваз 2110 - 2112 с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI765206877">
+            <model>Накидка на панель Opel Vectra B 1993-2003</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI214854807">
+            <model>Honda Stream 1 2000-2006 2WD RN1 3 ряда</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246976964">
+            <model>Эва коврики в машину Daewoo Nexia 1995-2016г</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20570</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI303376497">
+            <model>3D EVA коврики с бортами Hyundai Santa Fe, Santa Fe Classic</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI936715527">
+            <model>Эва коврик в багажник для Honda Fit 4 2019-н.в Бензин</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI197007507">
+            <model>EVA коврики в машину FORD FOCUS 2 (Форд Фокус 2)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI236922717">
+            <model>EVA коврик в машину FORD FOCUS 2 (Форд Фокус 2)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI475787697">
+            <model>FAW J7 "тягач" ковры кожаные в салон</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI362371047">
+            <model>Коврики eva c 3Д бортами Granta PRESS CITY, красные</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI174715473">
+            <model>Эва коврики в машину Лада Приора ВАЗ 2110-2112</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI321897057">
+            <model>Коврик в багажник BMW X6 E71 2007-2014</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI963776508">
+            <model>Модельные коврики в салон для Jetta VS5 2019-н.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI253118104">
+            <model>Накидка на панель Honda Elysion</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1097322218">
+            <model>Ворсовые коврики ВАЗ 2110, 2111, 2112 черный кант</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI814891622">
+            <model>Коврики в салон Geely Atlas (Джили Атлас) II 4WD</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI444271093">
+            <model>omoda c5 коврик в багажник</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI436857707">
+            <model>Ворсовые коврики в машину Geely Monjaro</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74760</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI967624626">
+            <model>EVA коврики в машину GEELY Monjaro (Джили Монжаро)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI266386200">
+            <model>эва коврики для грузовика JAC N75 80 90 120 2018-н.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1111305980">
+            <model>Коврик в багажник Nissan X-trail T31 T30 органайзер</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI951659178">
+            <model>Коврики в машину Renault Logan 2, Stepway 2013 - 2022 эва</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1287267992">
+            <model>Эва коврики для Lada Largus 5 мест с пресс бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI39049813">
+            <model>Коврик ЭВА в багажник Лада Гранта</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1136560168">
+            <model>Эва коврики в салон авто Лада Гранта полный комплект</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI831918178">
+            <model>Эва коврики для Volkswagen TIguan 2 пок. 2016-2026 с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI195093418">
+            <model>Автомобильные эва коврики в машину TOYOTA COROLLA 10</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI401029618">
+            <model>Коврик в багажник Volkswagen Touareg 2 NF/FL 2010-2017 4х з</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1218175978">
+            <model>Коврик в багажник Mitsubishi Pajero 4 органайзер</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI177157978">
+            <model>Эва коврики в машину ВАЗ 2101-2107</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI228186058">
+            <model>Коврик в багажник Volkswagen Polo седан черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI177320938">
+            <model>Коврики Hyundai Tucson 1 Хендай Туксон Тускан Хендай</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI473040868">
+            <model>Резиновые коврики Лада Приора, ВАЗ 2110-2112</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI966339975">
+            <model>Накидка на панель приборов Honda Stepwgn</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI210330181">
+            <model>3D EVA коврики Toyota Corona Premio 1996-2001 правый руль</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI180487801">
+            <model>3D EVA коврики с бортами Ситроен С4 Аиркросс, Citroen C4</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI39213993">
+            <model>Коврик ЭВА в багажник Hyundai Solaris</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI401029746">
+            <model>Коврики в салон для LEXUS RX 2015-2022 Оригинал</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1186858342">
+            <model>Ева ковры на 2170 черный кант</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI299228055">
+            <model>Авто коврики EVA (ЭВА) с бортами в Ford Focus 3</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI446799438">
+            <model>Коврик в багажник chevrolet niva и niva travel</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI141280178">
+            <model>Коврики для Нива Шевроле передние</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI275009182">
+            <model>Коврики автомобильные резиновые Лада Гранта Калина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI197426985">
+            <model>Коврик в багажник Mazda Axela 2003-2008 года Седан BK</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI501296694">
+            <model>Автомобильный коврик в багажник Haval M6 Хавал M6</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI893279964">
+            <model>Передние коврики Лада Гранта Пикап Датсун</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI471344994">
+            <model>Коврики ВАЗ 2107-2101 "Классика", ЭВА</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1136560164">
+            <model>Эва коврики в салон авто Фольксваген Поло 6 полный комплект</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI865068684">
+            <model>Резиновые коврики для Нива 2121, 21213-21214 3 двери, бортик</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI837174654">
+            <model>Коврик в багажник с высокими бортами Tenet T7</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI377482614">
+            <model>3D EVA коврики с бортами Geely Coolray, Кулрэй, Belgee X50</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI970397629">
+            <model>Автомобильные коврики эва в машину HAVAL F7</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI604358117">
+            <model>Шумоизоляция (обивка) капота Нивы 2121-2131 с крепежом.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI270475728">
+            <model>ЭВА коврики для Chery Tiggo 7 pro Elite</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI998884310">
+            <model>Эва коврики в авто Changan UNI-S 2026 1 рест</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI101666448">
+            <model>Коврик ЭВА в багажник Чанган CS35 ПЛЮС</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI225589369">
+            <model>Обшивка багажника ВАЗ 2107</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI489315232">
+            <model>Ковер пола для автомобиля Лада Гранта, Калина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI141618470">
+            <model>ЭВА коврики в салон на 3 ряда Mitsubishi Outlander</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI231717274">
+            <model>Eva коврики для Belgee X50, X50+, Geely Coolray и рестайлинг</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI699149288">
+            <model>Эва коврики Haval F7 1 поколение с бортами EVA Хавал Ф7</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI345752389">
+            <model>Коврик автомобильный 4 шт текстильный в подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI668462736">
+            <model>Eva коврики TOYOTA IPSUM 2 (M20) 2001-2009 3ряда Правый руль</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI238761605">
+            <model>Авто коврики EVA (ЭВА) с бортами на Kia Rio3 Solaris 1</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI759878615">
+            <model>Коврик в багажник Geely Atlas FX11/Volga K40/Geely Boyue L</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI668599325">
+            <model>Ковер пола 3309, "Земляк"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI613583375">
+            <model>Коврики ЕВА с бортами Jaecoo J7</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI328986335">
+            <model>Автомобильные эва коврики в машину MERCEDES E-CLASS 3</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1027364255">
+            <model>Эва коврики в салон авто Лада Веста полный комплект</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI523561895">
+            <model>Автомобильные ева коврики в машину Soueast S09</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI236932925">
+            <model>EVA коврик в машину FORD FOCUS 2 (Форд Фокус 2)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI343150265">
+            <model>Ворсовые коврики в салон Mercedes GLK- I (X204) (2008-2015)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI759799265">
+            <model>Eva коврики с бортами для LADA VAZ 2110 2111 2112</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI820222295">
+            <model>Коврики в салон GAC GS8 (ГАК ГС8) II 2021-н.в., полиуретан</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI831059015">
+            <model>Коврики в салон для Changan Eado Plus</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1012180475">
+            <model>Коврик в багажник Honda Freed органайзер</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI865068665">
+            <model>Резиновые коврики для Лада Веста 2180, полики с бортиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI368765358">
+            <model>Коврик салонный резиновый Toyota Camry 50/55 (11-18)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI165784928">
+            <model>Эва коврики в машину Лада Нива Шевроле Нива</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI505863379">
+            <model>Автомобильные эва коврики в Niva Legend 2121, Нива Urban</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI221957766">
+            <model>Автомобильные эва коврики в SKODA FABIA 2 (Шкода Фабиа 2)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI53743830">
+            <model>Ева ковры на 2110, 2111, 2112 3Д синий кант</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1127634858">
+            <model>Чехол багажника Belgee X50 Белджи</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI814891608">
+            <model>Коврик в багажник Lada Largus 5 мест I 2012-н.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI286293556">
+            <model>Коврики Belgee X50 Plus (2026-н.в), Geely Coolray (2019-н.в)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI214106566">
+            <model>Коврик в багажник Geely Coolray рестайлинг 1, 2 , Кулрей</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1249282246">
+            <model>Эва коврики для Hyundai Santa Fe 3 поколение с пресс бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI951659176">
+            <model>Коврики в машину Lada Vesta эва с бортиками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI192375496">
+            <model>Автомобильные эва коврики в машину TOYOTA RAV4 XA30</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI434003176">
+            <model>Коврики в салон для Honda Vezel 2013-2021 правый руль</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI37640896">
+            <model>Коврики Nissan Terrano R50 п.р Ниссан Террано Р50 1995-2002</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1052784796">
+            <model>3D Эва коврики в салон и багажник на Changan Uni-Z терракот</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI817013416">
+            <model>Коврик в багажник для Haval H6 (Хавал Н6) III 2020-н.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1179504556">
+            <model>Коврик в багажник с высокими бортами Changan CS 35 Plus</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI964160506">
+            <model>Коврики в машину Kia Sportage 5 2021 - 2025 эва с бортиками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI368791696">
+            <model>Коврик салона резиновый Toyota Land Cruiser 200 (15-21)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI618095313">
+            <model>Коврики eva с 3Д бортами Haval F7/F7x I поколение черн</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI208700040">
+            <model>эва коврики в машину Mercedes-Benz E W124 1984-1996</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1186856150">
+            <model>Пресс-форма EVA ковры на 2108-09, 21099, 2113-15 кр. кант</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI309897038">
+            <model>Коврик в багажник для лада гранта лифтбек</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI287893983">
+            <model>Автомобильные коврики ева в машину HAVAL F7</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI301529207">
+            <model>Коврик в багажник универсальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI599291467">
+            <model>3D EVA коврики с бортами TENET T8, ТЕНЕТ Т8</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI716106367">
+            <model>Коврик Багажника Geely Starship 7 (GEELY EX5 EM-i) бежевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI274736167">
+            <model>Автомобильные резиновые коврики для Лада Гранта, Калина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI863737147">
+            <model>Коврики в салон резиновые Хендай Крета 2017-2021г</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1177388677">
+            <model>Коврик в багажник для TOYOTA RAV 4 (XA60) 2025-</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI206756497">
+            <model>Ковры на SITRAK C7H кожаные 3D</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI467432407">
+            <model>Автомобильный коврик в Daewoo Nexia 1 (Део Нексия)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI398646067">
+            <model>Эва коврики Лада Веста с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI820222267">
+            <model>Коврики в салон Changan CS35 Plus 18-24 (вкл рест 21-н.в.)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1555261027">
+            <model>Коврики Volkswagen Tayron 1 Фольксваген Тайрон 2018-2026</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI915750667">
+            <model>Ворсовые коврики Kia Cerato 4 с 2018 г.в.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI370976377">
+            <model>Changan CS55 Plus, UNI-S кроссовер коврики в салон эва ева</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI853072245">
+            <model>Коврики автомобильные</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">111360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI241021748">
+            <model>Коврик в машину универсальный органайзер на спинку для авто</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI225081439">
+            <model>Авто коврики EVA (ЭВА) с ботами CHEVROLET lacetti лачетти</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1177291626">
+            <model>Ворсовые коврики для TOYOTA LAND CRUISER 200 Рестайлинг</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI474605070">
+            <model>Накидка на панель BMW X5 E53 1999-2006</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI223025764">
+            <model>Коврики автомобильные Eva 3D Ваз 2101-2107</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1331603851">
+            <model>Коврик в багажник для Tenet T7 полноразмерная запаска</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI452468828">
+            <model>Ева коврики с бортами Опель Астра J</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI235818483">
+            <model>Коврик в багажник Haval Jolion органайзер</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1237659955">
+            <model>3д коврики авто экокожа ворс для Kia K5 L III 2019-2026</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">110770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI339050875">
+            <model>Комплект ковриков салона для Toyota Tank</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1287044725">
+            <model>Эва коврики для Renault Logan 1 пок. 2004-2015 с бортами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI315805945">
+            <model>Автомобильные эва коврики в машину MERCEDES GLS</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI214564045">
+            <model>EVA коврики в машину HYUNDAI CRETA 2 (Хендай Грета 2)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI962114065">
+            <model>Коврики в салон Honda Freed 2016-2023 6 мест НЕ ГИБРИД</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI574560535">
+            <model>Коврики в салон для TOYOTA Camry VIII, IX (XV70; XV80) 2017-</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI837174655">
+            <model>Коврик в багажник с высокими бортами Tenet T8</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI964377751">
+            <model>Коврики в машину Toyota Corolla Е210 2018 - 2025 эва</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI494213268">
+            <model>Коврики салона резиновые для Форд Фокус 3, Cота</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI582168758">
+            <model>Эва коврики для авто Chevrolet Niva Нива Шевроле Тревел</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1151104623">
+            <model>Eva коврики с бортами для BMW X1 F48 2015-2022 Правый руль</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI754876223">
+            <model>ЕВА коврик в багажник для Lada Vesta I седан 2015-н.в., EVA</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI317727233">
+            <model>Коврики эва Honda Fit Shuttle GP2 (2011-2015) правый руль</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">59540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI187570643">
+            <model>Коврики в машину Лада Веста Премиум I NG рестайлинг</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">119200</cityprice>
             </cityprices>
         </offer>
     </offers>
