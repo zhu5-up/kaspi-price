@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-17 00:42">
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-17 17:06">
     <company>30482413</company>
     <merchantid>30482413</merchantid>
     <offers>
@@ -36140,6 +36140,796 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">31480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI182024743">
+            <model>Снегокат детский с ручкой и складной спинкой TW2+</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI535611112">
+            <model>Снегокат "Тимка спорт 6" ТС6/П с пингвинятами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI293040199">
+            <model>Снегокат с колесами, со спинкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">79810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495669190">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI244804148">
+            <model>Снегокат "Тимка спорт 6" ТС6-М/ЕР с единорогом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">83740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI535611117">
+            <model>Снегокат "Тимка спорт 6" ТС6-М/К космический</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">83740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495670359">
+            <model>Снегокат детский, санки на лыжах с родительской ручкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI541371249">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI481269197">
+            <model>Самокат снегокат трюковой для детей с лыжами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495682964">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">124030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263707184">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI484491194">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">190210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI504249344">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">193630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263755812">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">88090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI428254542">
+            <model>Детский 2 в 1 самокат-снегокат</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">89920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI196453332">
+            <model>Самокат-беговел-снегокат MS-927Л Virage складной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI261283722">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI386447972">
+            <model>Самокат-беговел-снегокат MS-927Л Virage складной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI564289322">
+            <model>Снегокат "Тимка спорт 1+540(ТС1+/БО с бабочками3D</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI596839382">
+            <model>Снегокат "Twiny 2+" TW2+/ГФ графичный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI281049152">
+            <model>Трехколесный самокат-снегокат MS-947Л Triton</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI481946252">
+            <model>Самокат снегокат детский 2 в 1 для детей</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI484500196">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">193880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI279417796">
+            <model>Снегокат детский со спинкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">124550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI481269196">
+            <model>Самокат снегокат трюковой детский с лыжами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI504127969">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">123970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1515903769">
+            <model>Снегокат "Twiny2+" TW2+/ГФ графичный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI650712679">
+            <model>Снегокат "Ника-джамп. Космический", до 100 кг, 3+, синий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">114840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI261271888">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">124030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI504802318">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI173994774">
+            <model>Снегокат для мальчика с тормозом тросом детский</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI196455264">
+            <model>Самокат-беговел-снегокат MS-927Л Virage складной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI481250634">
+            <model>Самокат снегокат трюковой для детей +лыжи</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI504128615">
+            <model>Снегокат детский, санки на лыжах с родительской ручкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI247790495">
+            <model>Снегокат "Ника джамп" СНД1/WS</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495682903">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">124030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI481311763">
+            <model>Самокат снегокат детский 2в1 складной на лыжах зимний</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI504140000">
+            <model>Снегокат детский, санки на лыжах с родительской ручкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495682970">
+            <model>Снегокат детский для катания</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">68990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1515904687">
+            <model>Снегокат "Twiny2+" TW2+/ЗМ с забавными медвежатами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI701426020">
+            <model>Снегокат детский со спинкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263011845">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">90280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI564840045">
+            <model>Снегокат детский "Тимка спорт 6" Winter Sport</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI196455263">
+            <model>Самокат-беговел-снегокат MS-927Л Virage складной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI481250633">
+            <model>Снегокат детский самокат трюковый для мальчика</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI543871463">
+            <model>Снегокат "Тимка спорт " ТС6/ГФ графичный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">94660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1725982553">
+            <model>Снегокат с колесами, со спинкой и родительской ручкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI196455262">
+            <model>Самокат-беговел-снегокат MS-927Л Virage складной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263724172">
+            <model>Снегокат детский</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">99120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1477905322">
+            <model>Лыжи для самокатов-снегокатов</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">11220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1461778762">
+            <model>Безопасный зимний тюбинг для детей и взрослых</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1496137683">
+            <model>Снегокат детский со спинкой, ручкой и колесиками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">87130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI542536263">
+            <model>Ледянка "Ветерок", 440х345х85 мм</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">9980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI181104843">
+            <model>Снегокат детский "Панда"с мягким сиденьем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">59530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263712784">
+            <model>Снегокат детский, санки на лыжах с родительской ручкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495671819">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">189010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI177657899">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495682928">
+            <model>Снегокат детский со спинкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI504139467">
+            <model>Снегокат детский, санки на лыжах с родительской ручкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI504128451">
+            <model>Снегокат детский, санки на лыжах с родительской ручкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">148130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI196455261">
+            <model>Самокат-беговел-снегокат MS-927Л Virage складной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI15495861">
+            <model>Снегокат детский со спинкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1240353171">
+            <model>Зимняя надувная санки для активного отдыха</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI54401061">
+            <model>Снегокат детский, санки на лыжах с родительской ручкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">162880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI561123355">
+            <model>Снегокат "Тимка спорт 6" ТС6/ГФ Графичный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI195887365">
+            <model>Трехколесный самокат-снегокат MS-947Л Triton</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI196455265">
+            <model>Самокат-беговел-снегокат MS-927Л Virage складной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263701260">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">99210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263887080">
+            <model>Снегокат детский со спинкой и родительской ручкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">101150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI504140130">
+            <model>Снегокат детский, санки на лыжах с родительской ручкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI484536690">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1523072568">
+            <model>Снегокат детский со спинкой и рулем ТС 4-1 Ника</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495682938">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">124030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI481269198">
+            <model>Самокат снегокат трюковой для мальчиков подростков +лыжи</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI524793678">
+            <model>Снегокат "Тимка спорт 6" (ТС6/WS Winter sport NEW</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI262890326">
+            <model>Снегокат детский, санки на лыжах с родительской ручкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495671276">
+            <model>Снегокат детский, санки на лыжах с рулем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI599394986">
+            <model>Снегокат ТС1+ (камуфляжный фиолетовый)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263718716">
+            <model>Снегокат детский, санки на лыжах с родительской ручкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">155940</cityprice>
             </cityprices>
         </offer>
     </offers>
