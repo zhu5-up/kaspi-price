@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-19 01:41">
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-19 01:53">
     <company>30482413</company>
     <merchantid>30482413</merchantid>
     <offers>
@@ -64560,6 +64560,2186 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI482766419">
+            <model>Надувной диван для взрослых с электропомпой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">106010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1837142276">
+            <model>Секс-диван для взрослых со встроенным электронасосом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">112080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI452022086">
+            <model>Диван детский мягкая Букле (Ш80-Г37-В48см)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI783142071">
+            <model>Бескаркасный диван-кровать с подлокотниками 100х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">289250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1344176740">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI185593522">
+            <model>Диван двухместный прямой для кухни, офиса, прихожей</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">130500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI783142072">
+            <model>Бескаркасный диван-кровать с подлокотниками 100х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">289250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1277352149">
+            <model>Спрессованный переносной диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">158650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1099475847">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">137600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI962681139">
+            <model>Мини Диван двухместный на кухню прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">120930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI588966656">
+            <model>Кресло мягкое бескаркасное надувное с насосом и пуфом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI754754426">
+            <model>Бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI394972376">
+            <model>Бескаркасный раскладной диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">95280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI235099316">
+            <model>Мини диван офисный прямой на кухню балкон в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="5" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">201260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI624457912">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">166950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI254574592">
+            <model>Диван ORION 117х66х82 см, коричневый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">258270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI362173524">
+            <model>Диван кровать трансформер Single жаккард</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">173160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI275559594">
+            <model>Бескаркасный диван, матрас</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">95280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI832035584">
+            <model>Бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">109740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI387094004">
+            <model>Бескаркасный раскладной диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">101800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI844947194">
+            <model>Диван кровать бескаркасное взрослым</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">263440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1498663842">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI265572432">
+            <model>Бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">95280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI806940971">
+            <model>Мини диван с ящиком для кухни, прихожей, офиса и балкона</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">149500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1264503701">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">185320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI481455368">
+            <model>Диван детский мягкая Букле (Ш80-Г37-В48см)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI493794248">
+            <model>Бескаркасный диванчик</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">90740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI883950260">
+            <model>Надувное кресло кровать для дома взрослое 66551</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">81040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI381337790">
+            <model>Бескаркасный раскладной диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">101800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI545086231">
+            <model>Диван кровать раскладной бескаркасный 140x200 см для спальни</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">116290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1559604565">
+            <model>Мини Диван офисный прямой на кухню балкон в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">185000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI955841275">
+            <model>Диван уличный Регуляр оксфорд зеленый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">134850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI698851350">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">169850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1533751830">
+            <model>бескаркасный диван в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">80690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI993408130">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">152860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1534665873">
+            <model>бескаркасный диван в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">80690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1284042363">
+            <model>Вакуумный компрессионный диван,Сборка не требуется.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">162240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1593793266">
+            <model>Диван мини в офис на кухню прямой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">128050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1027498759">
+            <model>Диван Регуляр велюр серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">134140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI955841273">
+            <model>Диван уличный Регуляр оксфорд бежевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">134850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI980024393">
+            <model>Бескаркасный диван кровать раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">193120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495257783">
+            <model>Диван МАСК черный велюр</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">220920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI781261313">
+            <model>Диван кровать раскладной бескаркасный 140x80 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">208730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI835733675">
+            <model>Бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1575706445">
+            <model>диван для отдыха кресло</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">79880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1218454987">
+            <model>Диван офисный двухместный маленький мягкий велюр</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">117820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI993307207">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">152860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI890937539">
+            <model>Диван садовый Лофтовик Слэш + оксфорд зеленый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">125300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI966221876">
+            <model>Бескаркасный диван кровать раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">193120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI452022085">
+            <model>Диван детский мягкая Букле (Ш80-Г37-В48см)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1160633085">
+            <model>Диван на кухню маленький прямой каркасный двухместный лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">101630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI348339358">
+            <model>Диван на кухню с ящиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">172230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI195541563">
+            <model>Диван двухместный на кухню офисный прихожую Рогожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI423110183">
+            <model>Диван на кухню с ящиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">172230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI847128167">
+            <model>Диван на кухню на балкон мини прямой с ящиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">175240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI678813514">
+            <model>Диван офисный маленький мягкий велюр 100 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">85770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI195541559">
+            <model>Диван двухместный на кухню офисный прихожую Рогожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1655420800">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1163953330">
+            <model>Бескаркасный диван кровать раскладной 160x200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">204640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1086974391">
+            <model>Диван на кухню с ящиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">172230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI173006575">
+            <model>Диван двухместный на кухню офисный прихожую Рогожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1588098617">
+            <model>Подлокотники для дивана и кресла мягкие лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">12120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI390513257">
+            <model>Мини диван прямой в кухню и гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">238260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI961444637">
+            <model>Прямой мини диван на кухню, Коричневый, ШхГхВ: 110х53х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">185340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI440386367">
+            <model>Диван уличный Лофтовик Слэш ++ оксфорд черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">131970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI70468577">
+            <model>Диван кровать трансформер Single рогожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">173160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI710665937">
+            <model>Диван офисный Прага 90 см шоколадная экокожа</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">262230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI924515237">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">230050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI236106317">
+            <model>Диван на кухню Микс 99х65х84 см, нераскладной, серый плюш</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">245320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI247257887">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">176920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI577263197">
+            <model>Мини-диван с подлокотниками 2-местный, компактный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">180060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI896570627">
+            <model>Диван ТВИН, в офис, 100 см, экокожа красный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">301330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI444520547">
+            <model>Диван RAIN, в спальню, в кафе, 116 см, экокожа черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">255280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1710553607">
+            <model>Диван Буффон велюр зеленый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">182560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI360532187">
+            <model>Диван Лофтовик + велюр синий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">125220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI110543537">
+            <model>Диван БАФФ экокожа белый в прихожую, офис, салон красоты</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">109360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1479334427">
+            <model>Диван Буффон рогожка голубой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">167380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1095370521">
+            <model>Диван БАФФ экокожа коричневый в прихожую, офис</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">117170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI215628501">
+            <model>Мини Диван на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">306790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI904787601">
+            <model>Диван уличный Лофтовик + оксфорд оранжевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">125420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI311979351">
+            <model>Диван двухместный на кухню офисный прихожую Экокожа</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI901429071">
+            <model>Диван Монреаль, 95 см , экокожа серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">211680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI240084951">
+            <model>Диван Мюнхен 100х57х78, коричневый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">197990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI844737231">
+            <model>Надувное кресло с пуфиком для дома, дачи и природы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI726944391">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">195260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI900626151">
+            <model>Диван садовый Лофтовик + оксфорд зеленый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">125420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1081179111">
+            <model>Мини Диван на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">306790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1081277901">
+            <model>Мини Диван на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">303340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI382010601">
+            <model>Мини Диван на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">310230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1916287731">
+            <model>Надувной диван синий с флоком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI999135381">
+            <model>Диван уличный Лофтовик ++ оксфорд розовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">129690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1142309781">
+            <model>Диван на кухню Микс 99х65х84 см, айвори букле</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">245320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI565972311">
+            <model>Диван Марсель на кухню с ящиком кушетка со спинкой в офис</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">206860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI907346031">
+            <model>Диван Мюнхен 110 см, фиолетовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">223830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI822385911">
+            <model>Надувной диван с пуфом, водонепроницаемый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI683681991">
+            <model>Диван Лофтовик ++ мягкие подлокотники экокожа черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">134660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI440431731">
+            <model>Диван на кухню с ящиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">172230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI579921921">
+            <model>Диван Марсель на кухню с ящиком кушетка со спинкой в офис</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">206860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI822385882">
+            <model>Портативный водостойкий надувной диван с пуфом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1416801922">
+            <model>Диван раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI452022082">
+            <model>Диван детский мягкая Букле (Ш80-Г37-В48см)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI845757142">
+            <model>Мягкий надувной диван с пуфом складной для гостиной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI230203852">
+            <model>Диван ОДОС велюр айвори (№2)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">138490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI463614202">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">195260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI431375182">
+            <model>Диван прямой мини нераскладной, ШхГхВ 110х50х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">210880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI955841272">
+            <model>Диван садовый Регуляр оксфорд черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">134850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI259491532">
+            <model>Диван прямой "Ион" оранжевая кожа</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">200840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1324426882">
+            <model>Диван Лофтовик Слэш ++ рогожка голубой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">131970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI844737142">
+            <model>Складной надувной кресло для дачи</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI270788482">
+            <model>Диван прямой Меркурий белая кожа</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">219100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1637022742">
+            <model>Бескаркасный диван кресло 74 x 88 x 62 см для квартиры</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">107090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI913039822">
+            <model>Диван Райн 116х54х82 см, пыльная роза</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">301330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI71809192">
+            <model>Диван АММА, велюр бежевый (№18)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">167100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1605896632">
+            <model>Диван Буффон оксфорд бордовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">182580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI473316232">
+            <model>Банкетка букле</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">327640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1470034882">
+            <model>Диван Лофтовик Комфи ++ мягкие подлокотники велюр коричневый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">128130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI667200712">
+            <model>Диван раскладной надувной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI677937682">
+            <model>Бескаркасный раскладной диван кровать Monaco Plus SKY</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">347410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1139653672">
+            <model>Диван на кухню Прага 90 см велюр мехико браун</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">248330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI201196162">
+            <model>Диван Милана на кухню с ящиком компактный мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">206860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1279694362">
+            <model>Диван трехместный Лофтовик Комфи ++ мягкие велюр бежевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">160750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI182628382">
+            <model>Мини Диван на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">306790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI781551532">
+            <model>Диван для дома АнриМини / Микровелюр 111см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">407370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI240132172">
+            <model>Диван Мюнхен 110х57х78, серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">202290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI563522182">
+            <model>Диван прямой мини нераскладной, ШхГхВ 110х50х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">180190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI577664512">
+            <model>Диван Марсель на кухню с ящиком кушетка со спинкой в офис</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">206860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI134172322">
+            <model>Мини диван-банкетка Мюнхен, в холл, прихожую, на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">219520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1421014192">
+            <model>Диван Лофтовик Комфи ++ мягкие экокожа оранжевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">132670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI682115842">
+            <model>Диван Лофтовик + велюр черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">124920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI239872822">
+            <model>Мини диван банкетка со спинкой в прихожую велюр</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="19" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">409180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI442929292">
+            <model>Диван Мюнхен на кухню, балкон 120 см, коричневый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">185260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1902354322">
+            <model>Диван-кресло мягкое бежевое, велюр, для гостиной и спальни</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">307430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1637721382">
+            <model>Бескаркасное кресло-диван мягкое в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">95640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI234789661">
+            <model>Кресло мягкое мини диван на кухню банкетка со спинкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">159240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1118660821">
+            <model>Диван бескаркасный двухспальный Тедди</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">296280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI935653711">
+            <model>Диван садовый Лофтовик ++ оксфорд белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">132020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI442786861">
+            <model>Диван Монреаль, в кафе, ресторан, 95 см, серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">202110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI443075761">
+            <model>Диван Мюнхен, без подлокотников, 100 см, серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">176840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI844737241">
+            <model>Мягкий надувной диван для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1537932751">
+            <model>Диван кровать бескаркасный раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">88080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI845757031">
+            <model>Надувной диван складной с пуфом водонепроницаемый для улицы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI844737181">
+            <model>Мягкий надувной диван для дома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI99269131">
+            <model>Мини диван офисный прямой на кухню балкон в гостиную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">225070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI240272131">
+            <model>Угловой модуль для кухни мини диван маленький офисный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">163980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1159700401">
+            <model>Диван трехместный Лофтовик Слэш ++ мягкие велюр коричневый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">166100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI206669881">
+            <model>Диван банкетка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">260720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1277849341">
+            <model>Бескаркасный диван-кровать 110х90 букле зеленый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">273860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI900831961">
+            <model>Диван на кухню маленький мини для дома и офиса</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">160460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI496157221">
+            <model>Лежанка для человека большая собак pазборная</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">234220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI810917131">
+            <model>Складной надувной диван с насосом и подножкой портативный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI165299881">
+            <model>Мини Диван на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">306790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI994852999">
+            <model>Кресло мягкое бескаркасное надувное с насосом и пуфом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI936206029">
+            <model>Диван кровать раскладной бескаркасный двухспальный Тедди</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">355190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1803819979">
+            <model>Бескаркасный диван посадочный модуль + пуф 70x65x38см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">191710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1195549099">
+            <model>Диван модульный металлический лофт 1 средняя секция Мадин</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI382010599">
+            <model>Мини Диван на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">310230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI822385909">
+            <model>Надувной диван с пуфом, водонепроницаемый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI907346029">
+            <model>Диван Мюнхен 110 см, серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">223830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI233905770">
+            <model>Мини Диван на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">306790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI900626149">
+            <model>Диван садовый Лофтовик + оксфорд бежевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">125420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI999135379">
+            <model>Диван уличный Лофтовик ++ оксфорд белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">129690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI267669049">
+            <model>Диван-мини пуф для кухни и офиса</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">230050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI745887210">
+            <model>Диван угловой на кухню уголок мини офисный маленький</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">163980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1334120749">
+            <model>Кресло-мешок Slim велюровая поверхность упругая губка внутри</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">225430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI683981490">
+            <model>Диван Лофтовик ++ мягкие подлокотники велюр синий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">128060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI810917190">
+            <model>Складной надувной диван с насосом и подножкой портативный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI683583450">
+            <model>Диван Лофтовик ++ мягкие подлокотники велюр красный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">130140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI205936350">
+            <model>Диван двухместный на кухню офисный прихожую Рогожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI907532479">
+            <model>Диван Мюнхен 100 см, экокожа серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">219520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1081277899">
+            <model>Мини Диван на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">303340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1048124329">
+            <model>Диван составной "Композит" экокожа оранжевый 2 секции</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">174320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1681940449">
+            <model>Диван надувной с пуфом для отдыха</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI254574600">
+            <model>Диван ORION 117х66х82 см, изумрудный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">258270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1097545140">
+            <model>Надувной велюровый диван-кровать — стильно и практично</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI683681989">
+            <model>Диван Лофтовик ++ мягкие подлокотники экокожа коричневый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">134660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI907038330">
+            <model>Диван садовый Лофтовик Комфи + оксфорд оранжевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">125420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI845757060">
+            <model>Складной надувной диван с насосом и подножкой портативный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI314964990">
+            <model>Мини Диван на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">310230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1194590610">
+            <model>Диван модульный металлический лофт 1 средняя секция Мадин</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI797267100">
+            <model>Мини диван Гермес на кухню с ящиком компактный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">206860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI420804780">
+            <model>Диван уличный Лофтовик ++ оксфорд черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">129690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI955841280">
+            <model>Диван садовый Регуляр оксфорд розовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">134850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI270789360">
+            <model>Диван прямой Меркурий кремовая кожа</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="18" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">219100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1461369150">
+            <model>Надувной диван кресло для отдыха с подушкой и насосом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1118660820">
+            <model>Диван бескаркасный двухспальный Тедди</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">296280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1808910060">
+            <model>Бескаркасный пуф Диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">160250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI815422350">
+            <model>Диван трехместный Лофтовик ++ мягкие экокожа белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">176180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1277849340">
+            <model>Бескаркасный диван-кровать 110х90 букле бирюзовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">273860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI147429330">
+            <model>Диван ОДОС ПРИНТ, велюр Абстракция оливковый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">134240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI810917160">
+            <model>Одноместный складной диван с насосом подножкой надувной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI443051280">
+            <model>Диван Мюнхен прямой на балкон, в кафе, холл 90 см, горчичный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">172620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1008993930">
+            <model>Диван для обеденного стола Лофтовик Слэш + велюр желтый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">113690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1190833230">
+            <model>Мини диван прямой на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">228170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI900831960">
+            <model>Диван на кухню маленький мини для дома и офиса</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">160460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI442896720">
+            <model>Диван Мюнхен, без подлокотников, 110 см, серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">181050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI844737210">
+            <model>Надувное кресло с пуфиком для дома, дачи и природы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI832032870">
+            <model>Бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">109740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI935653710">
+            <model>Диван уличный Лофтовик ++ оксфорд оранжевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">132020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI844737240">
+            <model>Складной надувной кресло для дачи</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI319170300">
+            <model>Мини диван Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">137800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1590442230">
+            <model>Бескаркасный диван раскладной кровать 90x95x65см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">205400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI241339290">
+            <model>Угловой модуль для кухни мини диван маленький офисный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">163980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI172753530">
+            <model>Диван двухместный на кухню офисный прихожую (антикоготь)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1802302020">
+            <model>Бескаркасный диван пуф 70x65x38см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">102970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI710585280">
+            <model>Диван мини пуф</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">164280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI70469160">
+            <model>Диван кровать трансформер Single рогожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">173160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI719798940">
+            <model>Диван мини двухместный 120 см на кухню, прихожую "Шарли"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">219440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI220808250">
+            <model>Угловой модуль для кухни мини диван маленький офисный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">163980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI355619100">
+            <model>Диван Лофтовик Слэш + велюр черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">125310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI362173530">
+            <model>Диван кровать трансформер Single жаккард</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">173160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI240111150">
+            <model>Диван Мюнхен 120х57х78, фиолетовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">206610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI845757090">
+            <model>Мягкий надувной диван складной с подставкой для ног</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1905689730">
+            <model>Диван Лофтовик Слэш ++ мягкие подлокотники экокожа оранжевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">139640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI443075760">
+            <model>Диван Мюнхен, без подлокотников, 100 см, белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">176840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI236269080">
+            <model>Угловой модуль для кухни мини диван маленький офисный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">163980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI113448690">
+            <model>Диван ОДОС ПРИНТ, велюр Тропики</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">156610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI913039830">
+            <model>Диван Райн 116х54х82 см, белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">301330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI935767980">
+            <model>Диван садовый Лофтовик Слэш ++ оксфорд розовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">131970</cityprice>
             </cityprices>
         </offer>
     </offers>
