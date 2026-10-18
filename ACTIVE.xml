@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-19 01:38">
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-19 01:41">
     <company>30482413</company>
     <merchantid>30482413</merchantid>
     <offers>
@@ -61724,6 +61724,2836 @@
         </offer>
         <offer sku="ALBI1102329454">
             <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1005359344">
+            <model>диван детский бескаркасный 190х70см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1724825883">
+            <model>Кресло кровать бескаркасное раскладное оттоманка 95х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">123320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1016083893">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI253232134">
+            <model>Бескаркасное кресло шезлонг в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">532230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1244939914">
+            <model>Диван бескаркасный XXXL 190х120х70 в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">106330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI948507454">
+            <model>Бескаркасный диван кровать с подлокотниками раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">270400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI998438344">
+            <model>Диван бескаркасный в вакуумной упаковке угловой большой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">594780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1101971824">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI723188283">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI861848703">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1217461923">
+            <model>Шезлонг садовый для дачи</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI678312783">
+            <model>диван детский бескаркасный 190х70см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI270023764">
+            <model>Бескаркасный диван-кровать 70х80 велюр с принтом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">152540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI278934154">
+            <model>Бескаркасный диван-трансформер</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI826942263">
+            <model>Бескаркасный диван в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1004403244">
+            <model>Бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI761650503">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1107268534">
+            <model>Диван-кровать раскладной бескаркасный 190х70</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">402590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI269507464">
+            <model>Бескаркасный диван-кровать 70х80 велюр с принтом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">152540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI726878374">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI678312784">
+            <model>диван детский бескаркасный 190х70см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI861876814">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI954997204">
+            <model>Диван бескаркасный раскладной Брюссель-9</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">269930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI760659574">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI998433544">
+            <model>Бескаркасное кресло шезлонг в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">556990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI961847433">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1261724494">
+            <model>Бескаркасный диван-кровать 70х80 букле зеленый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">133390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI727281304">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1015554724">
+            <model>Бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI859328974">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI761650504">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI908120194">
+            <model>Бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI670125934">
+            <model>диван детский бескаркасный 190х70см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI412709164">
+            <model>Бескаркасный прямой диван Monaco</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">322620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI905734174">
+            <model>Бескаркасный диван-кровать раскладной 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1475399493">
+            <model>Диван-кровать раскладной бескаркасный 140x200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">207300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI201432394">
+            <model>Диван бескаркасный двухместный в вакуумной упаковке взрослый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">546810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI277010703">
+            <model>Кресло бескаркасное трансформер раскладной диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI423426934">
+            <model>Бескаркасный прямой диван Monaco</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">322620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1015554723">
+            <model>Бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1067995533">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">402590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1108061224">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1879411564">
+            <model>Диван бескаркасный мягкий кресло-мешок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">483850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI278934153">
+            <model>Бескаркасный диван-трансформер из рогожки</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">116780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI961837683">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI760655523">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI676341124">
+            <model>Кресло-Кровать Бескаркасное Раскладное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI663072093">
+            <model>Диван-кровать раскладной бескаркасный 140х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">182970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1102336384">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI977911954">
+            <model>Чехол на бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1844968023">
+            <model>Диван бескаркасный Холден раскладной 160х200 бежевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">198710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI996628414">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1686504813">
+            <model>Бескаркасный диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">269290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI726878373">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1261724493">
+            <model>Бескаркасный диван-кровать 70х80 велюр желтый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">133390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI760655524">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI102514804">
+            <model>кресло бескаркасное трансформер Эссен</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">125490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI528856444">
+            <model>Бескаркасное кресло для взрослых пена</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">137970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI346770664">
+            <model>Бескаркасный диван кровать двухспальный раскладной Бали</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">260540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1080862024">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1089069393">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1016070094">
+            <model>диван детский бескаркасный 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI859293033">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1067616814">
+            <model>Диван кровать бескаркасный раскладной в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">185750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI859328973">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI601003233">
+            <model>Диван бескаркасный раскладной Брюссель Лайт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">222460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI826960263">
+            <model>Бескаркасный диван в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1004438734">
+            <model>Бескаркасный диван с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">412540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI962267584">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1016070093">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI437786103">
+            <model>Диван кровать раскладной двухспальный 140х190 бескаркасный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">154830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI879602644">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI998433543">
+            <model>Бескаркасное кресло шезлонг в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">556990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI859293034">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI253229526">
+            <model>Бескаркасный диван Француз большой в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">652270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI841947215">
+            <model>Кресло-Кровать Бескаркасное Раскладное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1009879476">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI670984805">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI418570085">
+            <model>Бескаркасное кресло. Диван-кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">133990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI676341125">
+            <model>Кресло-Кровать Бескаркасное Раскладное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1095566466">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI725448186">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI253237626">
+            <model>Бескаркасное кресло шезлонг в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">526050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1155810276">
+            <model>Бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">182100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI253235286">
+            <model>Диван бескаркасный в вакуумной упаковке шезлонг</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">526050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI920160666">
+            <model>Диван бескаркасный в вакуумной упаковке большой 180х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">94800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI850258296">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI345928355">
+            <model>Бескаркасный диван раскладной серая рогожка Тай</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">140140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1289290055">
+            <model>2 в 1 Надувное диван матрас с насосом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI418570086">
+            <model>Бескаркасное кресло. Диван-кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">139460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI977911955">
+            <model>Чехол на бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI175641065">
+            <model>Бескаркасный диван кровать раскладной коричневый велюр Тай</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">151590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI879602645">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI276998466">
+            <model>Кресло бескаркасное трансформер раскладной диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1897150325">
+            <model>Диван бескаркасный в вакуумной упаковке большой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224645375">
+            <model>Бескаркасный диван в вакуумной упаковке взрослый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">643720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI994283976">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1313346455">
+            <model>Диван бескаркасный мягкий кресло-мешок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">212880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1018703135">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI165489305">
+            <model>Бескаркасный диван кровать раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">125480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI70473905">
+            <model>Бескаркасное кресло кровать Single рогожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">186410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1175641356">
+            <model>Кресло мешок взрослое большое мягкое в гостиную бескаркасное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">201380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI962267585">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1141447836">
+            <model>Бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">182100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1080862026">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI905734175">
+            <model>Бескаркасный диван-кровать раскладной 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1016070095">
+            <model>диван детский бескаркасный 190*70</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI409885565">
+            <model>Бескаркасный диван раскладной темно-серая рогожка Тай</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">163730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1004403245">
+            <model>Бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1089069395">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1381538166">
+            <model>Чехол на бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI908120196">
+            <model>Бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI727351296">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI760655526">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI725448185">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI977861795">
+            <model>Бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI760655525">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI707872836">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI905734176">
+            <model>Бескаркасный диван-кровать раскладной 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1844968056">
+            <model>Диван бескаркасный Уайт раскладной 160х190 темно-серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">222910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI670125935">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1849122065">
+            <model>Надувная кровать двуспальная со встроенным насосом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1005359345">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI998480616">
+            <model>Диван бескаркасный Француз в вакуумной упаковке взрослый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">591840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1095566465">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">402590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI859344275">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI962273406">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1117928916">
+            <model>Чехол на бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1089069396">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">402590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI761650506">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1009850645">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI889967736">
+            <model>Диван кровать бескаркасный раскладной 140х90 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">216790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI859293036">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1080862025">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">402590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1117928915">
+            <model>Чехол на бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1684211226">
+            <model>2 в 1 Надувное диван матрас с насосом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1261724496">
+            <model>Бескаркасный диван-кровать 70х80 рогожка латте</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">133390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI908120195">
+            <model>Бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI913046375">
+            <model>Диван бескаркасный раскладной детский 190х70см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI670125936">
+            <model>диван детский бескаркасный 190х70см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1289290115">
+            <model>Надувной диван кровать трансформер для дома с насосом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI977861796">
+            <model>Бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1067957555">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI859293035">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI996628416">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1900029575">
+            <model>Диван-кровать бескаркасный 140х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">225330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI961386995">
+            <model>Бескаркасный диван кровать с подлокотниками раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">80860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1084969595">
+            <model>Надувной диван - кровать с пуфиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1474890155">
+            <model>Диван-кровать раскладной бескаркасный 140x200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">191080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1102336385">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1308112566">
+            <model>Диван бескаркасный 85x95x70 cm Спальня Гостиная доступна</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">242600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI962273405">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1261724495">
+            <model>Бескаркасный диван-кровать 70х80 рогожка коричневый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">133390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1102329455">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI859344276">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI168984276">
+            <model>Диван бескаркасный XXXL 190х120х70 в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">106330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI600989585">
+            <model>Диван бескаркасный раскладной Брюссель-8</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">249550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI761650505">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1005359346">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI998480615">
+            <model>Диван бескаркасный в вакуумной упаковке взрослый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">540370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI437782774">
+            <model>Диван кровать раскладной двухспальный 140х190 бескаркасный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">154830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1089069394">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">402590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1016070096">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI826960266">
+            <model>Бескаркасный диван в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI998438345">
+            <model>Диван бескаркасный в вакуумной упаковке угловой большой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">581250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI345936095">
+            <model>Бескаркасный диван раскладной коричневая рогожка Тай</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">140140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1684211286">
+            <model>Надувной диван трансформер для дома с насосом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI760666176">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI560514006">
+            <model>Диван кровать раскладной 120х190 бескаркасный на кухню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI826960265">
+            <model>Бескаркасный диван в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI996628415">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI671051289">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1476396939">
+            <model>бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1289290149">
+            <model>Надувной диван кровать трансформер двуспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI998386718">
+            <model>Диван бескаркасный в вакуумной упаковке взрослый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">652270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI896763008">
+            <model>Бескаркасный диван в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI954873998">
+            <model>Диван бескаркасный раскладной Брюссель-9</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">249550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI725448189">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI725060859">
+            <model>Диван-кровать бескаркасный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">171030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246346028">
+            <model>Бескаркасный диван для гостиной в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">659600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1261724499">
+            <model>Бескаркасный диван-кровать 70х80 велюр серый принт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">133390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1474970348">
+            <model>Диван-кровать раскладной бескаркасный 140x200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">191080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1844968028">
+            <model>Диван бескаркасный Холден раскладной 160х200 темно-серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">199680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1024450028">
+            <model>Диван бескаркасный двухспальный велюр серый Кинг 240х140</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">297860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI241635369">
+            <model>XXL Напольный диван TOGO с безруким креслом у камина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">215210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1036093929">
+            <model>Чехол на бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI721231538">
+            <model>Диван-кровать бескаркасный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">171030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI671051288">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI977861799">
+            <model>Бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI998386719">
+            <model>Диван бескаркасный Француз в вакуумной упаковке взрослый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">652270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI961811829">
+            <model>Диван бескаркасный раскладной Брюссель-10</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">269930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1289290269">
+            <model>Надувной диван кровать трансформер для дома с насосом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI418570088">
+            <model>Бескаркасное кресло. Диван-кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">139460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI706146519">
+            <model>Диван кровать раскладной двухспальный 140х200 бескаркасный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">191040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1313660259">
+            <model>Диван бескаркасный мягкий глубокий для комнаты отдыха</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">247240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI879602648">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1097679458">
+            <model>Бескаркасный диван из PVC с флоковым покрытием</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI676341128">
+            <model>Раскладной одноместный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1107279219">
+            <model>Диван-кровать раскладной бескаркасный 190х70</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI908120198">
+            <model>Бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1089069398">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">402590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI503222108">
+            <model>Диван-кровать бескаркасный 120см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">290120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI896763009">
+            <model>Бескаркасный диван в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI277007079">
+            <model>Кресло бескаркасное трансформер раскладной диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI76230428">
+            <model>Кресло кровать Single велюр</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">203210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI961932428">
+            <model>Диван бескаркасный раскладной Брюссель7 СИПМЛ</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">210560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1089069399">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1002924939">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1036093928">
+            <model>Чехол на бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1142927679">
+            <model>Бескаркасный диван кровать с подлокотниками раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">271200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI964089128">
+            <model>Диван кровать раскладной двухспальный бескаркасный угловой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">251560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI961787498">
+            <model>Диван бескаркасный раскладной Брюссель-10</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">249550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1117722758">
+            <model>Кресло-шезлонг, трансформер, раскладушка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">114200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI977861798">
+            <model>Бескаркасный диван раскладной двухспальный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI879602649">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI418570089">
+            <model>Бескаркасное кресло. Диван-кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">139460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI736690208">
+            <model>Диван кровать бескаркасный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">101800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1080862028">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI253228869">
+            <model>Бескаркасное кресло шезлонг в вакуумной упаковке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">556990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI850408838">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1289290028">
+            <model>Надувная кровать двуспальная со встроенным насосом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1177410668">
+            <model>Шезлонг садовый для дачи</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI523050159">
+            <model>Мягкий диван раскладной бескаркасный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">356790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI378707078">
+            <model>Диван бескаркасный в вакуумной упаковки</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">392180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1684210778">
+            <model>Надувной диван кровать трансформер для дома с насосом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI728812058">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1089032409">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1387249298">
+            <model>Диван кровать бескаркасный и раскладной двухспальный 200х160</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">243390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI850408839">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1081261239">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1822368698">
+            <model>Диван бескаркасный мягкий кресло-мешок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">362880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI261607868">
+            <model>Диван бескаркасный двухспальный пружинный Бали 200х140</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">292990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1095566468">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI859344278">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1080862029">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">402590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI600983619">
+            <model>Диван бескаркасный раскладной Брюссель-8</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">259750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1080829749">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">402590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI994283978">
+            <model>диван детский бескаркасный 190х70см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI994283979">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI269502278">
+            <model>Бескаркасный диван-кровать 70х80 рогожка с принтом</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI861835929">
+            <model>Бескаркасный диван-кровать раскладной 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1506532029">
+            <model>Надувной велюровый диван-кровать — стильно и практично</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI961995908">
+            <model>Диван бескаркасный раскладной Брюссель7 СИПМЛ</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">215350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI418533159">
+            <model>Бескаркасное кресло. Диван-кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">261380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI669099219">
+            <model>диван детский бескаркасный 190х70см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI418549989">
+            <model>Бескаркасное кресло. Диван-кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">239840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI964089129">
+            <model>Диван кровать раскладной двухспальный бескаркасный угловой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">251560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1030345778">
+            <model>Бескаркасный диван-кровать в вакуумной упаковке 85X190</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">446470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1141923009">
+            <model>Диван-кровать раскладной бескаркасный 190х70</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">402590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1261724498">
+            <model>Бескаркасный диван-кровать 70х80 велюр серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">133390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1095566469">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">402590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI951166658">
+            <model>Надувной диван - кровать с пуфиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">19040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1084969658">
+            <model>Надувной диван - кровать с пуфиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="17" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">19520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1026693458">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI657918548">
+            <model>Диван-кровать раскладной бескаркасный 140х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">182970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI418533158">
+            <model>Бескаркасное кресло. Диван-кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">261380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1018716129">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1496985519">
+            <model>Бескаркасный диван-кровать с подлокотниками 140х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">245970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1026687759">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1141923008">
+            <model>Диван-кровать раскладной бескаркасный 190х70</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI977900318">
+            <model>Чехол на бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI839897799">
+            <model>Диван кровать раскладной бескаркасный для кухни детской</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">228230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI241635368">
+            <model>Напольный диван TOGO и безрукий Loveseat у камина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">215210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1004399260">
+            <model>Чехол на бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI527526040">
+            <model>Диван бескаркасный прямой секция модуль 100×80×70 Тетрис</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">308580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI277012960">
+            <model>Кресло бескаркасное трансформер раскладной диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">139710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI674213020">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1249265110">
+            <model>Кресло мешок мягкое бескаркасное большое взрослое</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">479870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1089032410">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">402590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI262247530">
+            <model>Диван бескаркасный двухспальный Бали фисташка 200х140</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">288860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI523050160">
+            <model>Мягкий диван раскладной бескаркасный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">356790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI671051290">
+            <model>Бескаркасный диван кровать 190*70 см раскладной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">319520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI275184640">
+            <model>Диван бескаркасный двухспальный Бали тиффани 200х140</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">288860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI418570090">
+            <model>Бескаркасное кресло. Диван-кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">139460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1052304550">
+            <model>Чехол на бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1080862030">
+            <model>Бескаркасный диван-кровать с подлокотниками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">375750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI418549990">
+            <model>Бескаркасное кресло. Диван-кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="15" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">250150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1002924940">
+            <model>Чехол на бескаркасный диван кровать 190*70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI985214440">
+            <model>Бескаркасный диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">149450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1023934210">
+            <model>Диван-кровать раскладной бескаркасный 140х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">361510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1036093930">
+            <model>Чехол на бескаркасный диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1460294410">
+            <model>Диван кровать надувной раскладной для дома и природы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1026648070">
+            <model>Чехол на бескаркасный диван</model>
             <brand>Без бренда</brand>
             <availabilities>
                 <availability available="yes" storeId="30482413_PP1" preOrder="16" stockCount="5.0"/>
