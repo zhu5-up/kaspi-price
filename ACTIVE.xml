@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-18 20:35">
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-19 00:09">
     <company>30482413</company>
     <merchantid>30482413</merchantid>
     <offers>
@@ -42210,6 +42210,3726 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">34540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI303910061">
+            <model>Зеркало напольное интерьерное подвесное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI548708704">
+            <model>Зеркало напольное в полный рост интерьерное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI154712288">
+            <model>Гримерное зеркало для макияжа с лампами настенное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">72110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1051780344">
+            <model>Зеркало напольное в полный рост на колесах</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI254926841">
+            <model>Зеркало напольное интерьерное подвесное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI532301858">
+            <model>Зеркало настенное фигурное в комнату без рамы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI379899936">
+            <model>Зеркало гримерное косметическое с лампочками 90х70</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI987321704">
+            <model>Зеркало напольное в полный рост интерьерное с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">92880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI141034201">
+            <model>Зеркало настенное капсульное линейка Алмаз 77х45 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI439507393">
+            <model>Зеркало напольное в полный рост 115*37 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI335865036">
+            <model>Зеркало настенное овальное интерьерное Z-16 110х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI348664901">
+            <model>Зеркало в полный рост настенное 115 на 50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI451801787">
+            <model>Зеркало настенное большое в раме 70*50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI162143212">
+            <model>Зеркало для макияжа гримерное большое 90х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI903855935">
+            <model>Зеркало настенное фигурное Мираж 90х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI209919397">
+            <model>Зеркало интерьерное настенное круглое 40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI335873310">
+            <model>Зеркало настенное овальное Z-16 110х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI190604404">
+            <model>Зеркало настенное интерьерное в ванную 70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI451799456">
+            <model>Зеркало настенное большое в раме 70*50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI439507394">
+            <model>Зеркало напольное в полный рост 115*37 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI201876453">
+            <model>Зеркало настенное интерьерное в ванную 50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI349584753">
+            <model>Зеркало интерьерное настенное Кошка 52*53 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI225275761">
+            <model>Зеркало настенное декоративное неоклассика 110х60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI209928465">
+            <model>Зеркало интерьерное настенное 90*60 см с черной окантовкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI889616535">
+            <model>Зеркало интерьерное 115*50 Noire</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI112399000">
+            <model>Зеркало напольное в полный рост на колесах</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI349587814">
+            <model>Зеркало интерьерное настенное Овал115*50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI117777302">
+            <model>Зеркало напольное в полный рост на колесах</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI657060332">
+            <model>Зеркало настенное фигурное в комнату без рамы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI438027562">
+            <model>Зеркало с подсветкой настенное фигурное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">83860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI349590031">
+            <model>Зеркало настенное интерьерное "Фантом" 77х45 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI451791909">
+            <model>Зеркало настенное большое в раме 60*40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI451803759">
+            <model>Зеркало настенное большое в раме 70*50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI118118497">
+            <model>Настенное круглое зеркало 90 см в ванную Алмаз</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI963295243">
+            <model>Зеркало напольное в полный рост 60х165 см, чёрное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">72530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI94989829">
+            <model>Зеркало интерьерное настенное 77 см с гравировкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI438044835">
+            <model>Зеркало с подсветкой настенное фигурное в рамке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">89460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1051780343">
+            <model>Зеркало напольное в полный рост на колесах</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI735968786">
+            <model>Зеркало напольное в полный рост 52х161см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI212701469">
+            <model>Зеркало настенное в полный рост Original 160х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI194522020">
+            <model>Зеркало настенное в прихожую 35х100 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI92252253">
+            <model>Зеркало настенное в ванную 77*60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI438884283">
+            <model>Зеркало с подсветкой настенное круглое золото 70х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">68760</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI579813363">
+            <model>Зеркало настенное овальное с подсветкой Z-16 110х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI439788597">
+            <model>Зеркало настенное в золотой рамке арка 50*100 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI436659886">
+            <model>Зеркало настенное круглое в золотой раме 80х80 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI439804190">
+            <model>Зеркало настенное большое 50*100 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI209932192">
+            <model>Зеркало интерьерное "Каспер" 110x60 см с черной окантовкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI736050592">
+            <model>Зеркало навесное в полный рост на дверь, стену и шкаф</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI77507911">
+            <model>Зеркало интерьерное настенное 70 см с гравировкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI548708705">
+            <model>Зеркало напольное в полный рост интерьерное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI998934365">
+            <model>Зеркало косметическое</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">16560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI318362721">
+            <model>Зеркало напольное в полный рост интерьерное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">72280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI840302707">
+            <model>Зеркало напольное в полный рост</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI889729273">
+            <model>Зеркало настенное "Венеция" 77х55 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI764247098">
+            <model>Зеркало настенное круглое Р-15 D900 мм с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">86500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI491501858">
+            <model>Зеркало настенное фигурное кошка 52*53 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI436686188">
+            <model>Зеркало настенное круглое в золотой раме 80х80 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI668265498">
+            <model>Зеркало настенное для прихожей интерьерное в раме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">16910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI349588668">
+            <model>Зеркало настенное интерьерное "Фантом" 77х45 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1008428584">
+            <model>Зеркальное панно 57х198см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI192506396">
+            <model>Зеркало 80*60 в черной раме большое прямоугольное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI436653896">
+            <model>Зеркало настенное круглое в металлической раме 70х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1152661795">
+            <model>Зеркало настенное и напольное, Белое, 150×40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246370571">
+            <model>Зеркало настенное большое интерьерное окно арка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI274804391">
+            <model>Зеркало настенное без рамки 110х45</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI439850410">
+            <model>Зеркало настенное прямоугольное в черной рамке 80*60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI742539190">
+            <model>Зеркало навесное в полный рост на дверь, стену и шкаф</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI547961998">
+            <model>Зеркало настенное фигурное в комнату без рамы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI233785557">
+            <model>Зеркало круглое 60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">192790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI839722877">
+            <model>Зеркало настенное с подсветкой на батарейках</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495603257">
+            <model>Зеркало круглое в алюминиевой золотой раме 90х90 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">94090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI340515797">
+            <model>Зеркало напольное в полный рост интерьерное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">75980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI166803152">
+            <model>Зеркало интерьерное настенное 110х50 см Капсула</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI868699052">
+            <model>Зеркало настенное большое фигурное в черной рамке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI712414442">
+            <model>Набор декоративных зеркал 3 шт. Solmax, цвет шампань</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI168135872">
+            <model>Зеркало интерьерное настенное фигурное 90х60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI438889492">
+            <model>Зеркало настенное с подсветкой золотое 80х80 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">79160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI883997461">
+            <model>Зеркало настенное в раме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI987076921">
+            <model>Зеркало навесное в полный рост на стену</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI772436281">
+            <model>Зеркало напольное черное в полный рост, 167 х 58 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">83910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246364551">
+            <model>Зеркало настенное интерьерное арка окно</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1194933681">
+            <model>120cm*47cmСамоклеящееся акриловое зеркало</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI247183191">
+            <model>Зеркало в полный рост напольное 170х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">127250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1294749711">
+            <model>зеркало 60*100 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41760</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI499770591">
+            <model>Зеркало настенное с подсветкой 165х75см. теплый свет</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">234220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1156286991">
+            <model>Зеркало-наличник настенное в русском стиле</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI171624277">
+            <model>Зеркало с теплой подсветкой 60х100 см прямоугольное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">118240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI800280637">
+            <model>Зеркальное панно 125х156см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">92730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI417478417">
+            <model>Зеркало настенное в полный рост</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI835150177">
+            <model>Зеркало напольное в полный рост Сальва М</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI451791907">
+            <model>Зеркало настенное большое в раме 60*40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1213528057">
+            <model>Зеркало с полками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">93060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI764218237">
+            <model>Зеркало настенное круглое Р-15 D600 мм с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI163550347">
+            <model>Зеркало интерьерное в раме 115х40</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI57976297">
+            <model>Зеркало настенное большое круглое 70х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">73530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI318404953">
+            <model>Зеркало напольное в полный рост интерьерное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">72470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI228656593">
+            <model>Зеркало в золотой раме длинное 100*40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI799927033">
+            <model>Зеркало интерьерное прямоугольное 60*40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI756268873">
+            <model>Зеркало настенное 190х80 см. арочное с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">181950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI611984678">
+            <model>Зеркало с подсветкой настенное 80х40 см черная рама</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI443797868">
+            <model>Зеркало с подсветкой настенное 130x60 в полный рост</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">93090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI430219778">
+            <model>Зеркало с подсветкой настенное сенсорное 190х60см. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">205590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI417478418">
+            <model>Зеркало настенное в полный рост</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI396130028">
+            <model>Зеркало настенное 100х90 см. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">131230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI451791908">
+            <model>Зеркало настенное для прихожей в рамке 60*40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI985873508">
+            <model>Зеркало напольное интерьерное подвесное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI145835258">
+            <model>Зеркало настенное в полный рост 60х110 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI250583138">
+            <model>Зеркало круглое Миллиси 70х70 из массива дуба</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">205840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI166112438">
+            <model>Напольное зеркало в полный рост</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">80920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI969107269">
+            <model>Зеркало напольное детское монтессори Котик розовый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">93620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224864899">
+            <model>Зеркало с подсветкой 130х70 см. 6000К. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">173480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495620209">
+            <model>Зеркало настенное в золотой окантовке</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI735982399">
+            <model>Зеркало напольное,162×52cm，черное рама</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI578987599">
+            <model>Зеркало настенное вертикальное с подсветкой Z-17 75х55 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI699219889">
+            <model>Зеркальные наклейки 11 шт. 10х8 см.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI882544219">
+            <model>Круглое зеркало 60 см. с подсветкой с сенсором</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">85140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1149593059">
+            <model>Зеркало-наличник в русском стиле</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI594148759">
+            <model>Зеркало настенное с подсветкой фигурное облако 60х110</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">107140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI251386879">
+            <model>Зеркало интерьерное настенное Кружево деревянная рама</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">166150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI399524119">
+            <model>Зеркало напольное белый 150*40</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI141566280">
+            <model>Зеркало настенное круглое 70см в спальню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI868683360">
+            <model>Зеркало настенное фигурное большое 92х76 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI313453830">
+            <model>Зеркало напольное 160х40 см. Золото</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">143620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1260854430">
+            <model>Зеркало с подсветкой 80х60</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI438038670">
+            <model>Зеркало с подсветкой настенное фигурное золото</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">90890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI455533260">
+            <model>Зеркало напольное в полный рост без рамы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI98026260">
+            <model>Зеркало интерьерное настенное для прихожей 60х40 см, белое</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1260809838">
+            <model>Зеркало круглое 80х80 с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI566140638">
+            <model>Зеркало с подсветкой настенное сенсорное 150х70см. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">122160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI346813458">
+            <model>Зеркало настенное в полный рост интерьерное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1008428688">
+            <model>Зеркальное панно 57х226см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI391431288">
+            <model>Зеркало с подсветкой SSG 160х70см. 6000К. Золото</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">195730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI372840588">
+            <model>Зеркало в прихожую 115х60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">99830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI341681325">
+            <model>Зеркало интерьерное прямоугольное 60*40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI222271305">
+            <model>Зеркало настенное с подсветкой большое 90*75 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1285184873">
+            <model>Зеркало интерьерное в русском стиле</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI500436053">
+            <model>Зеркало настенное с подсветкой 110х50 см в белой раме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">92650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI210860783">
+            <model>Зеркало прямоугольное настенное для прихожей 50 на 100</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI44885963">
+            <model>Зеркало настенное круглое 70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">91850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI217494893">
+            <model>Настенное зеркало "Флора SO" ручная работа</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">124510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI907087643">
+            <model>Зеркало настенное полукруг</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI233789813">
+            <model>Зеркало круглое 70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">193310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246366984">
+            <model>Зеркало настенное интерьерное окно арка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI25962174">
+            <model>Зеркало на стену 115х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI237046254">
+            <model>Зеркало напольное в полный рост OZEVIS 165x45 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">571600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI142033554">
+            <model>Зеркало настенное круглое с УФ печатью диаметр 60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224864874">
+            <model>Зеркало с подсветкой 170х70 см. 3000К. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">193260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1347496374">
+            <model>Напольное зеркало 160х70 в золотистой раме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">106650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI91180194">
+            <model>Зеркало напольное в полный рост 167*60</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">192190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI318404952">
+            <model>Зеркало напольное в полный рост интерьерное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">72780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI47384862">
+            <model>Зеркальное панно на стену для интерьера</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">141730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI219074352">
+            <model>Зеркальное панно настенное. Зеркало. 60*110 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">141500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI929403612">
+            <model>Зеркало настенное большое 150х40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495598092">
+            <model>Зеркало настенное с подсветкой большое фигурное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI702139812">
+            <model>Зеркало интерьерное 60x40см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1285160022">
+            <model>Зеркало интерьерное в русском стиле</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI985615902">
+            <model>Зеркало интерьерное "Кокошник" 25 см * 21 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI396130182">
+            <model>Зеркало настенное 160х50 см. Белое</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">131970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI762012274">
+            <model>Зеркало настенное круглое Z-15 D600 мм с черной рамкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI335873584">
+            <model>Зеркало настенное интерьерное с черной рамкой Z-14 74х79 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI428851174">
+            <model>Зеркало настенное в спальню 110х60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI499582084">
+            <model>Зеркало настенное с подсветкой 100х90см. теплый свет</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">196280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246888574">
+            <model>Зеркало напольное в полный рост 170х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">100640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI218719264">
+            <model>Зеркало настенное большое 160х60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">90190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI452532214">
+            <model>Зеркало напольное в полный рост на колёсиках</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI755207734">
+            <model>Зеркало настенное 110х60 см. мягкий квадрат с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI450929644">
+            <model>Зеркало 70х50 см алюминиевая рама Серебро с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">144520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI195774844">
+            <model>Зеркало настенное для прихожей 70х50 см в раме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI122103574">
+            <model>Зеркало настенное в раме 35x75</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI898176754">
+            <model>Зеркало настенное в ванную 100х90 см. белое с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">100920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI220089926">
+            <model>Напольное зеркало в полный рост 170х60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">116630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI349489526">
+            <model>Зеркало на стену 100х40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI241861346">
+            <model>Зеркало настенное овальное 60х40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI219021116">
+            <model>Зеркало в прихожую настенное 180х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">95060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI233785556">
+            <model>Зеркало круглое настенное 60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">192790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI144808076">
+            <model>Зеркало настенное для прихожей</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">81120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI527479436">
+            <model>Зеркало настенное сенсорное с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI182720906">
+            <model>Зеркало настенное в полный рост 100*40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI432713276">
+            <model>Зеркало настенное в прихожую большое 118*50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI436638206">
+            <model>Зеркало настенное круглое 50х50 см золото</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI428851166">
+            <model>Зеркало в прихожую настенное 110х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">89270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI396129236">
+            <model>Зеркало с подсветкой 110х80 см. 6000К. Белое</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">169520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI219028766">
+            <model>Зеркало в прихожую настенное 180х60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">98290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI346832006">
+            <model>Зеркало настенное в полный рост интерьерное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI589571346">
+            <model>Зеркало настенное фигурное c подсветкой сенсорное 110x95</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">196180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246434646">
+            <model>Зеркало настенное большое прямоугольное 100*50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI68631606">
+            <model>Зеркальное панно на стену для интерьера</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">134370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1117468086">
+            <model>Зеркало настенное прямоугольное Фортуна 3</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI396129636">
+            <model>Зеркало настенное 140х40 см. Серебро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">123170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263871419">
+            <model>Зеркало настенное 200х90 в комнату</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">324800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI172146689">
+            <model>Зеркало настенное в деревянной раме в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">99050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1251008009">
+            <model>Зеркало настенное в золотой рамке арка 80*60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI119457599">
+            <model>Зеркальное панно на стену для интерьера</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">121010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI518388209">
+            <model>Зеркало настенное с подсветкой 90х70см. теплый свет</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">177980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI174796439">
+            <model>Зеркало настенное в раме в ванную круглое 50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">136380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI499774199">
+            <model>Зеркало с подсветкой 170х60см. 6000К. Серебро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">128170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246073229">
+            <model>Напольное зеркало в полный рост 180х80 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">130110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI240493139">
+            <model>Зеркало настенное интерьерное 110х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI348235109">
+            <model>Зеркало для клиентской зоны</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">5800000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI477351779">
+            <model>Зеркало настенное овальное 120х50 см белая окантовка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI459772049">
+            <model>Напольное зеркало с подсветкой в полный рост</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">110560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI436693079">
+            <model>Зеркало настенное в золотой раме 90х90 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224644019">
+            <model>Зеркало настенное 150х80 см. Золото</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">176710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224637685">
+            <model>Зеркало с подсветкой настенное 160х60 см. 6000К.Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">180000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI209941015">
+            <model>Зеркало интерьерное настенное Капсула 77*45 см в ванную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI840193285">
+            <model>Зеркало настенное большое прямоугольное 100*50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI644429935">
+            <model>Зеркало напольное в полный рост,165×60см,черная рама</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">102800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224865025">
+            <model>Зеркало с подсветкой 160х80 см. 6000К. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">197430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI588541105">
+            <model>Зеркало в ванную 120х80 см. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">137520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI115850335">
+            <model>Зеркальное панно на стену для интерьера 198х113 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">164780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI428851165">
+            <model>Зеркало на стену 110х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI91180195">
+            <model>Зеркало напольное в полный рост 167*60</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">184010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI762102445">
+            <model>Зеркало настенное круглое Z-15 D900 мм с черной рамкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224637655">
+            <model>Зеркало с подсветкой настенное 160х70 см. 6000К.Серебро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">192010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI116091194">
+            <model>Зеркало Селена</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">72730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI806156174">
+            <model>Зеркальная плитка сота 17х20см (18шт.)</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI194526524">
+            <model>Зеркало настенное в раме 30х40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI343964204">
+            <model>Зеркало на стену 100х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">85330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI578992694">
+            <model>Зеркало настенное горизонтальное с подсветкой Z-17 55х75см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI810084914">
+            <model>Зеркало настенное интерьерное в раме 40x60 OG2</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI800976824">
+            <model>Зеркало капча машина</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI39236774">
+            <model>Зеркало настенное круглое 90 см в прихожую, спальню</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">126540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI755154824">
+            <model>Зеркало настенное 110х70 см. арочное с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">188660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI831169961">
+            <model>Зеркало интерьерное прямоугольное 80*40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI459769691">
+            <model>Напольное зеркало с подсветкой в полный рост</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">115830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI523453871">
+            <model>Зеркало настенное интерьерное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI390209051">
+            <model>Арочное зеркало IBA в золотой металлической раме 200х80</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">249120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI655934891">
+            <model>Зеркало настенное полукруг</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI742539191">
+            <model>Зеркало навесное в полный рост на дверь, стену и шкаф</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI189219251">
+            <model>Зеркало гримерное с подсветкой 90*75</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">112860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI695496970">
+            <model>Зеркало настенное, круглое, 60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI38945170">
+            <model>Зеркало настенное в деревянной раме в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">99050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI548834860">
+            <model>Настенное зеркало ФлораSB ручная работа деревянная рама</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">130550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI230579470">
+            <model>Зеркало напольное 170х70см. Серебро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">118640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI559580020">
+            <model>Зеркало настенное в раме классика</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI987057520">
+            <model>Зеркало напольное интерьерное подвесное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263871550">
+            <model>Зеркало настенное 200х100 в комнату</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">324800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1437872140">
+            <model>Зеркало с подсветкой полукруг 90*45</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">106720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI165823540">
+            <model>Зеркало настенное в прихожую 50x110 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI831157983">
+            <model>Зеркало настенное круглое 50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI86659593">
+            <model>Зеркало арка 38х58см MebelRosso</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI92235213">
+            <model>Зеркало интерьерное настенное 77 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI195774843">
+            <model>Зеркало настенное интерьерное 70х50 см в раме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI163267833">
+            <model>Зеркало настенное интерьерное 50x70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI340514913">
+            <model>Зеркало напольное в полный рост интерьерное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI499761483">
+            <model>Зеркало с подсветкой сенсорное в ванную 120х60см. Серебро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">107950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI343964193">
+            <model>Зеркало настенное для прихожей 100х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">85330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI149371623">
+            <model>Зеркало настенное в прихожую 50x110 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI99020613">
+            <model>Зеркало гримерное с подсветкой 60*60 на стену</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">98750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI207529108">
+            <model>Зеркальное панно интерьерное из треугольников 180х80см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI174796438">
+            <model>Зеркало настенное в раме в ванную круглое 50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">136380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI837461248">
+            <model>Настенное зеркало в состаренной деревянной раме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">143500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI755155288">
+            <model>Зеркало настенное 100х80 см. фигурное с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">186660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1260844168">
+            <model>Интерьерное зеркало 50х100</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI585087178">
+            <model>Зеркало настенное интерьерное в раме 40х60</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224644018">
+            <model>Зеркало настенное 80х70 см. Золото</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">97380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI417409348">
+            <model>Зеркало прямоугольное с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">198650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1189420438">
+            <model>Зеркало настенное и напольное, Белое, 179×65 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">178740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI396129328">
+            <model>Зеркало с подсветкой 160х80 см. 6000К. Золото</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">199310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI438889497">
+            <model>Зеркало настенное с подсветкой золото 90х90 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">87380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1008428847">
+            <model>Зеркальное панно 102х204см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">95890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI499773807">
+            <model>Зеркало с подсветкой в ванную 110х60см. 6000К. Серебро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">93370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI200735427">
+            <model>Зеркало настенное овальное с креплениями 110х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI28801557">
+            <model>Зеркало в прихожую настенное 115х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI947332587">
+            <model>Зеркало настенное квадратное 2 шт рама МДФ 410 мм и 230 мм</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">90110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI335858397">
+            <model>Зеркало настенное круглое с черной рамкой Z-15 70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI428851107">
+            <model>Зеркало настенное для прихожей 115х40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">80430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI212714667">
+            <model>Зеркало с подсветкой настенное без сенсора 90 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">105180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI230579457">
+            <model>Зеркало с подсветкой 170х70см. 3000К. Серебро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">135490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI499624707">
+            <model>Зеркало настенное с холодной подсветкой 110х50 см в раме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">92650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI694298487">
+            <model>Зеркало круглое джут настенное 60см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI527479437">
+            <model>Зеркало настенное сенсорное с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI428851257">
+            <model>Зеркало настенное в спальню 110х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">101550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI79838367">
+            <model>Зеркало в полный рост 180х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">106580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI317536947">
+            <model>Напольное зеркало в полный рост 170х40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">94400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI174796227">
+            <model>Зеркало настенное в раме в ванную круглое 40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI432717767">
+            <model>Зеркало настенное в прихожую большое 118*50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI166415297">
+            <model>Зеркало настенное большое овальное 50*100 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI530771597">
+            <model>Зеркало настенное и напольное, Чёрное 150×38cm</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI330611117">
+            <model>Зеркало напольное в полный рост "Стелла 4"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">210560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1008428807">
+            <model>Зеркальное панно 70х105см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI340513127">
+            <model>Зеркало напольное в полный рост интерьерное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">76920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI484762667">
+            <model>Зеркало настенное в полный рост</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224864867">
+            <model>Зеркало настенное 140х80 см. Белое</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">145290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI317594447">
+            <model>Зеркало настенное 160х40 см. Золото</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">86630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1066943627">
+            <model>Зеркальное панно 210х90см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">88970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI166804067">
+            <model>Зеркало интерьерное настенное фигурное 77х45 см Капсула</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI450796487">
+            <model>Зеркало 70х50 см алюминиевая рама Белый с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">131150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI396129767">
+            <model>Зеркало с подсветкой 100х90 см. 3000К. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">168540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI412285577">
+            <model>Зеркало настенное круглое с подсветкой 60х60см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI217808207">
+            <model>Зеркало в золотой раме 120*80, без подсветки</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">293180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI499773887">
+            <model>Зеркало с подсветкой в ванную 110х70см. 6000К. Белое</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">99250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI504834467">
+            <model>Гримерное зеркало с подсветкой 52х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI430258232">
+            <model>Зеркало с подсветкой настенное сенсорное 200х70см. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">234390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI91325612">
+            <model>Зеркало настенное в полный рост для прихожей 163*66 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">94800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI225688232">
+            <model>Зеркало настенное Овал 50х80 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI230579792">
+            <model>Зеркало напольное 170х60см. Серебро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">110750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI880288562">
+            <model>Зеркало настенное овальное 40*60 см с золотой окантовкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI436642982">
+            <model>Зеркало напольное "Стелла-5"</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">227720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI439817792">
+            <model>Зеркало настенное интерьерное окно арка 80*60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">47590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI480379202">
+            <model>Зеркало с подсветкой прямоугольное 200 на 70 см.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">250290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1216296602">
+            <model>Зеркало напольное в полный рост интерьерное，40*150 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI28871192">
+            <model>Напольное зеркало 160х60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI91184852">
+            <model>Зеркало гримерное с лампочками 80*80</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">114380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI218721856">
+            <model>Зеркало настенное 160х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">98650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI340509226">
+            <model>Зеркало напольное в полный рост интерьерное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI247241356">
+            <model>Зеркало с подсветкой настенное 110х90 см. 3000К.Серебро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">175140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI530775796">
+            <model>Зеркало напольное в полный рост интерьерное 150×38cm</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI440419066">
+            <model>Зеркало настенное с подсветкой большое 110*60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">85530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI489603706">
+            <model>Зеркало в полный рост с подсветкой 160х60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">166610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI158744866">
+            <model>Зеркало интерьерное настенное 50 см с гравировкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI762072226">
+            <model>Зеркало настенное круглое Z-15 D800 мм с черной рамкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI399524120">
+            <model>Зеркало напольное черный 150*40</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI230579750">
+            <model>Зеркало с подсветкой 140х80см. 6000К. Серебро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">129340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI712414460">
+            <model>Набор декоративных зеркал 5 шт. Solmax</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI440440340">
+            <model>Зеркало в полный рост настенное 115*50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI466319180">
+            <model>Зеркало интерьерное в полный рост, 160х60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">918720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI138738470">
+            <model>Зеркальное панно на стену для интерьера</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">101920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI247241630">
+            <model>Зеркало с подсветкой настенное 150х60 см. 6000К.Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">173870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI495701990">
+            <model>Зеркало настенное круглое 60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI735982400">
+            <model>Зеркало напольное,162×52cm，черная рама</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">88450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI882457370">
+            <model>зеркало прямоугольное с подсветкой для ванны</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">111080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI723011570">
+            <model>Зеркало с подсветкой 3 в 1 на батарейках прямоугольное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1136909390">
+            <model>Зеркало с русскими орнаментами 37 см * 27 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI167601890">
+            <model>Зеркало настенное для спальни и прихожей</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI396129170">
+            <model>Зеркало с подсветкой настенное сенсорное 170х70 см. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">192220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI490991750">
+            <model>Зеркало настенное овальное 80х40 см без окантовки</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI43823962">
+            <model>Напольное зеркало в полный рост 176х80 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">126880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI499761232">
+            <model>Зеркало с подсветкой сенсорное в ванную 70х60см. Белое</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">80920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI609241282">
+            <model>Зеркало с подсветкой настенное 120х60 см овальное черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">118020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI153949222">
+            <model>Зеркало настенное интерьерное 110х50 см в раме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI547967962">
+            <model>Зеркало настенное фигурное в комнату без рамы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI588541102">
+            <model>Зеркало в ванную 120х60 см. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">139040</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI695496952">
+            <model>Зеркало настенное, круглое, 70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI36878371">
+            <model>Интерьерные зеркала</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">918720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI530649391">
+            <model>Зеркало напольное в полный рост интерьерное 152×40cm</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI436678021">
+            <model>Зеркало настенное овальное в золотой раме 50*100 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI622337131">
+            <model>Зеркало напольное фигурное в комнату в полный рост</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI28871191">
+            <model>Зеркало напольное в полный рост 160х60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI230580061">
+            <model>Зеркало настенное 130х80см. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">106350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI882420151">
+            <model>Круглое зеркало с подсветкой с сенсором</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI909654361">
+            <model>Зеркало напольное в полный рост интерьерное с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">104540</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI391431181">
+            <model>Зеркало с подсветкой SSG 170х70см. 6000К. Серебро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">201810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI396129151">
+            <model>Зеркало с подсветкой в ванную сенсорное 100х90 см. Белое</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">164670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI882400021">
+            <model>Круглое зеркало с подсветкой с сенсором</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI186029439">
+            <model>Зеркало с гравировкой настенное 110 * 60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI86659419">
+            <model>Зеркало 30х58 см настенное прямоугольное в ванную</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">17200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI311676759">
+            <model>Зеркало напольное 160х50 см. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">97490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI892667859">
+            <model>Зеркало напольное в полный рост интерьерное， 161 x 52 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">75740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI230579709">
+            <model>Зеркало настенное 90х70см. Белое</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI764228349">
+            <model>Зеркало настенное круглое Р-15 D700 мм с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI562737369">
+            <model>Зеркало с подсветкой настенное 120х60 овальное без рамы</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">96630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263458479">
+            <model>Зеркало в полный рост 160х90 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">180750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI466317849">
+            <model>Зеркало интерьерное в полный рост, 170х60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">918720</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI839689839">
+            <model>Зеркало на батарейках с подсветкой LED, настенное круглое</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">68140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI166112439">
+            <model>Напольное зеркало в полный рост</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">80920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI183662199">
+            <model>Зеркало настенное 40x60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI428851119">
+            <model>Зеркало настенное для прихожей 130х70 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">83840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI761981139">
+            <model>Зеркало настенное круглое Z-15 D500 мм с черной рамкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI316022885">
+            <model>Зеркальное панно на стену 70х210см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">68960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI764236145">
+            <model>Зеркало настенное круглое Р-15 800 мм с подсветкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">79110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI397015445">
+            <model>Зеркало с подсветкой SSG 130х90см. 3000К. Белое</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">197030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI396129965">
+            <model>Зеркало настенное 150х80 см. Золото</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI230579495">
+            <model>Зеркало с подсветкой 140х90см. 3000К. Черное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">136940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246888575">
+            <model>Зеркало в полный рост 170х50 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">108120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI722806025">
+            <model>Зеркало интерьерное прямоугольное 80*40 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI343499645">
+            <model>Зеркало интерьерное настенное</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">69700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI776533775">
+            <model>Настенное зеркало Опал с черной окантовкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI373090565">
+            <model>Зеркало настенное "Канон.Инверсия" черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">146070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1117468085">
+            <model>Зеркало настенное прямоугольное Фортуна 3</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI535941935">
+            <model>Зеркало с подсветкой прямоугольное 140 на 80 см.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">199070</cityprice>
             </cityprices>
         </offer>
     </offers>
