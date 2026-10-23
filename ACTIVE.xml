@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-23 19:56">
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-23 20:22">
     <company>30482413</company>
     <merchantid>30482413</merchantid>
     <offers>
@@ -565300,6 +565300,1096 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">50610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI186665608">
+            <model>Полка для обуви металлическая обувница высокая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI579949172">
+            <model>Обувница в прихожую закрытая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI490259863">
+            <model>Обувница в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI922790753">
+            <model>Обувница в прихожую с сиденьем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI498081685">
+            <model>Обувница в прихожую с сиденьем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI58094558">
+            <model>Обувница с сиденьем и ящиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI943427364">
+            <model>Обувница для обуви из ЛДСП закрытая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI100807329">
+            <model>Обувница каретная стяжка банкетка лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI258357664">
+            <model>Обувница в прихожую "Вельвет", 75x90 см,дуб крафт/черн</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">136230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI247575473">
+            <model>Обувница для прихожей закрытая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI486607331">
+            <model>Обувница в прихожую с сиденьем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="2" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI568538707">
+            <model>Обувница в прихожую закрытая высокая узкая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI470016942">
+            <model>Обувница с сиденьем металлическая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI183036960">
+            <model>Полка для обуви, 7 ярусов, 60х30х120 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI691568734">
+            <model>Обувница в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI216637054">
+            <model>Этажерка полка для обуви 3-х ярусная</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI604154582">
+            <model>Обувница в прихожую закрытая, высокая деревянная 3 ящика</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI724843742">
+            <model>Обувница в прихожую с сиденьем металлическая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI166642922">
+            <model>Обувница в прихожую закрытая Лотас</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI268311753">
+            <model>Обувница Scandi, 25х18х110,5 см 7 полок, черная</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI466512402">
+            <model>Обувница в прихожую с сиденьем и полками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">105560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI301355292">
+            <model>Обувница в прихожую с сиденьем и с ящиком для хранения</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">121950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI924657512">
+            <model>Обувница узкая закрытая с магнитными дверцами без ручек</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI863961030">
+            <model>Обувница в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1304852471">
+            <model>Узкая деревянная обувница для обуви натуральный бамбук</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI967238141">
+            <model>Обувница металлическая деревянная в прихожую 3 полки</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI547714537">
+            <model>Обувница в прихожую с сиденьем разборная 80х30</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI481689581">
+            <model>Обувница с сиденьем металлическая узкая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI491521775">
+            <model>Обувница в прихожую с МДФ-фасадами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1334413091">
+            <model>Обувница в прихожую закрытая узкая деревянная высокая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">171820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI221831348">
+            <model>Обувница в прихожую "Краш", 75x91 см, черн/дуб крафт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">123060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI15814451">
+            <model>Обувница с сиденьем в прихожую металлическая, 60х40х45 см.</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">126360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI463473403">
+            <model>Обувница в прихожую подвесная закрытая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI440663351">
+            <model>Полка для обуви, пуф в прихожую, банкетка обувница</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1358154735">
+            <model>Металлическая обувница в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI581630351">
+            <model>Обувница высокая закрытая вместительная на 16 пар без ручек</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">90030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI604154591">
+            <model>Обувница деревянная в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="4" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1027207091">
+            <model>Обувница в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI478099691">
+            <model>Обувница в прихожую с сиденьем металлическая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">73220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1010300591">
+            <model>Обувница для прихожей , Полка для обуви , 84х25х90 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">77930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI722918351">
+            <model>Обувница закрытая узкая, 4 пары</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI482927051">
+            <model>Обувница №25, тумба под обувь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">72550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI866772941">
+            <model>Обувница в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50330</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1014701765">
+            <model>Обувница в прихожую закрытая узкая высокая 3 отделения</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">59550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI530026241">
+            <model>Тумба под обувь с сиденьем №37</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI566411141">
+            <model>Обувница двухъярусная в прихожую,цвет темно-серый,велюр</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57780</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI314883488">
+            <model>Обувница в прихожую закрытая тумба для обуви</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">142900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI547672090">
+            <model>Обувница в прихожую с сиденьем разборная 80х30</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1261760863">
+            <model>Полка для обуви "Женева-23", 645х270х600 мм, 3 полки, метал</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">51680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI178090115">
+            <model>Обувница в прихожую лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI371029661">
+            <model>Обувница в стиле Лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI577189001">
+            <model>Обувница в прихожую с сиденьем Glory-4 серый графит</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI502564421">
+            <model>Обувница Лофт высокая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1014701711">
+            <model>Обувница закрытая высокая 3 секции</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI229187711">
+            <model>Обувница в прихожую с сиденьем и ящиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">61900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI776142071">
+            <model>Тумба для обуви №38</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">85990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI482927078">
+            <model>Тумба под обувь с сиденьем, обувница №33</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">92190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI265465571">
+            <model>Обувница деревянная BUNDIS БЮНДИС ,4 этажа, массив сосны</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI174547811">
+            <model>Обувница в прихожую закрытая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">105350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI306689053">
+            <model>Обувница в прихожую с ящиком тумба для обуви</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">107280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1029131441">
+            <model>Обувница в прихожую с мягким сиденьем 70*35*47 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">74320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI215505668">
+            <model>Обувница в прихожую полка для обуви</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI269927893">
+            <model>Закрытая обувница в прихожую с ящиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI412751141">
+            <model>Обувница для прихожей для обуви 28 см, открытая Дуб Сонома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI764285527">
+            <model>Обувница в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI67128521">
+            <model>Обувница в прихожую с сиденьем и ящиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">45010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI272474741">
+            <model>Обувница в прихожую с сиденьем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1314652631">
+            <model>Обувница в прихожую с полками деревянная открытая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI907983701">
+            <model>Обувница в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI472306121">
+            <model>Обувница для обуви металлическая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI777769661">
+            <model>Обувница для прихожей металлическая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI837916754">
+            <model>Обувница металлическая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224059481">
+            <model>Обувница в прихожую с мягким сиденьем узкая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI250892384">
+            <model>Этажерка д/обуви Комфорт 3, матовый серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI955763144">
+            <model>Обувница Банкетка пуфик в прихожую с мягким сидением</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1272282425">
+            <model>Тумба для обуви, узкая открытая обувница 145</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="11" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI604154561">
+            <model>Обувница деревянная на 2 ящики и 2 полки</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1054845036">
+            <model>обувница</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI924772631">
+            <model>Обувница узкая высокая закрытая с магнитными дверцами</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI400837721">
+            <model>Обувница в прихожую лофт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI314717321">
+            <model>Обувницы №29, тумба под обувь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">98500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1362323201">
+            <model>Обувница лофт с полкой металлическая в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1190360436">
+            <model>Обувница в прихожую с ящиком</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">102440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI66045911">
+            <model>Обувница в прихожую узкая металлическая открытая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI806857241">
+            <model>Обувница подставка для обуви в прихожую узкая угловая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI915049841">
+            <model>Обувница деревянная открытая 60 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">65670</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI270460235">
+            <model>Обувница Люкс, размер (ШхГxВ): 79х33х50 см., винилискожа</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI380180801">
+            <model>Обувница деревянная</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="5" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1305105761">
+            <model>Обувница в прихожую с мягким сиденьем и ящиком 70*35*54 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">92070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1081039631">
+            <model>Обувница банкетка с мягким сиденьем для обуви в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI995544671">
+            <model>Обувница в прихожую металлическая черная 4 яруса</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI486742661">
+            <model>Обувница в прихожую с мягким сиденьем 70*35*47 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">71410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1010300801">
+            <model>Обувница для прихожей с мягким сиденьем , 90х30х52 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI328058741">
+            <model>Обувница лофт с мягким сиденьем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">49600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1370689151">
+            <model>Обувница в прихожую система хранения</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">68940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI440734446">
+            <model>обувница в прихожую с сиденьем металлическая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">59110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI240756433">
+            <model>Закрытая узкая обувница в прихожую Неми</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1280186963">
+            <model>Вешалка напольная для одежды металлическая на колесиках</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI391789193">
+            <model>Обувница лофт с сиденьем металлическая в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1102102133">
+            <model>Подставка для обуви обувница с мягким сиденьем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI599233343">
+            <model>Обувница в прихожую деревянная</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI479590013">
+            <model>Пуф в прихожую, банкетка обувница металлическая</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI939713393">
+            <model>Банкетка обувница в прихожую с сиденьем и полкой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI479898411">
+            <model>Полка для обуви металлическая с сиденьем</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI137323973">
+            <model>Обувница металлическая 3 вместительные полки 79см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI208557563">
+            <model>Обувница в прихожую</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI224975025">
+            <model>Тумба для обуви в прихожую, обувница в коридор</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1008519654">
+            <model>Обувница узкая в прихожую на 8 пар дуб сонома</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">78080</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI496396215">
+            <model>Обувница для обуви из ЛДСП с сиденьем велюр</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48510</cityprice>
             </cityprices>
         </offer>
     </offers>
