@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-23 20:57">
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-23 21:17">
     <company>30482413</company>
     <merchantid>30482413</merchantid>
     <offers>
@@ -586230,6 +586230,1956 @@
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">169600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI924334296">
+            <model>Плед 220х240 евро макси на диван на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI263878794">
+            <model>Плед пушистый евро на кровать меховой 200 на 220 НГ</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI155866407">
+            <model>Плед 220х240 евро макси на диван на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1483677205">
+            <model>Плед на диван, кровать и кресло 150х180</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI252570928">
+            <model>Плед пушистый 200 на 220 на кровать евро меховой НГ</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI600229270">
+            <model>Стеганое Покрывало 200x220 см на диван и кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI924384182">
+            <model>Плед 220х240 евро макси на диван на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI583339519">
+            <model>Плед пушистый 220х240 на кровать фланелевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI924378298">
+            <model>Плед 220х240 евро макси на диван на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20510</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI835646374">
+            <model>Плед 220х240 евро макси на диван на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI473038712">
+            <model>Плед 200х220 на диван на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23610</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1247360231">
+            <model>Плед шерстяной</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="5" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI231188258">
+            <model>Плед с рукавами 150х200 пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI924448753">
+            <model>Плед 220х240 евро макси на диван на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="4" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI99213885">
+            <model>Теплый плед с мехом 200х220 см на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI37059329">
+            <model>Плед пушистый 200х220</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1483735087">
+            <model>Плед 180х200 хлопковый на кровать и диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI37059333">
+            <model>Плед 200х220 пушистый на диван на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI50030055">
+            <model>Плед 200х220 пушистый на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1221103295">
+            <model>Плед хлопковый 150х200 бежевый вязаный с кисточками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1252107777">
+            <model>Плед Уют 200х220 см мягкий на диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI600229269">
+            <model>Стеганое Покрывало 150x200 см на диван и кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI846215528">
+            <model>Плед 200х220</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1284702583">
+            <model>Плед на кровать 240х220 пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI256644030">
+            <model>Пушистый плед 220х240 на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI99213898">
+            <model>Теплый плед с мехом 200х220 см на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI206667785">
+            <model>Плед 180х200 хлопковый на диван кровать сканди</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI835646373">
+            <model>Плед 220х240 евро макси на диван на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1040131465">
+            <model>Плед покрывало 200х220 на диван и кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI299191326">
+            <model>Плед на кровать и диван хлопковый 200х220</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1483735086">
+            <model>Плед 180х200 хлопковый на кровать и диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI372352574">
+            <model>Плед евро 200х220 на диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33570</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1018885207">
+            <model>Плед 200х230 пушистый меховой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI357484038">
+            <model>Плед двойной евро 200 на 220 на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="4" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI463579068">
+            <model>Плед вязаный на диван и кровать кресло 180x230 скандинавский</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI373445838">
+            <model>Евро плед покрывало 220х240 см хлопок Турция</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1483735085">
+            <model>Плед 180х200 хлопковый на кровать и диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI270819800">
+            <model>Плед 200х220 полоса на диван и кровать меховой пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI966999115">
+            <model>Плед на диван дорожка на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1252107784">
+            <model>Плед Уют 200х220 см мягкий на диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI99603825">
+            <model>Теплый плед с мехом 200х240 см на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI311462475">
+            <model>Плед 200 на 220 см пушистый на кровать евро меховой НГ</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI425326859">
+            <model>Плед двусторонний евро 200 на 220 на кровать НГ</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI237909796">
+            <model>Плед вязаный на диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI600229272">
+            <model>Стеганое Покрывало 200x220 см на диван и кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI580985449">
+            <model>теплый плед 200х220 см на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40260</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI386291937">
+            <model>Плед пушистый мягкий Евро на кровать и диван 200х220</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="4" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI342544760">
+            <model>Плед 200х230 пушистый меховой на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI134282708">
+            <model>Плед 150х200 на диван, теплый, мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI261350181">
+            <model>Покрывало льняное 200х220 на двуспальную кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI608689331">
+            <model>Плед лаваш 180x200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1380446927">
+            <model>Плед муслиновый двусторонний 130х200 см 100% хлопок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1483735090">
+            <model>Плед 180х200 хлопковый на кровать и диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI244778655">
+            <model>Покрывало льняное 1,5 145х220 на полуторную кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1221103289">
+            <model>Плед хлопковый 150х200 серый вязаный с кисточками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI99213886">
+            <model>Теплый плед с мехом 200х220 см на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1111472266">
+            <model>Плед на кровать, покрывало на диван 240х260 см евро-макси</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1377094002">
+            <model>Плед вязанный на диван и кровать скандинавский 130x160</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI180404419">
+            <model>Вязаный плед на кресло</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI355457188">
+            <model>Плед 200х220 пушистый меховой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI342544762">
+            <model>Плед 200х230 на диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI379155802">
+            <model>Плед покрывало 150х200 см хлопок Турция</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24460</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI473038707">
+            <model>Плед 200х220 на диван на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI466500819">
+            <model>Плед хлопковый с кисточками Тринити Вэйв 200х220</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30570</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1604832129">
+            <model>Плед Евро 200х240 на кровать и диван для детей</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1252107783">
+            <model>Плед Уют 200х220 см мягкий на диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI156282296">
+            <model>Плед 220х240 евро макси на диван на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1146807113">
+            <model>Стеганое Плед 200x220 см на диван и кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">62180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI806345540">
+            <model>Толстый плед 200х220 на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI305927720">
+            <model>плед 150х200 см на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI305939035">
+            <model>плед 200х220 см на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI580945984">
+            <model>теплый плед 150х200 см на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI26992416">
+            <model>Плед 200х220 на кровать и диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1066850491">
+            <model>Стеганое Покрывало 200x220 см на диван и кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60620</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI71654291">
+            <model>Плед 220х240 на кровать диван покрывало вязаный Хлопок 100 %</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI600229271">
+            <model>Стеганое Покрывало 150x200 см на диван и кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI367621397">
+            <model>Плед вязаный на кровать диван 200х220 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI305939159">
+            <model>плед 200х220 см на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI560944980">
+            <model>Плед 200х220 евро пушистый на кровать CT-002</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI460872469">
+            <model>Плед 200х220 хлопковый на кровать диван сканди</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI262362739">
+            <model>Пушистый плед с рукавами велсофт 150х200 в подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1024024698">
+            <model>Плед 200х230 на диван и кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI47326278">
+            <model>Плед пушистый на диван кровать Евро 200х220 травка мех</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI43887815">
+            <model>Плед евро 200х220 /Пушистое покрывало</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI373683082">
+            <model>Гобеленовый плед вязаный на диван и кровать кресло 180x260</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="5" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI489421797">
+            <model>Подарок подруге пушистый плед с пожеланием на день рождения</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI732526539">
+            <model>Плед пушистый евро на кровать 200 на 230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1371752829">
+            <model>Покрывало на кровать, плед на диван 220*240 рогожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI425324313">
+            <model>Плед шиншилла двусторонний евро 200 на 220</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI398896436">
+            <model>Плед на кровать 200х240 пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI505699280">
+            <model>Плед гобеленовый на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI231851104">
+            <model>Плед пушистый молочный 200х220</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI381057244">
+            <model>Турецкий плед хлопковый на диван 200х230см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1339675478">
+            <model>Плед велюровый 200 230 на кровать меховой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1483735088">
+            <model>Плед 180х200 хлопковый на кровать и диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI420945621">
+            <model>Плед 150х200 плюшевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI185014881">
+            <model>Плед покрывало вязаный на диван кровать кресло 130x180 кот</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI295101966">
+            <model>Плед на кровать и диван 150*200 пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI907327896">
+            <model>теплый плед 200х220 см на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI99213883">
+            <model>Теплый плед с мехом 200х220 см на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI256644031">
+            <model>Плюшевый плед 220х240 на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI600229274">
+            <model>Стеганое Покрывало 200x220 см на диван и кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">55960</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI613705844">
+            <model>Плед 200х220 пушистый евро с принтом на кровать экомех</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">52000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI200605571">
+            <model>Плед 220х240 евро макси на диван на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI861325451">
+            <model>Плед ковер в стиле ретро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI255957851">
+            <model>Плед со словами Маме</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI421817567">
+            <model>Плед 150х200 плюшевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI250283535">
+            <model>Плед пончо оверсайз накидка 100*160 в подарок</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI530247209">
+            <model>Плед вязаный на диван и кровать кресло 130x180 визалист</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25930</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI378710309">
+            <model>Плед на кровать и диван 150*200 пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI378374317">
+            <model>Плед на диван 200х240 пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40440</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1221103290">
+            <model>Плед хлопковый 150х200 темно-синий вязаный с кисточками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI139586490">
+            <model>Теплый плед с мехом 200х220 см на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1252107780">
+            <model>Плед Уют 200х220 см мягкий на диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI816585894">
+            <model>Плед 150х200 детский плюшевый на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26360</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI28398799">
+            <model>Плед 220x240 на кровать диван покрывало вязаный хлопок 100%</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1478579998">
+            <model>Плед 200х220 пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36420</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI142681888">
+            <model>Плед 220x240 на кровать диван покрывало вязаный хлопок 100%</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI177369118">
+            <model>Плед 200х220 на кровать евро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI51431555">
+            <model>Плед 180х220 на кровать диван покрывало вязаный Хлопок 100 %</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1579041215">
+            <model>Плед пушистый и мягкий на кровать 200x220</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI417244312">
+            <model>Плед 200х220 пушистый на кровать, двухсторонний</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI517631362">
+            <model>Плед с рукавами пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31880</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1146807112">
+            <model>Стеганое Плед 150x200 см на диван и кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">50120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI305728137">
+            <model>плед 150х200 см на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1179597129">
+            <model>Плед подарок дочери на день рождения</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32220</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI274006899">
+            <model>Плед Hello Kitty плюшевый для девочки 150х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">39950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI72059439">
+            <model>Плед на диван 145x200 на кровать MONTE SLATE</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI166663113">
+            <model>Плед 200х220 теплый на кровать и диван, цв. 724</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI543913323">
+            <model>Плед 150х200 теплый на диван хлопок, цв. 357</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="13" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI44371796">
+            <model>Плед на диван 200х220 пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI299178956">
+            <model>Плед на кровать и диван хлопковый 150х200 клетка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI420893726">
+            <model>Плед 150х200 плюшевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI175549763">
+            <model>Плед муслиновый 200х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI44371793">
+            <model>Плед пушистый 200х220 травка мех</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1508122583">
+            <model>Плед 180х200 двусторонний с бабочками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20030</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1432236200">
+            <model>Покрывало на кровать, диван 220*240 рогожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="5" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30060</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI299185490">
+            <model>Плед на кровать и диван хлопковый 150х200 Мермейд</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="4" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1146807115">
+            <model>Стеганое Плед 200x220 см на диван и кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63730</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI580953265">
+            <model>теплый плед 150х200 см на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30130</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1271617144">
+            <model>Плед подарок на годовщину ситцевой свадьбы 1 год</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI179489224">
+            <model>Вязаный плед с бахромой на кровать и диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI559716994">
+            <model>Теплый плед на кровать Плюшевый Кролик евро</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33280</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1494591574">
+            <model>Плед двусторонний 200×230 см, теплый серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI482867918">
+            <model>Плед хлопковый с кисточками Тринити Вэйв 150х200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23180</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI722777588">
+            <model>Плед с принтом Месси 200х150</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI498238881">
+            <model>Плед 200х230 пушистый меховой белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">66860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI957518886">
+            <model>Плед вязаный на кровать диван 220x240 см оливковый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46250</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI70543412">
+            <model>Плед 120х200 покрывало на диван кровать детский одеяло</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI191197862">
+            <model>Теплый плед, пушистый 200х220 на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI326420491">
+            <model>Дорожный плед - подушка 2 в 1 в машину для путешествий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27140</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1221103291">
+            <model>Плед хлопковый 150х200 бордовый вязаный с кисточками</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI124392931">
+            <model>Плед 200х220 на кровать, теплый, большой</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">56530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI320236604">
+            <model>Детский плед 150×200 см, розовый с сердечками, плюшевый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27530</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI235527374">
+            <model>Плед 150х200 пушистый молочный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI808764374">
+            <model>Плед на кровать 200х260 пушистый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40480</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI29512181">
+            <model>Плед 220x240 на кровать диван покрывало вязаный хлопок 100%</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44830</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI548262851">
+            <model>Плед хлопковый 210*230 с бахромой на диван и кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI213913961">
+            <model>Плед хлопок 150х200 на диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI416006981">
+            <model>Плед 220х240 пушистый двухсторонний теплый, на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">109470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI175550351">
+            <model>Плед муслиновый 150х200 двусторонний большой зеленый принт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35010</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI437271131">
+            <model>Плед двойной евро 200 на 220 на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25170</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1447103861">
+            <model>Турецкий плед хлопковый на диван 200х230см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29750</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI583339517">
+            <model>Плед мягкий 220х240 фланелевый на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">41050</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI580942427">
+            <model>теплый плед 150х200 см на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI989773450">
+            <model>Плед 150х200 покрывало на диван кровать вязаный детский</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32470</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI451601560">
+            <model>Плед подарок любимой женщине</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI299191330">
+            <model>Плед на кровать и диван хлопковый 200х220</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">32160</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1140777970">
+            <model>Плед 200x220 гипоаллергенный приятный на ощупь</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23210</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI580968340">
+            <model>теплый плед 200х220 см на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI311622735">
+            <model>Теплый плюшевый плед с рукавами, одеяло с капюшоном 120 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">36860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI185851155">
+            <model>Теплый плед, пушистый 200х220 на диван кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27230</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI102773595">
+            <model>Теплый плед с мехом 200х220 см на кровать</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1683319785">
+            <model>Плед лаваш 150x200</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI246100515">
+            <model>Плед вязаный белый крупной вязки с кисточками на кресло</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40380</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1216913549">
+            <model>Плед подарок мужчине на день рождения в ноябре</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26870</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI957507449">
+            <model>Плед вязаный на кровать диван 220x240 см какао</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1371752827">
+            <model>Покрывало на кровать, плед на диван 220*240 рогожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27320</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI367631107">
+            <model>Подарок подруге на день рождения мягкий плед с пожеланием</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">26120</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI143529817">
+            <model>Плед евро 200х220 на диван</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI320416417">
+            <model>Детский плед 150х200 см плюшевый, однотонный, мягкий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI43887817">
+            <model>Плед пушистый на диван кровать Евро 200х220 травка мех</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1152613530">
+            <model>Плед раскраска 150*125 см Единороги, подарок для девочки</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI460894500">
+            <model>Плед 200х220 хлопковый на кровать диван сканди</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33740</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI199419436">
+            <model>Теплый плюшевый плед пончо с рукавами, одеяло с капюшоном</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI251945986">
+            <model>Плед 200х220</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI349814112">
+            <model>Плед пушистый мягкий Евро на кровать и диван 200х220</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1026965022">
+            <model>Плед подарок подруге на день рождения</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="10" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23580</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI18778254">
+            <model>200Х220 Плед на кровать Велсофт Бамбук</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">20300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI178436724">
+            <model>Плед муслиновый 200х230</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">53410</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI266779014">
+            <model>Плед 200х210 см</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="6" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI250111009">
+            <model>Плед 200х220 теплый на кровать и диван, цв. 808</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="7" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">30370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI641553889">
+            <model>Плед 170х200 хлопковый на диван кровать сканди</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="4" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25070</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1009309459">
+            <model>Плед Человек Паук 150x200 для мальчика</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="8" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI1432236199">
+            <model>Покрывало на кровать, диван 220*240 рогожка</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30482413_PP1" preOrder="9" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">27320</cityprice>
             </cityprices>
         </offer>
     </offers>
