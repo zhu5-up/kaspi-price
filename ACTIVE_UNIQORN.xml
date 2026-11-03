@@ -1,826 +1,519 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-11-03 21:35">
-    <company>16276143</company>
-    <merchantid>16276143</merchantid>
-    <offers>
-        <offer sku="114100563_141302933">
-            <model>All the Baby ободок венок 1 шт, белый, розовый</model>
-            <brand>all-the-baby</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="10.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1200</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="157174315_741452407">
-            <model>Уличный светильник в грунт / на штыре E14 85 см</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="24.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1271</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-FORM-02-pink">
-            <model>UNIQORN для льда, для десерта, для мармелада, для мороженого, для шоколада UNQ-FORM-02-pink, силикон</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="20" stockCount="94.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1200</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="BRTX-SHR-blue-01">
-            <model>Дрель-шуруповерт BORTEX BRTX-SHR-blue-01</model>
-            <brand>bortex</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_vlad" preOrder="0" stockCount="10.0"/>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="30.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="395439100">190</cityprice>
-                <cityprice cityId="750000000">24990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="120688989_006619959">
-            <model>Набор бонбоньерок без наполнения 10 шт 6 см</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">2990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="120890799_434118572">
-            <model>Кусачки-щипчики 3 мм 10 см двойная 1 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1270</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="119187357_283879028">
-            <model>Комплект размер универсальный, розовый</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="88.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">499</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="110885026_997646739">
-            <model>Поворотный стол для 3D съемки Wellamart 85U11</model>
-            <brand>wellamart</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">4400</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-OS-2pcs">
-            <model>UNIQORN апельсиновая палочка 11 см 2 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">3290</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="138578961_579441765">
-            <model>Маркер 458360817, 1 шт, 2 мм, Белый</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="30.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">200</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="132370075_371216552">
-            <model>Лампа 1 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="3.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">22990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="122461182_886404257">
-            <model>Панама размер 60, универсальный, хаки</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="4.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">980</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="BRTX-SHR-blue">
-            <model>Дрель-шуруповерт BORTEX BRTX-SHR-blue</model>
-            <brand>bortex</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">23990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="142506851_986726904">
-            <model>Набор 11in1 размер регулируемый бижутерный сплав, синтетический жемчуг, золотистый</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="40.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">779</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="171585009_499598410">
-            <model>UNIQORN пинцет 4 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="20.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">3990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="BRTX-SHR-green-01">
-            <model>Дрель-шуруповерт BORTEX BRTX-SHR-green-01</model>
-            <brand>bortex</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_vlad" preOrder="0"/>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="395439100">230</cityprice>
-                <cityprice cityId="750000000">29990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-ORG-pink-02">
-            <model>UNIQORN органайзер пластик</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="50.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1890</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="162422339_529882843">
-            <model>Мини-сумка полиэстер черный</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="14.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1146</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="160914759_604261429">
-            <model>ARVO Аппликатор для волос ARVO 1</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="2.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1300</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="ALBI481380229">
-            <model>Набор столовых приборов на 6 персон</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">22640</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-BR-black">
-            <model>UNIQORN расческа-щетка, массажная расческа, щетка-массажер 22</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="138630833_053483425">
-            <model>Заколка зажим 5 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">243</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="142765552_689823048">
-            <model>Фляга 30371025_457760007 1 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="2.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">2097</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="138794721_632285903">
-            <model>Воздуходувка 100 кВт 0.5 л.с. 10 куб. м/ч</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="8.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">6840</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-orange-stick">
-            <model>UNIQORN апельсиновая палочка 10см 100 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="31.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">550</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="BRTX-SHR-yellow-01">
-            <model>Дрель-шуруповерт BORTEX BRTX-SHR-yellow-01</model>
-            <brand>bortex</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_vlad" preOrder="0"/>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="395439100">200</cityprice>
-                <cityprice cityId="750000000">24990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-CZ-pnk-01">
-            <model>UNIQORN кусачки-щипчики UNQ-CZ-pnk-01  1 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="20" stockCount="88.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">2000</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="112592853_652506180">
-            <model>Насадка КМИЗ 023 10С фреза пламя насечка синяя 5 шт</model>
-            <brand>kmiz</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="46.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">4249</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="120646656_297112643">
-            <model>Панама размер 54, 60, черный</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">940</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="132188591_523226772">
-            <model>Haoyan пинцет 1 шт</model>
-            <brand>haoyan</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="93.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">685</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="206130049">
-            <model>UNIQORN щетка-массажер 28</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="200.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-pirs-Gun-black">
-            <model>UNIQORN набор для прокола ушей 1 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="10.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">4990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="143111375_928746650">
-            <model>Гарнитура 30398974_949104361</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="19.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1095</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="136372816_513295897">
-            <model>Форма для выпечки, для запекания, для гриля силикон, 1 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">900</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="113588651_670003723">
-            <model>BY ватные палочки спираль лопаточка тонкие для детей и взрослых 400 шт</model>
-            <brand>by</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="88.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">989</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-tapki-10p">
-            <model>UNIQORN тапочки для педикюра Универсальный 10 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="16.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">5990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="BRTX-SHR-red">
-            <model>Дрель-шуруповерт BORTEX BRTX-SHR-red</model>
-            <brand>bortex</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">23990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-tapki-05">
-            <model>UNIQORN тапочки для педикюра Универсальный 5 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="9.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">3990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="108881905_290595451">
-            <model>Atomy Toothbrush зубная щетка средняя 4 шт</model>
-            <brand>atomy</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="186.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1100</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="BRTX-SHR-red-01">
-            <model>Дрель-шуруповерт BORTEX BRTX-SHR-red-01</model>
-            <brand>bortex</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">24990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="143559602_898863743">
-            <model>Серьги MODU бижутерный сплав, без вставок</model>
-            <brand>modu</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="26.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">350</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="155510080_768869075">
-            <model>TAI мочалка для тела, для пилинга черный 1 шт</model>
-            <brand>tai</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="73.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">500</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-earrings-silver">
-            <model>Серьги UNIQORN UNQ-earrings-silver бижутерный сплав, без вставок</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1590</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-PO-PR-01-white">
-            <model>Пароочиститель UNIQORN PREMIUM белый, черный</model>
-            <brand>uniqorn-tehnika</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="8.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">29990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="144938952_362320105">
-            <model>Набор инструментов для педикюра 3 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="84.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1459</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-kogterezka-pink">
-            <model>UNIQORN когтерез-ножницы, вид животного: собаки</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="19.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="120072403_234542149">
-            <model>Поворотный стол для 3D съемки Wellamart wl0338 13 см белый</model>
-            <brand>wellamart</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="8.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">4500</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="MD-AF-01">
-            <model>MadAin MD-AF-01 черно-серебристый</model>
-            <brand>madain</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_vlad" preOrder="0"/>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="395439100">120</cityprice>
-                <cityprice cityId="750000000">34990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="133859663_472594748">
-            <model>Держатель, ценникодержатель 345572</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="30.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">379</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-tapki-02">
-            <model>UNIQORN тапочки для педикюра Универсальный 2 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="48.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="146138987_939387764">
-            <model>Подушка WayToGrow OPG99 на подголовник, на шею кресла 26x28 см черный</model>
-            <brand>waytogrow</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">9990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-pinc-4pcs">
-            <model>UNIQORN пинцет 4 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="40.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1500</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-FORM-01-pink">
-            <model>UNIQORN для льда, для десерта, для конфет, для мармелада, для шоколада, для заготовок UNQ-FORM-01-pink, силикон</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="20.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1499</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="BRTX-SHR-yellow">
-            <model>Дрель-шуруповерт BORTEX BRTX-SHR-yellow</model>
-            <brand>bortex</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">22990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="110105650_059217348">
-            <model>Easy Braid канекалон гофрированный фиолетовый женский</model>
-            <brand>easy-braid</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="52.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">875</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="168055247_802148369">
-            <model>Накладные ногти 30402895_231449529 1 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="64.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">600</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-pinc-04+kys">
-            <model>UNIQORN пинцет 4 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="29.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">2990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="109923610_750713123">
-            <model>Солнцезащитные очки круглые градиент</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">389</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="BRTX-SHR-green">
-            <model>Дрель-шуруповерт BORTEX BRTX-SHR-green</model>
-            <brand>bortex</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">28990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-ORG-pink-04">
-            <model>UNIQORN органайзер пластик</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="30.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">3590</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="118958110_831754460">
-            <model>FASHION IS SHINING ободок 1 шт, черный</model>
-            <brand>fashion-is-shining</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="20.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">499</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="114262818_516178661">
-            <model>Серьги медицинское золото, фианит</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="20.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">2532</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="MD-AF-02">
-            <model>MadAin MD-AF-02 черный, белый</model>
-            <brand>madain</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_vlad" preOrder="0"/>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="395439100">130</cityprice>
-                <cityprice cityId="750000000">44990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="171600136_960130174">
-            <model>UNIQORN кусачки-щипчики UNQ-kys-01+4pinc 1 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="46.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">3990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="167025753_226287361">
-            <model>Брелок Клавиатура 5.5 пластик 1 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="13.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1340</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-BR-pink-blue">
-            <model>UNIQORN массажная расческа 22</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1590</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="143359120_617160391">
-            <model>Щетка-массажер 28</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="192.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">300</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="106810339_717284073">
-            <model>TATTOO пистолет, пластик 2 шт</model>
-            <brand>tattoo-odezhda</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="25.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1123</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="114457986_305732934">
-            <model>Фильтр C26W для пылесосов Deerma, 3 изделия.</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">702</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="140141161_542426591">
-            <model>Пистолет 1 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">2433</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="144184995_014993593">
-            <model>Безворсовые салфетки, одноразовые полотенца, набор одноразовых расходных материалов 60х30 100 шт</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="88.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">4528</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="063833382">
-            <model>Био-керамический карандаш для удаления Кутикулы 5шт в Наборе</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="27.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">6990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-FlossV2-02pcs">
-            <model>UNIQORN Зубная нить UNIQORN розовая 2шт ленточная 2 шт по 50 м</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="26.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">2100</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-espander">
-            <model>Челюстной UNIQORN UNQ-espander 2 шт 40 кг</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="89.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-OTP-PREMIUM-white">
-            <model>Отпариватель UNIQORN UNQ-OTP-PREMIUM-white белый, золотистый</model>
-            <brand>uniqorn-tehnika</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="4.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">16990</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="134609597_013765351">
-            <model>Балаклава размер 58, серый</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="46.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">699</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="642163061">
-            <model>UNIQORN апельсиновая палочка 11 1 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="38.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1890</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-Dental-V2-02">
-            <model>UNIQORN Зубная нить UNIQORN 2шт в комплекте ленточная 2 шт по 50 м</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="10.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">2100</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-FlossV2-pink">
-            <model>UNIQORN Зубная нить UNIQORN 1шт Розовая ленточная 1 шт</model>
-            <brand>uniqorn</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="75.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">1290</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="116700084_154078116">
-            <model>Эспандер Челюстной 2 шт 40 кг</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="24.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">390</cityprice>
-            </cityprices>
-        </offer>
-        <offer sku="UNQ-PO-MD-01-grey">
-            <model>Пароочиститель UNIQORN Medium белый, серый</model>
-            <brand>uniqorn-tehnika</brand>
-            <availabilities>
-                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="10.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="750000000">24990</cityprice>
-            </cityprices>
-        </offer>
-    </offers>
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-11-03 21:54">
+<company>16276143</company>
+<merchantid>16276143</merchantid>
+<offers>
+<offer sku="114100563_141302933"><model>All the Baby ободок венок 1 шт, белый, розовый</model><brand>all-the-baby</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="10.0"/></availabilities><cityprices><cityprice cityId="750000000">1200</cityprice></cityprices></offer>
+<offer sku="157174315_741452407"><model>Уличный светильник в грунт / на штыре E14 85 см</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="24.0"/></availabilities><cityprices><cityprice cityId="750000000">1271</cityprice></cityprices></offer>
+<offer sku="UNQ-FORM-02-pink"><model>UNIQORN для льда, для десерта, для мармелада, для мороженого, для шоколада UNQ-FORM-02-pink, силикон</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="20" stockCount="94.0"/></availabilities><cityprices><cityprice cityId="750000000">1200</cityprice></cityprices></offer>
+<offer sku="BRTX-SHR-blue-01"><model>Дрель-шуруповерт BORTEX BRTX-SHR-blue-01</model><brand>bortex</brand><availabilities><availability available="yes" storeId="16276143_vlad" preOrder="0" stockCount="10.0"/><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="30.0"/></availabilities><cityprices><cityprice cityId="395439100">190</cityprice><cityprice cityId="750000000">24990</cityprice></cityprices></offer>
+<offer sku="120688989_006619959"><model>Набор бонбоньерок без наполнения 10 шт 6 см</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">2990</cityprice></cityprices></offer>
+<offer sku="120890799_434118572"><model>Кусачки-щипчики 3 мм 10 см двойная 1 шт</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/></availabilities><cityprices><cityprice cityId="750000000">1270</cityprice></cityprices></offer>
+<offer sku="119187357_283879028"><model>Комплект размер универсальный, розовый</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="88.0"/></availabilities><cityprices><cityprice cityId="750000000">499</cityprice></cityprices></offer>
+<offer sku="110885026_997646739"><model>Поворотный стол для 3D съемки Wellamart 85U11</model><brand>wellamart</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/></availabilities><cityprices><cityprice cityId="750000000">4400</cityprice></cityprices></offer>
+<offer sku="UNQ-OS-2pcs"><model>UNIQORN апельсиновая палочка 11 см 2 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/></availabilities><cityprices><cityprice cityId="750000000">3290</cityprice></cityprices></offer>
+<offer sku="138578961_579441765"><model>Маркер 458360817, 1 шт, 2 мм, Белый</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="30.0"/></availabilities><cityprices><cityprice cityId="750000000">200</cityprice></cityprices></offer>
+<offer sku="132370075_371216552"><model>Лампа 1 шт</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="3.0"/></availabilities><cityprices><cityprice cityId="750000000">22990</cityprice></cityprices></offer>
+<offer sku="122461182_886404257"><model>Панама размер 60, универсальный, хаки</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="4.0"/></availabilities><cityprices><cityprice cityId="750000000">980</cityprice></cityprices></offer>
+<offer sku="BRTX-SHR-blue"><model>Дрель-шуруповерт BORTEX BRTX-SHR-blue</model><brand>bortex</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0"/></availabilities><cityprices><cityprice cityId="750000000">23990</cityprice></cityprices></offer>
+<offer sku="142506851_986726904"><model>Набор 11in1 размер регулируемый бижутерный сплав, синтетический жемчуг, золотистый</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="40.0"/></availabilities><cityprices><cityprice cityId="750000000">779</cityprice></cityprices></offer>
+<offer sku="171585009_499598410"><model>UNIQORN пинцет 4 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="20.0"/></availabilities><cityprices><cityprice cityId="750000000">3990</cityprice></cityprices></offer>
+<offer sku="BRTX-SHR-green-01"><model>Дрель-шуруповерт BORTEX BRTX-SHR-green-01</model><brand>bortex</brand><availabilities><availability available="yes" storeId="16276143_vlad" preOrder="0"/><availability available="yes" storeId="16276143_PP3" preOrder="0"/></availabilities><cityprices><cityprice cityId="395439100">230</cityprice><cityprice cityId="750000000">29990</cityprice></cityprices></offer>
+<offer sku="UNQ-ORG-pink-02"><model>UNIQORN органайзер пластик</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="50.0"/></availabilities><cityprices><cityprice cityId="750000000">1890</cityprice></cityprices></offer>
+<offer sku="162422339_529882843"><model>Мини-сумка полиэстер черный</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="14.0"/></availabilities><cityprices><cityprice cityId="750000000">1146</cityprice></cityprices></offer>
+<offer sku="160914759_604261429"><model>ARVO Аппликатор для волос ARVO 1</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="2.0"/></availabilities><cityprices><cityprice cityId="750000000">1300</cityprice></cityprices></offer>
+<offer sku="ALBI481380229"><model>Набор столовых приборов на 6 персон</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0"/></availabilities><cityprices><cityprice cityId="750000000">22640</cityprice></cityprices></offer>
+<offer sku="UNQ-BR-black"><model>UNIQORN расческа-щетка, массажная расческа, щетка-массажер 22</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/></availabilities><cityprices><cityprice cityId="750000000">1990</cityprice></cityprices></offer>
+<offer sku="138630833_053483425"><model>Заколка зажим 5 шт</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">243</cityprice></cityprices></offer>
+<offer sku="142765552_689823048"><model>Фляга 30371025_457760007 1 шт</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="2.0"/></availabilities><cityprices><cityprice cityId="750000000">2097</cityprice></cityprices></offer>
+<offer sku="138794721_632285903"><model>Воздуходувка 100 кВт 0.5 л.с. 10 куб. м/ч</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="8.0"/></availabilities><cityprices><cityprice cityId="750000000">6840</cityprice></cityprices></offer>
+<offer sku="UNQ-orange-stick"><model>UNIQORN апельсиновая палочка 10см 100 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="31.0"/></availabilities><cityprices><cityprice cityId="750000000">550</cityprice></cityprices></offer>
+<offer sku="BRTX-SHR-yellow-01"><model>Дрель-шуруповерт BORTEX BRTX-SHR-yellow-01</model><brand>bortex</brand><availabilities><availability available="yes" storeId="16276143_vlad" preOrder="0"/><availability available="yes" storeId="16276143_PP3" preOrder="0"/></availabilities><cityprices><cityprice cityId="395439100">200</cityprice><cityprice cityId="750000000">24990</cityprice></cityprices></offer>
+<offer sku="UNQ-CZ-pnk-01"><model>UNIQORN кусачки-щипчики UNQ-CZ-pnk-01  1 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="20" stockCount="88.0"/></availabilities><cityprices><cityprice cityId="750000000">2000</cityprice></cityprices></offer>
+<offer sku="112592853_652506180"><model>Насадка КМИЗ 023 10С фреза пламя насечка синяя 5 шт</model><brand>kmiz</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="46.0"/></availabilities><cityprices><cityprice cityId="750000000">4249</cityprice></cityprices></offer>
+<offer sku="120646656_297112643"><model>Панама размер 54, 60, черный</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/></availabilities><cityprices><cityprice cityId="750000000">940</cityprice></cityprices></offer>
+<offer sku="132188591_523226772"><model>Haoyan пинцет 1 шт</model><brand>haoyan</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="93.0"/></availabilities><cityprices><cityprice cityId="750000000">685</cityprice></cityprices></offer>
+<offer sku="206130049"><model>UNIQORN щетка-массажер 28</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="200.0"/></availabilities><cityprices><cityprice cityId="750000000">990</cityprice></cityprices></offer>
+<offer sku="UNQ-pirs-Gun-black"><model>UNIQORN набор для прокола ушей 1 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="10.0"/></availabilities><cityprices><cityprice cityId="750000000">4990</cityprice></cityprices></offer>
+<offer sku="143111375_928746650"><model>Гарнитура 30398974_949104361</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="19.0"/></availabilities><cityprices><cityprice cityId="750000000">1095</cityprice></cityprices></offer>
+<offer sku="136372816_513295897"><model>Форма для выпечки, для запекания, для гриля силикон, 1 шт</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/></availabilities><cityprices><cityprice cityId="750000000">900</cityprice></cityprices></offer>
+<offer sku="113588651_670003723"><model>BY ватные палочки спираль лопаточка тонкие для детей и взрослых 400 шт</model><brand>by</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="88.0"/></availabilities><cityprices><cityprice cityId="750000000">989</cityprice></cityprices></offer>
+<offer sku="UNQ-tapki-10p"><model>UNIQORN тапочки для педикюра Универсальный 10 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="16.0"/></availabilities><cityprices><cityprice cityId="750000000">5990</cityprice></cityprices></offer>
+<offer sku="BRTX-SHR-red"><model>Дрель-шуруповерт BORTEX BRTX-SHR-red</model><brand>bortex</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0"/></availabilities><cityprices><cityprice cityId="750000000">23990</cityprice></cityprices></offer>
+<offer sku="UNQ-tapki-05"><model>UNIQORN тапочки для педикюра Универсальный 5 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="9.0"/></availabilities><cityprices><cityprice cityId="750000000">3990</cityprice></cityprices></offer>
+<offer sku="108881905_290595451"><model>Atomy Toothbrush зубная щетка средняя 4 шт</model><brand>atomy</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="186.0"/></availabilities><cityprices><cityprice cityId="750000000">1100</cityprice></cityprices></offer>
+<offer sku="BRTX-SHR-red-01"><model>Дрель-шуруповерт BORTEX BRTX-SHR-red-01</model><brand>bortex</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0"/></availabilities><cityprices><cityprice cityId="750000000">24990</cityprice></cityprices></offer>
+<offer sku="143559602_898863743"><model>Серьги MODU бижутерный сплав, без вставок</model><brand>modu</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="26.0"/></availabilities><cityprices><cityprice cityId="750000000">350</cityprice></cityprices></offer>
+<offer sku="155510080_768869075"><model>TAI мочалка для тела, для пилинга черный 1 шт</model><brand>tai</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="73.0"/></availabilities><cityprices><cityprice cityId="750000000">500</cityprice></cityprices></offer>
+<offer sku="UNQ-earrings-silver"><model>Серьги UNIQORN UNQ-earrings-silver бижутерный сплав, без вставок</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/></availabilities><cityprices><cityprice cityId="750000000">1590</cityprice></cityprices></offer>
+<offer sku="UNQ-PO-PR-01-white"><model>Пароочиститель UNIQORN PREMIUM белый, черный</model><brand>uniqorn-tehnika</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="8.0"/></availabilities><cityprices><cityprice cityId="750000000">29990</cityprice></cityprices></offer>
+<offer sku="144938952_362320105"><model>Набор инструментов для педикюра 3 шт</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="84.0"/></availabilities><cityprices><cityprice cityId="750000000">1459</cityprice></cityprices></offer>
+<offer sku="UNQ-kogterezka-pink"><model>UNIQORN когтерез-ножницы, вид животного: собаки</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="19.0"/></availabilities><cityprices><cityprice cityId="750000000">1990</cityprice></cityprices></offer>
+<offer sku="120072403_234542149"><model>Поворотный стол для 3D съемки Wellamart wl0338 13 см белый</model><brand>wellamart</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="8.0"/></availabilities><cityprices><cityprice cityId="750000000">4500</cityprice></cityprices></offer>
+<offer sku="MD-AF-01"><model>MadAin MD-AF-01 черно-серебристый</model><brand>madain</brand><availabilities><availability available="yes" storeId="16276143_vlad" preOrder="0"/><availability available="yes" storeId="16276143_PP3" preOrder="0"/></availabilities><cityprices><cityprice cityId="395439100">120</cityprice><cityprice cityId="750000000">34990</cityprice></cityprices></offer>
+<offer sku="133859663_472594748"><model>Держатель, ценникодержатель 345572</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="30.0"/></availabilities><cityprices><cityprice cityId="750000000">379</cityprice></cityprices></offer>
+<offer sku="UNQ-tapki-02"><model>UNIQORN тапочки для педикюра Универсальный 2 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="48.0"/></availabilities><cityprices><cityprice cityId="750000000">1990</cityprice></cityprices></offer>
+<offer sku="146138987_939387764"><model>Подушка WayToGrow OPG99 на подголовник, на шею кресла 26x28 см черный</model><brand>waytogrow</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/></availabilities><cityprices><cityprice cityId="750000000">9990</cityprice></cityprices></offer>
+<offer sku="UNQ-pinc-4pcs"><model>UNIQORN пинцет 4 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="40.0"/></availabilities><cityprices><cityprice cityId="750000000">1500</cityprice></cityprices></offer>
+<offer sku="UNQ-FORM-01-pink"><model>UNIQORN для льда, для десерта, для конфет, для мармелада, для шоколада, для заготовок UNQ-FORM-01-pink, силикон</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="20.0"/></availabilities><cityprices><cityprice cityId="750000000">1499</cityprice></cityprices></offer>
+<offer sku="BRTX-SHR-yellow"><model>Дрель-шуруповерт BORTEX BRTX-SHR-yellow</model><brand>bortex</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/></availabilities><cityprices><cityprice cityId="750000000">22990</cityprice></cityprices></offer>
+<offer sku="110105650_059217348"><model>Easy Braid канекалон гофрированный фиолетовый женский</model><brand>easy-braid</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="52.0"/></availabilities><cityprices><cityprice cityId="750000000">875</cityprice></cityprices></offer>
+<offer sku="168055247_802148369"><model>Накладные ногти 30402895_231449529 1 шт</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="64.0"/></availabilities><cityprices><cityprice cityId="750000000">600</cityprice></cityprices></offer>
+<offer sku="UNQ-pinc-04+kys"><model>UNIQORN пинцет 4 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="29.0"/></availabilities><cityprices><cityprice cityId="750000000">2990</cityprice></cityprices></offer>
+<offer sku="109923610_750713123"><model>Солнцезащитные очки круглые градиент</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">389</cityprice></cityprices></offer>
+<offer sku="BRTX-SHR-green"><model>Дрель-шуруповерт BORTEX BRTX-SHR-green</model><brand>bortex</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0"/></availabilities><cityprices><cityprice cityId="750000000">28990</cityprice></cityprices></offer>
+<offer sku="UNQ-ORG-pink-04"><model>UNIQORN органайзер пластик</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="30.0"/></availabilities><cityprices><cityprice cityId="750000000">3590</cityprice></cityprices></offer>
+<offer sku="118958110_831754460"><model>FASHION IS SHINING ободок 1 шт, черный</model><brand>fashion-is-shining</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="20.0"/></availabilities><cityprices><cityprice cityId="750000000">499</cityprice></cityprices></offer>
+<offer sku="114262818_516178661"><model>Серьги медицинское золото, фианит</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="20.0"/></availabilities><cityprices><cityprice cityId="750000000">2532</cityprice></cityprices></offer>
+<offer sku="MD-AF-02"><model>MadAin MD-AF-02 черный, белый</model><brand>madain</brand><availabilities><availability available="yes" storeId="16276143_vlad" preOrder="0"/><availability available="yes" storeId="16276143_PP3" preOrder="0"/></availabilities><cityprices><cityprice cityId="395439100">130</cityprice><cityprice cityId="750000000">44990</cityprice></cityprices></offer>
+<offer sku="171600136_960130174"><model>UNIQORN кусачки-щипчики UNQ-kys-01+4pinc 1 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="46.0"/></availabilities><cityprices><cityprice cityId="750000000">3990</cityprice></cityprices></offer>
+<offer sku="167025753_226287361"><model>Брелок Клавиатура 5.5 пластик 1 шт</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="13.0"/></availabilities><cityprices><cityprice cityId="750000000">1340</cityprice></cityprices></offer>
+<offer sku="UNQ-BR-pink-blue"><model>UNIQORN массажная расческа 22</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">1590</cityprice></cityprices></offer>
+<offer sku="143359120_617160391"><model>Щетка-массажер 28</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="192.0"/></availabilities><cityprices><cityprice cityId="750000000">300</cityprice></cityprices></offer>
+<offer sku="106810339_717284073"><model>TATTOO пистолет, пластик 2 шт</model><brand>tattoo-odezhda</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="25.0"/></availabilities><cityprices><cityprice cityId="750000000">1123</cityprice></cityprices></offer>
+<offer sku="114457986_305732934"><model>Фильтр C26W для пылесосов Deerma, 3 изделия.</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/></availabilities><cityprices><cityprice cityId="750000000">702</cityprice></cityprices></offer>
+<offer sku="140141161_542426591"><model>Пистолет 1 шт</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">2433</cityprice></cityprices></offer>
+<offer sku="144184995_014993593"><model>Безворсовые салфетки, одноразовые полотенца, набор одноразовых расходных материалов 60х30 100 шт</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="88.0"/></availabilities><cityprices><cityprice cityId="750000000">4528</cityprice></cityprices></offer>
+<offer sku="063833382"><model>Био-керамический карандаш для удаления Кутикулы 5шт в Наборе</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="27.0"/></availabilities><cityprices><cityprice cityId="750000000">6990</cityprice></cityprices></offer>
+<offer sku="UNQ-FlossV2-02pcs"><model>UNIQORN Зубная нить UNIQORN розовая 2шт ленточная 2 шт по 50 м</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="26.0"/></availabilities><cityprices><cityprice cityId="750000000">2100</cityprice></cityprices></offer>
+<offer sku="UNQ-espander"><model>Челюстной UNIQORN UNQ-espander 2 шт 40 кг</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="89.0"/></availabilities><cityprices><cityprice cityId="750000000">990</cityprice></cityprices></offer>
+<offer sku="UNQ-OTP-PREMIUM-white"><model>Отпариватель UNIQORN UNQ-OTP-PREMIUM-white белый, золотистый</model><brand>uniqorn-tehnika</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="4.0"/></availabilities><cityprices><cityprice cityId="750000000">16990</cityprice></cityprices></offer>
+<offer sku="134609597_013765351"><model>Балаклава размер 58, серый</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="46.0"/></availabilities><cityprices><cityprice cityId="750000000">699</cityprice></cityprices></offer>
+<offer sku="642163061"><model>UNIQORN апельсиновая палочка 11 1 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="38.0"/></availabilities><cityprices><cityprice cityId="750000000">1890</cityprice></cityprices></offer>
+<offer sku="UNQ-Dental-V2-02"><model>UNIQORN Зубная нить UNIQORN 2шт в комплекте ленточная 2 шт по 50 м</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="10.0"/></availabilities><cityprices><cityprice cityId="750000000">2100</cityprice></cityprices></offer>
+<offer sku="UNQ-FlossV2-pink"><model>UNIQORN Зубная нить UNIQORN 1шт Розовая ленточная 1 шт</model><brand>uniqorn</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="75.0"/></availabilities><cityprices><cityprice cityId="750000000">1290</cityprice></cityprices></offer>
+<offer sku="116700084_154078116"><model>Эспандер Челюстной 2 шт 40 кг</model><brand></brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="24.0"/></availabilities><cityprices><cityprice cityId="750000000">390</cityprice></cityprices></offer>
+<offer sku="UNQ-PO-MD-01-grey"><model>Пароочиститель UNIQORN Medium белый, серый</model><brand>uniqorn-tehnika</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="10.0"/></availabilities><cityprices><cityprice cityId="750000000">24990</cityprice></cityprices></offer>
+<offer sku="UNQ59294535"><model>Xiaomi Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">31670</cityprice></cityprices></offer>
+<offer sku="UNQ788764123"><model>Ирригатор для зубов и десен портативный Flow, белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">29320</cityprice></cityprices></offer>
+<offer sku="UNQ377454649"><model>Ирригатор для зубов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">26260</cityprice></cityprices></offer>
+<offer sku="UNQ436663128"><model>Ирригатор для зубов и десен портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">27260</cityprice></cityprices></offer>
+<offer sku="UNQ205438396"><model>Ирригатор для зубов и десен</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">32650</cityprice></cityprices></offer>
+<offer sku="UNQ497520772"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">30810</cityprice></cityprices></offer>
+<offer sku="UNQ93378993"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">22650</cityprice></cityprices></offer>
+<offer sku="UNQ209150672"><model>Ирригатор для зубов стационарный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">38510</cityprice></cityprices></offer>
+<offer sku="UNQ1019286710"><model>Ирригатор для зубов и десен профессиональный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">33130</cityprice></cityprices></offer>
+<offer sku="UNQ48886315"><model>Ирригатор для зубов стационарный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ37910257"><model>Ирригатор портативный F100 Премиум с диапазоном 20-970кПа !</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">31540</cityprice></cityprices></offer>
+<offer sku="UNQ113490909"><model>Xiaomi Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25660</cityprice></cityprices></offer>
+<offer sku="UNQ93378992"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">22650</cityprice></cityprices></offer>
+<offer sku="UNQ450965333"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">33700</cityprice></cityprices></offer>
+<offer sku="UNQ1586794613"><model>Ирригатор для зубов и десен портативный Revyline RL 450 Neo, белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56710</cityprice></cityprices></offer>
+<offer sku="UNQ138693928"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">27720</cityprice></cityprices></offer>
+<offer sku="UNQ1200312573"><model>Ирригатор для зубов Ревилайн RL 100 стационарный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ165138223"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">18930</cityprice></cityprices></offer>
+<offer sku="UNQ412277781"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">22450</cityprice></cityprices></offer>
+<offer sku="UNQ1567918570"><model>Ирригатор для зубов и десен стационарный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">52460</cityprice></cityprices></offer>
+<offer sku="UNQ622977798"><model>Ирригатор для зубов и десен портативный MEO705</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">31560</cityprice></cityprices></offer>
+<offer sku="UNQ532302973"><model>Ирригатор для зубов Ревилайн RL 430 Basic слайдер</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="6" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45350</cityprice></cityprices></offer>
+<offer sku="UNQ195807237"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">19600</cityprice></cityprices></offer>
+<offer sku="UNQ178631070"><model>Аспиратор назальный электрический мощный соплеотсос для носа</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">73130</cityprice></cityprices></offer>
+<offer sku="UNQ220050840"><model>Ирригатор для зубов и десен портативный с UV-лампой</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ983876166"><model>Чистка ушей Ирригатор электрический очиститель ухочистка</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ74643152"><model>Ирригатор для зубов и десен</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">30390</cityprice></cityprices></offer>
+<offer sku="UNQ436663129"><model>Ирригатор для зубов и десен портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">27260</cityprice></cityprices></offer>
+<offer sku="UNQ557645459"><model>Ирригатор для зубов Ревилайн RL 840 слайдер, фиолетовый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56710</cityprice></cityprices></offer>
+<offer sku="UNQ403280579"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">22450</cityprice></cityprices></offer>
+<offer sku="UNQ558098362"><model>Ирригатор для зубов Ревилайн RL 840 слайдер, зеленый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56710</cityprice></cityprices></offer>
+<offer sku="UNQ322199094"><model>Xiaomi Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">34890</cityprice></cityprices></offer>
+<offer sku="UNQ592752206"><model>Ирригатор портативный WI-911 с USB-кабелем, 3 режима работы</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">30130</cityprice></cityprices></offer>
+<offer sku="UNQ37910667"><model>Ирригатор стационарный G1000 Премиум, Кварцевая лампа,1000мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56200</cityprice></cityprices></offer>
+<offer sku="UNQ1025799390"><model>Ирригатор для зубов и десен Revyline RL 230, портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40810</cityprice></cityprices></offer>
+<offer sku="UNQ558126730"><model>Ирригатор для зубов Ревилайн RL 840 розовый, слайдер</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56710</cityprice></cityprices></offer>
+<offer sku="UNQ1025782504"><model>Ирригатор для зубов и десен Revyline RL 230, портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40810</cityprice></cityprices></offer>
+<offer sku="UNQ262618038"><model>Xiaomi Ирригатор 2в1 со щеткой портативный для зубов и десен</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">24430</cityprice></cityprices></offer>
+<offer sku="UNQ203194814"><model>Ирригатор для зубов Ревилайн RL 220 White портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">49890</cityprice></cityprices></offer>
+<offer sku="UNQ1634700247"><model>Ирригатор для зубов и полости рта</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">17110</cityprice></cityprices></offer>
+<offer sku="UNQ163960509"><model>Портативный ирригатор для очистки зубов и полости рта</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">32000</cityprice></cityprices></offer>
+<offer sku="UNQ521564074"><model>Ирригатор для зубов Ревилайн RL 670 портативный, белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">48740</cityprice></cityprices></offer>
+<offer sku="UNQ615701602"><model>Ирригатор портативный RL 670 белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40170</cityprice></cityprices></offer>
+<offer sku="UNQ1654871068"><model>Аспиратор ирригатор для промывания носа электрический соплеотсос от 1 года</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56500</cityprice></cityprices></offer>
+<offer sku="UNQ1869841228"><model>Ирригатор Water Flosser 2 White EU, BHR9235GL</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">26690</cityprice></cityprices></offer>
+<offer sku="UNQ307995123"><model>Подарочный ирригатор professional для чистки зубов SCM18</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">26740</cityprice></cityprices></offer>
+<offer sku="UNQ179964363"><model>Ирригатор для зубов и десен портативный AquaPick, черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25650</cityprice></cityprices></offer>
+<offer sku="UNQ768258403"><model>Ирригатор для зубов портативный DF3000 розовый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45350</cityprice></cityprices></offer>
+<offer sku="UNQ205438397"><model>Ирригатор для зубов и десен</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">33320</cityprice></cityprices></offer>
+<offer sku="UNQ1828617857"><model>Ирригатор для зубов и десен Revyline RL 630 Neo, портативный, черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="12" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">68060</cityprice></cityprices></offer>
+<offer sku="UNQ1454064051"><model>Ирригатор для зубов портативный D.Fresh by Revyline DF3000, белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45350</cityprice></cityprices></offer>
+<offer sku="UNQ521577294"><model>Ирригатор для зубов Ревилайн RL 670 портативный, черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">48750</cityprice></cityprices></offer>
+<offer sku="UNQ42537594"><model>Ирригатор стационарный 288UV с UV-лампой и Массажем, 600мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">49090</cityprice></cityprices></offer>
+<offer sku="UNQ180034136"><model>Ирригатор для зубов Ревилайн RL 410 слайдер</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56710</cityprice></cityprices></offer>
+<offer sku="UNQ1566567506"><model>Ирригатор для зубов портативный Ревилайн RL 640 Neo Mint</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ450966495"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">33700</cityprice></cityprices></offer>
+<offer sku="UNQ1567939689"><model>Ирригатор для зубов и десен стационарный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">52460</cityprice></cityprices></offer>
+<offer sku="UNQ1462462617"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">27600</cityprice></cityprices></offer>
+<offer sku="UNQ410143619"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">29290</cityprice></cityprices></offer>
+<offer sku="UNQ1587109132"><model>Ирригатор для зубов и десен портативный Revyline RL 450 Neo, черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56700</cityprice></cityprices></offer>
+<offer sku="UNQ18317873"><model>Ирригатор стационарный 188G семейный для полости рта, 1000мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ262412123"><model>Xiaomi Ирригатор для зубов и десен портативный голубой</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">41230</cityprice></cityprices></offer>
+<offer sku="UNQ182449733"><model>Ирригатор для зубов и десен профессиональный Жидкость для ирригатора Xiaomi</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">34270</cityprice></cityprices></offer>
+<offer sku="UNQ1013287758"><model>Ирригатор для зубов и десен портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">24570</cityprice></cityprices></offer>
+<offer sku="UNQ418050963"><model>Ирригатор для зубов и полости рта 2 MEO705</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">33480</cityprice></cityprices></offer>
+<offer sku="UNQ1508689727"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">16290</cityprice></cityprices></offer>
+<offer sku="UNQ220050024"><model>Ирригатор для зубов и десен портативный с UV-лампой</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">41770</cityprice></cityprices></offer>
+<offer sku="UNQ1094959646"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">22460</cityprice></cityprices></offer>
+<offer sku="UNQ303200612"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="4" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">26770</cityprice></cityprices></offer>
+<offer sku="UNQ261025275"><model>Ирригатор для полости рта SPLAT Sense&amp;Power, синий</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">46090</cityprice></cityprices></offer>
+<offer sku="UNQ809436279"><model>Ирригатор для полости рта портативный PRO-901</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">44720</cityprice></cityprices></offer>
+<offer sku="UNQ1338078039"><model>Ирригатор для носа электрический 300 мл, 5 режимов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">29610</cityprice></cityprices></offer>
+<offer sku="UNQ180033450"><model>Ирригатор для зубов RL 410 Ревилайн компактный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56710</cityprice></cityprices></offer>
+<offer sku="UNQ776493717"><model>Xiaomi ирригатор для зубов и десен портативный 5 режимов большой</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">27210</cityprice></cityprices></offer>
+<offer sku="UNQ10860529"><model>Ирригатор для зубов стационарный LD-A8</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35530</cityprice></cityprices></offer>
+<offer sku="UNQ1828611252"><model>Ирригатор для зубов и десен Revyline RL 630 Neo, портативный, белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">68070</cityprice></cityprices></offer>
+<offer sku="UNQ122029522"><model>Xiaomi ирригатор для зубов и десен профессиональный с УФ</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">37430</cityprice></cityprices></offer>
+<offer sku="UNQ240222193"><model>Портативный ирригатор для зубов и десен Xiaomi</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="4" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">26680</cityprice></cityprices></offer>
+<offer sku="UNQ946014043"><model>Ирригатор для полости рта B.Well WI-922 стационарный 1 шт</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40850</cityprice></cityprices></offer>
+<offer sku="UNQ261025274"><model>Ирригатор для полости рта SPLAT Sense&amp;Power, красный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">46090</cityprice></cityprices></offer>
+<offer sku="UNQ1462477274"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">32750</cityprice></cityprices></offer>
+<offer sku="UNQ502956966"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">30210</cityprice></cityprices></offer>
+<offer sku="UNQ404312357"><model>Ирригатор портативный для полости рта Water Flosser 2</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">32650</cityprice></cityprices></offer>
+<offer sku="UNQ35161360"><model>Ирригатор для зубов портативный LD-A3</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">30370</cityprice></cityprices></offer>
+<offer sku="UNQ468201471"><model>Ирригатор портативный WI-911 емкость 330 мл, черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">52180</cityprice></cityprices></offer>
+<offer sku="UNQ541513180"><model>Ирригатор для зубов и полости рта портативный с дисплеем</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">27480</cityprice></cityprices></offer>
+<offer sku="UNQ788767210"><model>Ирригатор для зубов и десен портативный Flow, черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">29590</cityprice></cityprices></offer>
+<offer sku="UNQ399075236"><model>Ирригатор для ушей ухочистка промывка от пробок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ4945717"><model>Ирригатор портативный WI-911 с адаптером, 3 режима работы</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">34880</cityprice></cityprices></offer>
+<offer sku="UNQ11137712"><model>Ирригатор стационарный WI-933 семейный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">62140</cityprice></cityprices></offer>
+<offer sku="UNQ927432457"><model>Ирригатор для зубов и десен портативный беспроводной</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">20560</cityprice></cityprices></offer>
+<offer sku="UNQ261025276"><model>Ирригатор для полости рта SPLAT Sense&amp;Power, фиолетовый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">46090</cityprice></cityprices></offer>
+<offer sku="UNQ410142110"><model>Ирригатор для зубов и полости рта портативный с дисплеем</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">24890</cityprice></cityprices></offer>
+<offer sku="UNQ443713050"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">24550</cityprice></cityprices></offer>
+<offer sku="UNQ1389877017"><model>Портативный ирригатор для зубов и десен профессиональный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">24450</cityprice></cityprices></offer>
+<offer sku="UNQ494053060"><model>Ирригатор стационарный для зубов и десен GARLYN Stream Base</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">39350</cityprice></cityprices></offer>
+<offer sku="UNQ489694660"><model>Мини ирригатор для зубов портативный Oral Care Mini</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">99590</cityprice></cityprices></offer>
+<offer sku="UNQ35161362"><model>Ирригатор для зубов портативный LD-A3</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">30060</cityprice></cityprices></offer>
+<offer sku="UNQ7372602"><model>Ирригатор портативный для полости рта TH-912</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51410</cityprice></cityprices></offer>
+<offer sku="UNQ489668052"><model>Ирригатор для зубов портативный ht prof I-02 белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">46570</cityprice></cityprices></offer>
+<offer sku="UNQ200773919"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">29880</cityprice></cityprices></offer>
+<offer sku="UNQ436697452"><model>Ирригатор для зубов CS-1 Pro Dent Crystal и 4 насадки</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">39760</cityprice></cityprices></offer>
+<offer sku="UNQ261022684"><model>Ирригатор для полости рта SPLAT Sense&amp;Power, бежевый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">46090</cityprice></cityprices></offer>
+<offer sku="UNQ1482591925"><model>Ирригатор для зубов CS-5 Smart Белый и 6 насадок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">43150</cityprice></cityprices></offer>
+<offer sku="UNQ497839975"><model>Портативный мини ирригатор для зубов и десен oral irrigator</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">21440</cityprice></cityprices></offer>
+<offer sku="UNQ180032808"><model>Ирригатор для зубов Ревилайн RL 410 портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56710</cityprice></cityprices></offer>
+<offer sku="UNQ1496083978"><model>Ирригатор для зубов и десен портативный с щеткой</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">20460</cityprice></cityprices></offer>
+<offer sku="UNQ19063353"><model>Ирригатор стационарный 188UV семейный,Кварцевая лампа,1000мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">59980</cityprice></cityprices></offer>
+<offer sku="UNQ496699143"><model>Ирригатор для зубов и дёсен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">41830</cityprice></cityprices></offer>
+<offer sku="UNQ165121323"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">18720</cityprice></cityprices></offer>
+<offer sku="UNQ88051273"><model>Ирригатор для зубов и десен</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">28290</cityprice></cityprices></offer>
+<offer sku="UNQ1025984203"><model>RL 840 ирригатор портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56700</cityprice></cityprices></offer>
+<offer sku="UNQ768250423"><model>Ирригатор для зубов портативный DF3000, мятный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45350</cityprice></cityprices></offer>
+<offer sku="UNQ443720743"><model>Ирригатор для зубов и десен портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">27720</cityprice></cityprices></offer>
+<offer sku="UNQ34095974"><model>ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">68850</cityprice></cityprices></offer>
+<offer sku="UNQ439637676"><model>Ирригатор для полости рта портативный 300 мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ303680046"><model>Ирригатор для зубов и десен стационарный PWF 2005 IQ Home</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">105240</cityprice></cityprices></offer>
+<offer sku="UNQ146527236"><model>Ирригатор для зубов стационарный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">39140</cityprice></cityprices></offer>
+<offer sku="UNQ624296320"><model>Ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">21440</cityprice></cityprices></offer>
+<offer sku="UNQ491746651"><model>Ирригатор для зубов ht prof I-01 цвет Белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50920</cityprice></cityprices></offer>
+<offer sku="UNQ1139002471"><model>Ирригатор для зубов портативный с UV-лампой, 5 насадок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">26310</cityprice></cityprices></offer>
+<offer sku="UNQ1009419878"><model>Ирригатор для полости рта портативный 350 мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">47790</cityprice></cityprices></offer>
+<offer sku="UNQ163960508"><model>Портативный ирригатор для очистки зубов и полости рта</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">32000</cityprice></cityprices></offer>
+<offer sku="UNQ137657631"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">47280</cityprice></cityprices></offer>
+<offer sku="UNQ12735654"><model>Ирригатор для полости рта аккумуляторный 290 мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">42180</cityprice></cityprices></offer>
+<offer sku="UNQ558079944"><model>Ирригатор для зубов Ревилайн RL 840 слайдер, голубой</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56710</cityprice></cityprices></offer>
+<offer sku="UNQ159090926"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">47280</cityprice></cityprices></offer>
+<offer sku="UNQ399284816"><model>Ирригатор для зубов и десен портативный MEO705</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">33140</cityprice></cityprices></offer>
+<offer sku="UNQ1566098306"><model>Ирригатор для зубов портативный Ревилайн RL 640 Neo Pink</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ7675166"><model>Ирригатор для зубов и десен стационарный 600 мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45660</cityprice></cityprices></offer>
+<offer sku="UNQ178667462"><model>Портативный ирригатор для зубов и десен ирригатор дорожный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">48890</cityprice></cityprices></offer>
+<offer sku="UNQ1009419877"><model>Ирригатор для полости рта портативный 350 мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">47000</cityprice></cityprices></offer>
+<offer sku="UNQ1438948502"><model>Ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">21100</cityprice></cityprices></offer>
+<offer sku="UNQ437754787"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">19910</cityprice></cityprices></offer>
+<offer sku="UNQ473244856"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25320</cityprice></cityprices></offer>
+<offer sku="UNQ154189985"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56560</cityprice></cityprices></offer>
+<offer sku="UNQ347600645"><model>Ирригатор для зубов и десен беспроводной Xiaomi Mijia MEO705</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">37510</cityprice></cityprices></offer>
+<offer sku="UNQ178663846"><model>Ирригатор для зубов CS-9 Comfort Кремовый и 7 насадок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">47010</cityprice></cityprices></offer>
+<offer sku="UNQ503083715"><model>Ирригатор для зубов и десен портативный AquaPulse W8</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">116850</cityprice></cityprices></offer>
+<offer sku="UNQ507849166"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">22250</cityprice></cityprices></offer>
+<offer sku="UNQ10860530"><model>Ирригатор для зубов стационарный LD-A8</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35880</cityprice></cityprices></offer>
+<offer sku="UNQ1454232350"><model>Ирригатор для зубов портативный D.Fresh by Revyline DF3000, черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45360</cityprice></cityprices></offer>
+<offer sku="UNQ507828585"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">23650</cityprice></cityprices></offer>
+<offer sku="UNQ158733075"><model>Портативный ирригатор PulseBrush V350</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ210348285"><model>Ирригатор для зубов и десен YR4502, беспроводной</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">34660</cityprice></cityprices></offer>
+<offer sku="UNQ334804005"><model>Ирригатор портативный PRO-911/150 мл c адаптером</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">46660</cityprice></cityprices></offer>
+<offer sku="UNQ489668049"><model>Ирригатор для зубов портативный ht prof I-01 белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">48430</cityprice></cityprices></offer>
+<offer sku="UNQ532302971"><model>Ирригатор для зубов Ревилайн RL 430 Plus, слайдер</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51010</cityprice></cityprices></offer>
+<offer sku="UNQ624296321"><model>Ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">21440</cityprice></cityprices></offer>
+<offer sku="UNQ1334825367"><model>Ирригатор для зубов портативный белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25140</cityprice></cityprices></offer>
+<offer sku="UNQ1566017067"><model>Ирригатор для зубов портативный Ревилайн RL 640 Neo Violet</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ151163247"><model>Ирригатор для зубов портативный RL 450 NEO 3 насадки белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56700</cityprice></cityprices></offer>
+<offer sku="UNQ245404377"><model>Ирригатор для ушей и для носа</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">38840</cityprice></cityprices></offer>
+<offer sku="UNQ1438845030"><model>Ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">21440</cityprice></cityprices></offer>
+<offer sku="UNQ1567633540"><model>Ирригатор для зубов портативный Ревилайн by Gazarov RL 640 Neo</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ179964642"><model>Ирригатор для зубов и десен портативный AquaPick, белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">24440</cityprice></cityprices></offer>
+<offer sku="UNQ532302972"><model>Ирригатор для зубов Ревилайн RL 430 Plus, слайдер</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51010</cityprice></cityprices></offer>
+<offer sku="UNQ178664369"><model>Ирригатор для зубов CS-9 Comfort Черный и 7 насадок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51110</cityprice></cityprices></offer>
+<offer sku="UNQ489628522"><model>Ирригатор для зубов портативный и зубная щетка</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">37640</cityprice></cityprices></offer>
+<offer sku="UNQ1238459902"><model>Ирригатор для ушей очиститель с камерой ухочистка от пробок Отоскоп</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">58960</cityprice></cityprices></offer>
+<offer sku="UNQ446651764"><model>Ирригатор для зубов PD-FS350 беспроводной, объем 330мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">37250</cityprice></cityprices></offer>
+<offer sku="UNQ236446403"><model>Ирригатор для зубов мобильный RL410 Pink</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56640</cityprice></cityprices></offer>
+<offer sku="UNQ2005812803"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">24850</cityprice></cityprices></offer>
+<offer sku="UNQ1032296843"><model>Ирригатор портативный Sense &amp; Power H300 (фиолетов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ1012122083"><model>Ирригатор для зубов и полости рта портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">33370</cityprice></cityprices></offer>
+<offer sku="UNQ449031803"><model>Ирригатор для зубов портативный i-01 Белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50390</cityprice></cityprices></offer>
+<offer sku="UNQ397529363"><model>Ирригатор для зубов SWIT by Ревилайн RL 440 Black</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">91390</cityprice></cityprices></offer>
+<offer sku="UNQ43666433"><model>Портативный ирригатор для зубов RL 450 Neo</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56830</cityprice></cityprices></offer>
+<offer sku="UNQ1847130263"><model>Ирригатор для полости рта портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">49720</cityprice></cityprices></offer>
+<offer sku="UNQ187242923"><model>Ирригатор портативный 8 насадок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">71780</cityprice></cityprices></offer>
+<offer sku="UNQ180166223"><model>Беспроводной ирригатор IR002 Серый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35260</cityprice></cityprices></offer>
+<offer sku="UNQ211885493"><model>Ирригатор беспроводной черный HF-6</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40190</cityprice></cityprices></offer>
+<offer sku="UNQ252013750"><model>Ирригатор беспроводной</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50270</cityprice></cityprices></offer>
+<offer sku="UNQ936718308"><model>Xiaomi Ирригатор для зубов мини портативный Дорожный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ504997578"><model>Ирригатор для зубов и десен портативный HT i-01</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">55080</cityprice></cityprices></offer>
+<offer sku="UNQ445208028"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">23840</cityprice></cityprices></offer>
+<offer sku="UNQ979034838"><model>Ирригатор для полости рта BONES Line, портативный мощный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">29230</cityprice></cityprices></offer>
+<offer sku="UNQ420122298"><model>Портативный ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">31150</cityprice></cityprices></offer>
+<offer sku="UNQ495053148"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="12" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">71780</cityprice></cityprices></offer>
+<offer sku="UNQ257291478"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">38980</cityprice></cityprices></offer>
+<offer sku="UNQ938395848"><model>Ирригатор для ушей система очистки водой</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56120</cityprice></cityprices></offer>
+<offer sku="UNQ329860900"><model>Портативный ирригатор для зубов и полости рта</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="4" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">16810</cityprice></cityprices></offer>
+<offer sku="UNQ480636970"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35080</cityprice></cityprices></offer>
+<offer sku="UNQ1284476733"><model>Ирригатор для чистки ушей Aurivo 3 режима</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="6" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">31300</cityprice></cityprices></offer>
+<offer sku="UNQ892233603"><model>Портативный ирригатор для зубов RL 840 с УФ-лампой</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">64840</cityprice></cityprices></offer>
+<offer sku="UNQ1797830733"><model>Портативный ирригатор HT i-03 для ежедневного ухода</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">53010</cityprice></cityprices></offer>
+<offer sku="UNQ868526373"><model>Ирригатор revyline, RL 670 черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56280</cityprice></cityprices></offer>
+<offer sku="UNQ246294873"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35060</cityprice></cityprices></offer>
+<offer sku="UNQ568627353"><model>Ирригатор для зубов и десен портативный Bitvae C6</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">32090</cityprice></cityprices></offer>
+<offer sku="UNQ213080043"><model>Ирригатор CS Medica AquaPulsar CS-4 Impulse (белый)</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ439580223"><model>Ирригатор портативный для зубов и полости рта</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">22680</cityprice></cityprices></offer>
+<offer sku="UNQ1322334753"><model>Ирригатор для зубов портативный белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25330</cityprice></cityprices></offer>
+<offer sku="UNQ183106233"><model>Ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">41640</cityprice></cityprices></offer>
+<offer sku="UNQ720749403"><model>Ирригатор для зубов и десен портативный MI-400B</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="13" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">31340</cityprice></cityprices></offer>
+<offer sku="UNQ979065843"><model>Ирригатор для полости рта, портативный мощный с чехлом</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">44110</cityprice></cityprices></offer>
+<offer sku="UNQ348354970"><model>Ирригатор для полости рта i-02 портативный, чехол в подарок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50150</cityprice></cityprices></offer>
+<offer sku="UNQ171985843"><model>Ирригатор для зубов EW1611, стационарный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">147100</cityprice></cityprices></offer>
+<offer sku="UNQ489668053"><model>Ирригатор для зубов портативный ht prof I-02 черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">46570</cityprice></cityprices></offer>
+<offer sku="UNQ182450233"><model>Ирригатор для зубов портативный Жидкость для ирригатора Xiaomi</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40980</cityprice></cityprices></offer>
+<offer sku="UNQ289502293"><model>Ирригатор Hydro Sonic Flosser CG портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45190</cityprice></cityprices></offer>
+<offer sku="UNQ497608603"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25540</cityprice></cityprices></offer>
+<offer sku="UNQ998605093"><model>Ирригатор RL 220, белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">44040</cityprice></cityprices></offer>
+<offer sku="UNQ230723803"><model>Ирригатор для полости рта Polaris PWF 0201</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ269630803"><model>Ирригатор для гигиены полости рта</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">167940</cityprice></cityprices></offer>
+<offer sku="UNQ173663860"><model>Ирригатор для зубов и десен Jetpik JP200 Elite</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">150850</cityprice></cityprices></offer>
+<offer sku="UNQ952086794"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">32200</cityprice></cityprices></offer>
+<offer sku="UNQ438807674"><model>Ирригатор беспроводной HF-6</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51620</cityprice></cityprices></offer>
+<offer sku="UNQ968952374"><model>Ирригатор Xiaomi Mi Water Flosser 2</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="12" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ985304084"><model>Ирригатор для зубов и десен портативный мощный FL1010</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">26290</cityprice></cityprices></offer>
+<offer sku="UNQ851033714"><model>Ирригатор портативный Mendes QD-618WH, 4 насадки</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">29220</cityprice></cityprices></offer>
+<offer sku="UNQ431848964"><model>Ирригатор для полости рта 230мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">20210</cityprice></cityprices></offer>
+<offer sku="UNQ217965914"><model>Ирригатор портативный 4YoU Dental Pro (H2O FLOSS)</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">61730</cityprice></cityprices></offer>
+<offer sku="UNQ325368224"><model>Ирригатор для зубов Дентиджет C 203</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="12" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">38840</cityprice></cityprices></offer>
+<offer sku="UNQ173579256"><model>Ирригатор стационарный PulseBrush v900</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">63190</cityprice></cityprices></offer>
+<offer sku="UNQ449076276"><model>Портативный профессиональный ирригатор для зубов и десен</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">24750</cityprice></cityprices></offer>
+<offer sku="UNQ209027196"><model>Ирригатор RL 220 портативный для зубов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50200</cityprice></cityprices></offer>
+<offer sku="UNQ325381266"><model>Ирригатор для зубов Дентиджет F5 стационарный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="12" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51890</cityprice></cityprices></offer>
+<offer sku="UNQ51309006"><model>Портативный ирригатор для зубов RL 660</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="12" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51650</cityprice></cityprices></offer>
+<offer sku="UNQ171104526"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">21520</cityprice></cityprices></offer>
+<offer sku="UNQ274695726"><model>Ирригатор для зубов и десен профессиональный скалер ультразвуковой Xiaomi</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">58330</cityprice></cityprices></offer>
+<offer sku="UNQ435195306"><model>Ирригатор Electric Flusher MEO701 Белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="6" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">37760</cityprice></cityprices></offer>
+<offer sku="UNQ211057536"><model>Ирригатор беспроводной</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">49490</cityprice></cityprices></offer>
+<offer sku="UNQ393242886"><model>Ирригатор детский портативный для зубов A4</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">17680</cityprice></cityprices></offer>
+<offer sku="UNQ612979386"><model>Компактный водной очиститель для зубов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">39460</cityprice></cityprices></offer>
+<offer sku="UNQ263599596"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">26800</cityprice></cityprices></offer>
+<offer sku="UNQ6169896"><model>Ирригатор для зубов стационарный WI-922</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50530</cityprice></cityprices></offer>
+<offer sku="UNQ439715466"><model>Ирригатор полости рта CS Medica AquaPulsar CS-1 Pro Dent</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="12" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">60470</cityprice></cityprices></offer>
+<offer sku="UNQ44836660"><model>Ирригатор для полости рта зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">38140</cityprice></cityprices></offer>
+<offer sku="UNQ248460246"><model>Ирригатор для зубов и полости рта стационарный Аллигатор L</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ1228235207"><model>Ирригатор для полости рта портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">16360</cityprice></cityprices></offer>
+<offer sku="UNQ357924047"><model>Ирригатор xiaomi</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ496492967"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">53690</cityprice></cityprices></offer>
+<offer sku="UNQ1292725487"><model>Ирригатор для зубов портативный складной</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="4" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25520</cityprice></cityprices></offer>
+<offer sku="UNQ437468147"><model>Mijia MEO705</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">32340</cityprice></cityprices></offer>
+<offer sku="UNQ1054920047"><model>Электрический ирригатор для ушей Eariva 500 мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">39420</cityprice></cityprices></offer>
+<offer sku="UNQ1332399677"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">19530</cityprice></cityprices></offer>
+<offer sku="UNQ853795337"><model>Ирригатор для зубов и десен портативный розовый, 5 насадок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ1252922417"><model>Ирригатор WF-21 портатив. импульсн. 2насад. белый (WF21)</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">157200</cityprice></cityprices></offer>
+<offer sku="UNQ944172617"><model>Ирригатор для полости рта</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">23910</cityprice></cityprices></offer>
+<offer sku="UNQ1015173467"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">20520</cityprice></cityprices></offer>
+<offer sku="UNQ1297673117"><model>Ирригатор для зубов портативный белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25330</cityprice></cityprices></offer>
+<offer sku="UNQ865692647"><model>Ирригатор портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">31340</cityprice></cityprices></offer>
+<offer sku="UNQ269078927"><model>Мощный ирригатор для зубов Ревилайн РЛ 220</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">47670</cityprice></cityprices></offer>
+<offer sku="UNQ306543691"><model>Ирригатор для зубов портативный SC-WF04</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">20490</cityprice></cityprices></offer>
+<offer sku="UNQ236446891"><model>Ирригатор мобильный RL410 Мятный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56640</cityprice></cityprices></offer>
+<offer sku="UNQ1272922771"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45080</cityprice></cityprices></offer>
+<offer sku="UNQ1231366591"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25330</cityprice></cityprices></offer>
+<offer sku="UNQ166254601"><model>Стационарный ирригатор для зубов WP-660 Ultra</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">213410</cityprice></cityprices></offer>
+<offer sku="UNQ615681061"><model>Ирригатор портативный RL 670 черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45340</cityprice></cityprices></offer>
+<offer sku="UNQ480636961"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">70250</cityprice></cityprices></offer>
+<offer sku="UNQ171164191"><model>Портативный ирригатор для полости рта</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">28050</cityprice></cityprices></offer>
+<offer sku="UNQ649535581"><model>Ирригатор портативный RL 670 (9102) черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="13" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">48740</cityprice></cityprices></offer>
+<offer sku="UNQ172297681"><model>Ирригатор для зубов OS-1 Ultra Черный и насадки 7 шт</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="4" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50430</cityprice></cityprices></offer>
+<offer sku="UNQ1080830641"><model>Ирригатор для зубов и десен</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35680</cityprice></cityprices></offer>
+<offer sku="UNQ1301934661"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45320</cityprice></cityprices></offer>
+<offer sku="UNQ624280711"><model>Ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">21440</cityprice></cityprices></offer>
+<offer sku="UNQ241544751"><model>Ирригатор портативный RL 410.</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">58650</cityprice></cityprices></offer>
+<offer sku="UNQ491820561"><model>Ирригатор для зубов ht prof I-02 цвет Белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">48580</cityprice></cityprices></offer>
+<offer sku="UNQ213080031"><model>Ирригатор CS Medica AquaPulsar CS-9 Comfort (белый)</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">73930</cityprice></cityprices></offer>
+<offer sku="UNQ457919061"><model>Ирригатор для зубов и полости рта портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">17050</cityprice></cityprices></offer>
+<offer sku="UNQ1397283171"><model>Ирригатор для зубов портативный белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25330</cityprice></cityprices></offer>
+<offer sku="UNQ665450361"><model>Ирригатор для зубов и десен портативный PWF 1002T, 3 насадки</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">53360</cityprice></cityprices></offer>
+<offer sku="UNQ483854991"><model>Ирригатор для полости рта портативный для зубов и брекетов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">53690</cityprice></cityprices></offer>
+<offer sku="UNQ1414162731"><model>Ирригатор для зубов портативный белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25330</cityprice></cityprices></offer>
+<offer sku="UNQ348354968"><model>Ирригатор для полости рта i-01 Белый Hygiene Technologies HT</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56270</cityprice></cityprices></offer>
+<offer sku="UNQ403008068"><model>Ирригатор портативный беспроводной DL-010W 300 мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">63310</cityprice></cityprices></offer>
+<offer sku="UNQ624372098"><model>Ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">20540</cityprice></cityprices></offer>
+<offer sku="UNQ1010154008"><model>Ирригатор для зубов портативный Ревилайн RL 670 черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45340</cityprice></cityprices></offer>
+<offer sku="UNQ122202908"><model>Аспиратор - ирригатор для носа Nascool.</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="12" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">66080</cityprice></cityprices></offer>
+<offer sku="UNQ482440011"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45820</cityprice></cityprices></offer>
+<offer sku="UNQ1797830648"><model>Портативный ирригатор HT i-03 для ежедневного ухода</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">53010</cityprice></cityprices></offer>
+<offer sku="UNQ1509056724"><model>Ирригатор Water Flosser 2 White EU</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">34660</cityprice></cityprices></offer>
+<offer sku="UNQ1804380954"><model>Портативный ирригатор SWIT by Revyline RL 460, бежевый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">114720</cityprice></cityprices></offer>
+<offer sku="UNQ444695364"><model>Портативный ирригатор RL 220 Black</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">55170</cityprice></cityprices></offer>
+<offer sku="UNQ267626154"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56250</cityprice></cityprices></offer>
+<offer sku="UNQ225366924"><model>Ирригатор для полости рта Xiaomi Mijia MEO705</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">38590</cityprice></cityprices></offer>
+<offer sku="UNQ684689214"><model>Ирригатор WF-660EU</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">142650</cityprice></cityprices></offer>
+<offer sku="UNQ180166224"><model>Беспроводной ирригатор IR002 Зеленый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35260</cityprice></cityprices></offer>
+<offer sku="UNQ446104284"><model>Ирригатор для зубов RL 640 портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ1244504050"><model>RL 430 Basic Ирригатор портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="13" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45340</cityprice></cityprices></offer>
+<offer sku="UNQ183106240"><model>Ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ1272879760"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">26620</cityprice></cityprices></offer>
+<offer sku="UNQ375221402"><model>Ирригатор RL 150 Pink</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ924010592"><model>Ирригатор для зубов портативный с 5 насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">37990</cityprice></cityprices></offer>
+<offer sku="UNQ35078012"><model>Ирригатор для полости рта и зубов портативный WI-911</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35020</cityprice></cityprices></offer>
+<offer sku="UNQ1138920362"><model>Ирригатор для полости рта RL 220 емкость резервуара 0,3 л 2</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">82190</cityprice></cityprices></offer>
+<offer sku="UNQ567765812"><model>Ирригатор для зубов и десен портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">32220</cityprice></cityprices></offer>
+<offer sku="UNQ444690847"><model>Портативный ирригатор RL 410</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">70030</cityprice></cityprices></offer>
+<offer sku="UNQ183106837"><model>Ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">42040</cityprice></cityprices></offer>
+<offer sku="UNQ1231366592"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25330</cityprice></cityprices></offer>
+<offer sku="UNQ624372097"><model>Ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">20540</cityprice></cityprices></offer>
+<offer sku="UNQ244814167"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">30400</cityprice></cityprices></offer>
+<offer sku="UNQ251733817"><model>H2oFloss Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">32930</cityprice></cityprices></offer>
+<offer sku="UNQ776497712"><model>Xiaomi Ирригатор для зубов и десен портативный 5 режимов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">27210</cityprice></cityprices></offer>
+<offer sku="UNQ414590317"><model>Ирригатор D52 Upgrade Version портативный черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">33620</cityprice></cityprices></offer>
+<offer sku="UNQ1415733337"><model>Ирригатор для зубов CS-9 Comfort Зеленый и 7 насадок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51110</cityprice></cityprices></offer>
+<offer sku="UNQ384080527"><model>Портативный ирригатор для полости рта и чистки зубов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">28830</cityprice></cityprices></offer>
+<offer sku="UNQ761657972"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35060</cityprice></cityprices></offer>
+<offer sku="UNQ480636967"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="12" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51090</cityprice></cityprices></offer>
+<offer sku="UNQ1804356577"><model>Портативный ирригатор SWIT by Revyline RL 460, серый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">114720</cityprice></cityprices></offer>
+<offer sku="UNQ491822942"><model>Ирригатор для зубов ht prof I-02 цвет Черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">48580</cityprice></cityprices></offer>
+<offer sku="UNQ193222207"><model>Стационарный ирригатор для зубов WP-150 (160) Ultra Plus</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">174290</cityprice></cityprices></offer>
+<offer sku="UNQ217965910"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">66420</cityprice></cityprices></offer>
+<offer sku="UNQ778455346"><model>Портативный ирригатор для зубов с высокой мощностью</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">46600</cityprice></cityprices></offer>
+<offer sku="UNQ236620895"><model>Ирригатор для зубов WF-03</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">33040</cityprice></cityprices></offer>
+<offer sku="UNQ306824626"><model>Ирригатор для зубов и десен портативный PWF 0201</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">69550</cityprice></cityprices></offer>
+<offer sku="UNQ1246709266"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25390</cityprice></cityprices></offer>
+<offer sku="UNQ444831196"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">70250</cityprice></cityprices></offer>
+<offer sku="UNQ389486506"><model>Умный ирригатор для глубокого очищения зубов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">77830</cityprice></cityprices></offer>
+<offer sku="UNQ203196586"><model>Мощный ирригатор для зубов Ревилайн RL 220 Black</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">49900</cityprice></cityprices></offer>
+<offer sku="UNQ338540356"><model>Ирригатор для зубов портативный 5 режимов 8 насадок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">29970</cityprice></cityprices></offer>
+<offer sku="UNQ731554876"><model>Ирригатор для зубов портативный многофункциональный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">30660</cityprice></cityprices></offer>
+<offer sku="UNQ731551396"><model>Ирригатор для зубов портативный многофункциональный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">30660</cityprice></cityprices></offer>
+<offer sku="UNQ273406505"><model>Ирригатор для полости рта портативный 300 мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35990</cityprice></cityprices></offer>
+<offer sku="UNQ1138920406"><model>Ирригатор для полости рта RL 670 емкость резервуара 0,27 л 2</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">180100</cityprice></cityprices></offer>
+<offer sku="UNQ964385026"><model>Профессиональный портативный ирригатор для полости рта</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">27230</cityprice></cityprices></offer>
+<offer sku="UNQ1315892435"><model>Ирригатор для зубов и полости рта</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ172555445"><model>Ирригатор портативный TH-917 емкость 280 мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">62530</cityprice></cityprices></offer>
+<offer sku="UNQ671191295"><model>Ирригатор EW-DJ11-А520</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">61380</cityprice></cityprices></offer>
+<offer sku="UNQ496492966"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">53690</cityprice></cityprices></offer>
+<offer sku="UNQ498239596"><model>Мини ирригатор для зубов дорожный портативный для брекетов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">22600</cityprice></cityprices></offer>
+<offer sku="UNQ851010425"><model>Ирригатор портативный Mendes QD-618BL черный 280 мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">29220</cityprice></cityprices></offer>
+<offer sku="UNQ1248074765"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">23080</cityprice></cityprices></offer>
+<offer sku="UNQ158733076"><model>Портативный ирригатор PulseBrush V350</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">39060</cityprice></cityprices></offer>
+<offer sku="UNQ551550140"><model>ирригатор д/полости рта pro-911/с адаптером</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">57560</cityprice></cityprices></offer>
+<offer sku="UNQ1415822565"><model>Ирригатор для зубов CS-9 Comfort Синий и 7 насадок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51110</cityprice></cityprices></offer>
+<offer sku="UNQ313816190"><model>Набор электрическая зубная щетка X3u pro и Ирригатор W3Pro</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="13" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">98140</cityprice></cityprices></offer>
+<offer sku="UNQ432569240"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="4" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">20220</cityprice></cityprices></offer>
+<offer sku="UNQ347673230"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35280</cityprice></cityprices></offer>
+<offer sku="UNQ1414162730"><model>Ирригатор для зубов портативный белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25330</cityprice></cityprices></offer>
+<offer sku="UNQ260425190"><model>Ирригатор для зубов MIGA NEW</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">139180</cityprice></cityprices></offer>
+<offer sku="UNQ898463630"><model>Ирригатор портативный Revyline RL 640, Cloud Dancer</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ551650760"><model>Ирригатор портативный 300 мл 4 насадки 3 режима</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">17680</cityprice></cityprices></offer>
+<offer sku="UNQ505010025"><model>Ирригатор для зубов и десен портативный HT i-02</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">47180</cityprice></cityprices></offer>
+<offer sku="UNQ305057685"><model>Портативный импульсный ирригатор RL660 New (7991)</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56700</cityprice></cityprices></offer>
+<offer sku="UNQ476432115"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">30710</cityprice></cityprices></offer>
+<offer sku="UNQ1281982250"><model>Ирригатор для полости рта Xiaomi Mijia F300 Water Flosser</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">39680</cityprice></cityprices></offer>
+<offer sku="UNQ985234340"><model>Ирригатор для зубов и десен портативный мощный FL1010</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">28850</cityprice></cityprices></offer>
+<offer sku="UNQ944332995"><model>Ирригатор для полости рта с 8 насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35950</cityprice></cityprices></offer>
+<offer sku="UNQ211071800"><model>Ирригатор беспроводной</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">48980</cityprice></cityprices></offer>
+<offer sku="UNQ145384485"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">44190</cityprice></cityprices></offer>
+<offer sku="UNQ204838700"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">312110</cityprice></cityprices></offer>
+<offer sku="UNQ963180410"><model>Ирригатор для зубов портативный белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">25330</cityprice></cityprices></offer>
+<offer sku="UNQ232982865"><model>Ирригатор RL100 стационарный (от розетки)</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ214097205"><model>Ирригатор для зубов и десен беспроводной портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="4" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">38190</cityprice></cityprices></offer>
+<offer sku="UNQ1828654065"><model>Ирригатор для зубов портативный Ревилайн RL 640 Neo Special Color Edition Fire Goat</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ1024995465"><model>Ирригатор для полости рта Professional MD20 стационарный.</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">120220</cityprice></cityprices></offer>
+<offer sku="UNQ226227405"><model>Портативный ирригатор для зубов RL 410 розовый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50880</cityprice></cityprices></offer>
+<offer sku="UNQ137991350"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">37410</cityprice></cityprices></offer>
+<offer sku="UNQ348354969"><model>Ирригатор для полости рта i-01 Серый Hygiene Technologies HT</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56270</cityprice></cityprices></offer>
+<offer sku="UNQ260424309"><model>Портативный ирригатор для зубов MIGA BLACK</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">100510</cityprice></cityprices></offer>
+<offer sku="UNQ231713589"><model>Рив Гош│Ирригатор портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">61240</cityprice></cityprices></offer>
+<offer sku="UNQ1687162089"><model>Ирригатор портативный для зубов и десен</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">31180</cityprice></cityprices></offer>
+<offer sku="UNQ533383299"><model>Ирригатор для зубов с уточкой IVMI</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">21290</cityprice></cityprices></offer>
+<offer sku="UNQ531020769"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">20600</cityprice></cityprices></offer>
+<offer sku="UNQ1032296829"><model>Ирригатор портативный Sense &amp; Power H300 (бежевый)</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">78290</cityprice></cityprices></offer>
+<offer sku="UNQ1797830649"><model>Портативный ирригатор HT i-03 для ежедневного ухода</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">53010</cityprice></cityprices></offer>
+<offer sku="UNQ933053889"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">24360</cityprice></cityprices></offer>
+<offer sku="UNQ209692599"><model>Ирригатор для зубов и десен портативный PWF1002T, 3 насадки</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">39460</cityprice></cityprices></offer>
+<offer sku="UNQ325209819"><model>Ирригатор для зубов, PWF 0201 220 мл 1500 мАч</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ438807669"><model>Ирригатор беспроводной HF-6</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50570</cityprice></cityprices></offer>
+<offer sku="UNQ504990099"><model>Ирригатор для зубов и десен портативный HT i-01</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">55080</cityprice></cityprices></offer>
+<offer sku="UNQ261539649"><model>Ирригатор стационарный G1000 Премиум, Кварцевая лампа,1000мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">67240</cityprice></cityprices></offer>
+<offer sku="UNQ1332509109"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">23510</cityprice></cityprices></offer>
+<offer sku="UNQ434342081"><model>Ирригатор портативный для чистки зубов и камней</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">33640</cityprice></cityprices></offer>
+<offer sku="UNQ707049701"><model>Ирригатор для полости рта и зубов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">16370</cityprice></cityprices></offer>
+<offer sku="UNQ44836661"><model>Ирригатор для полости рта зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">38140</cityprice></cityprices></offer>
+<offer sku="UNQ241454771"><model>Ирригатор для зубов GL5001</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">49600</cityprice></cityprices></offer>
+<offer sku="UNQ348354971"><model>Ирригатор для полости рта i-02 портативный, чехол в подарок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50150</cityprice></cityprices></offer>
+<offer sku="UNQ35161361"><model>Ирригатор для зубов портативный LD-A3</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">30370</cityprice></cityprices></offer>
+<offer sku="UNQ998101811"><model>Набор 2в1 ирригатор портативный и звуковая зубная щетка</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35080</cityprice></cityprices></offer>
+<offer sku="UNQ204838691"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">249690</cityprice></cityprices></offer>
+<offer sku="UNQ1025984201"><model>RL 840 ирригатор портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56700</cityprice></cityprices></offer>
+<offer sku="UNQ271616171"><model>Ирригатор для зубов и десен стационарный 600 мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50040</cityprice></cityprices></offer>
+<offer sku="UNQ213080050"><model>Ирригатор CS Medica AquaPulsar CS-9 Comfort (черный)</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">75240</cityprice></cityprices></offer>
+<offer sku="UNQ237259620"><model>Ирригатор Panasonic EW-DJ4B</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">93620</cityprice></cityprices></offer>
+<offer sku="UNQ226223970"><model>Портативный ирригатор для зубов RL 410 синий</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50880</cityprice></cityprices></offer>
+<offer sku="UNQ47043510"><model>Ирригатор для зубов портативный RL 450 NEO 3 насадки черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">62510</cityprice></cityprices></offer>
+<offer sku="UNQ773541870"><model>Ирригатор портативный Mendes 200 мл, 4 насадки</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">36240</cityprice></cityprices></offer>
+<offer sku="UNQ491811960"><model>Ирригатор для зубов ht prof I-01 цвет Серый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">50920</cityprice></cityprices></offer>
+<offer sku="UNQ400461090"><model>Ирригатор для полости рта зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="12" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">67860</cityprice></cityprices></offer>
+<offer sku="UNQ174551670"><model>Портативный складной ирригатор для полости рта Aqua Mini</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">53890</cityprice></cityprices></offer>
+<offer sku="UNQ979948410"><model>Ирригатор для зубов и десен YR4505, белый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">36270</cityprice></cityprices></offer>
+<offer sku="UNQ171105930"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">23660</cityprice></cityprices></offer>
+<offer sku="UNQ265645290"><model>Портативный ирригатор RL 640, зелёный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">68070</cityprice></cityprices></offer>
+<offer sku="UNQ1259264970"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">20360</cityprice></cityprices></offer>
+<offer sku="UNQ316667040"><model>Ирригатор для зубов YR4502, портативный,серый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">35840</cityprice></cityprices></offer>
+<offer sku="UNQ846214510"><model>Ирригатор портативный для зубов и десен DF3000, 5 режимов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ846199660"><model>Ирригатор портативный для зубов и десен DF3000, 5 режимов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40000</cityprice></cityprices></offer>
+<offer sku="UNQ1211061820"><model>Ирригатор для полости рта портативный беспроводной</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">21680</cityprice></cityprices></offer>
+<offer sku="UNQ462287899"><model>Ирригатор портативный RL 640.</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="13" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ923898109"><model>Ирригатор для зубов портативный, 4 режимов, брекеты</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">29590</cityprice></cityprices></offer>
+<offer sku="UNQ329435599"><model>Ирригатор для зубов и десен портативный PWF 0201</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">69550</cityprice></cityprices></offer>
+<offer sku="UNQ327434359"><model>Ирригатор Ревилайн портативный RL 220 (7944)</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">49880</cityprice></cityprices></offer>
+<offer sku="UNQ182536519"><model>Ирригатор для зубов CS-8 Elite Лиловый с насадками 6 шт.</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51140</cityprice></cityprices></offer>
+<offer sku="UNQ844555699"><model>Ирригатор для зубов Ревилайн RL 670 портативный, черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="21" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">44860</cityprice></cityprices></offer>
+<offer sku="UNQ11953609"><model>Ирригатор для полости рта - HAS830</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">52640</cityprice></cityprices></offer>
+<offer sku="UNQ489668050"><model>Ирригатор для зубов портативный ht prof I-01 серый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">36270</cityprice></cityprices></offer>
+<offer sku="UNQ483857982"><model>Ирригатор для зубов и десен портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">49990</cityprice></cityprices></offer>
+<offer sku="UNQ454144332"><model>Портативный ирригатор для полости рта V200</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">34890</cityprice></cityprices></offer>
+<offer sku="UNQ262409952"><model>Xiaomi Ирригатор для зубов и десен портативный розовый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">38990</cityprice></cityprices></offer>
+<offer sku="UNQ313344252"><model>Электрическая щетка D3pro и Ирригатор W3pro</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">102000</cityprice></cityprices></offer>
+<offer sku="UNQ721082442"><model>Ирригатор для зубов и десен портативный MI-380B</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">31340</cityprice></cityprices></offer>
+<offer sku="UNQ1315986102"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45080</cityprice></cityprices></offer>
+<offer sku="UNQ1025984202"><model>RL 840 ирригатор портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56700</cityprice></cityprices></offer>
+<offer sku="UNQ156240252"><model>Xiaomi Портативный Ирригатор для зубов и десен ирригатор Электрическая зубная щетка</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">66590</cityprice></cityprices></offer>
+<offer sku="UNQ44871732"><model>Ирригатор для зубов и полости рта MIGA импульсный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">101180</cityprice></cityprices></offer>
+<offer sku="UNQ271616172"><model>Ирригатор для зубов и десен стационарный 600 мл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">44420</cityprice></cityprices></offer>
+<offer sku="UNQ300765910"><model>Ирригатор для зубов</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">24550</cityprice></cityprices></offer>
+<offer sku="UNQ1939565314"><model>Ирригатор портативный для полости рта h2ofloss HF-6</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">20150</cityprice></cityprices></offer>
+<offer sku="UNQ139287382"><model>Ирригатор для зубов и десен портативный F30</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">30320</cityprice></cityprices></offer>
+<offer sku="UNQ492534202"><model>Мобильный ирригатор для чистоты полости рта</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">17020</cityprice></cityprices></offer>
+<offer sku="UNQ1199551504"><model>Ирригатор для полости рта и зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">19750</cityprice></cityprices></offer>
+<offer sku="UNQ38341774"><model>Ирригатор полости рта Waterpulse V500 портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">22340</cityprice></cityprices></offer>
+<offer sku="UNQ1013033512"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">128620</cityprice></cityprices></offer>
+<offer sku="UNQ252013744"><model>Ирригатор беспроводной 300 мл с насадками и сумкой HF-6</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51390</cityprice></cityprices></offer>
+<offer sku="UNQ546997852"><model>ирригатор для зубов и десен</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">24670</cityprice></cityprices></offer>
+<offer sku="UNQ1238667784"><model>Портативный ирригатор RL 640</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76000</cityprice></cityprices></offer>
+<offer sku="UNQ146346772"><model>Ирригатор для зубов и полости рта портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">17890</cityprice></cityprices></offer>
+<offer sku="UNQ1139119582"><model>Ирригатор полости рта Ревилайн РЛ 840</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">56850</cityprice></cityprices></offer>
+<offer sku="UNQ210294484"><model>Портативный Ирригатор для зубов и десен Дорожный ирригатор</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">40050</cityprice></cityprices></offer>
+<offer sku="UNQ503083714"><model>Ирригатор для зубов и десен портативный AquaPulse B8</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">117320</cityprice></cityprices></offer>
+<offer sku="UNQ217965892"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">66420</cityprice></cityprices></offer>
+<offer sku="UNQ1286215192"><model>Ирригатор для зубов и десен портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">76200</cityprice></cityprices></offer>
+<offer sku="UNQ775693674"><model>Ирригатор портативный Mendes 200 мл, 4 насадки, черный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="11" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">32620</cityprice></cityprices></offer>
+<offer sku="UNQ391783284"><model>Ирригатор для зубов портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="10" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">24480</cityprice></cityprices></offer>
+<offer sku="UNQ204838704"><model>Ирригатор для зубов портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">187270</cityprice></cityprices></offer>
+<offer sku="UNQ1067564634"><model>Ирригатор для зубов и десен, полости рта портативный</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">45590</cityprice></cityprices></offer>
+<offer sku="UNQ170885874"><model>Ирригатор портативный B.Well WI-911</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">79140</cityprice></cityprices></offer>
+<offer sku="UNQ178664699"><model>Ирригатор для зубов CS-9 Comfort Белый и 7 насадок</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="7" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">51110</cityprice></cityprices></offer>
+<offer sku="UNQ185454389"><model>Ирригатор для зубов и полости рта портативный с насадками</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">38280</cityprice></cityprices></offer>
+<offer sku="UNQ575596439"><model>Ирригатор для чистки зубов с ультрафиолетом MIGA PRO</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="8" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">123020</cityprice></cityprices></offer>
+</offers>
 </kaspi_catalog>
