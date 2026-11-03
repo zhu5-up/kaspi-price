@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-11-03 21:35">
+    <company>16276143</company>
+    <merchantid>16276143</merchantid>
+    <offers>
+        <offer sku="114100563_141302933">
+            <model>All the Baby ободок венок 1 шт, белый, розовый</model>
+            <brand>all-the-baby</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="157174315_741452407">
+            <model>Уличный светильник в грунт / на штыре E14 85 см</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="24.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1271</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-FORM-02-pink">
+            <model>UNIQORN для льда, для десерта, для мармелада, для мороженого, для шоколада UNQ-FORM-02-pink, силикон</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="20" stockCount="94.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="BRTX-SHR-blue-01">
+            <model>Дрель-шуруповерт BORTEX BRTX-SHR-blue-01</model>
+            <brand>bortex</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_vlad" preOrder="0" stockCount="10.0"/>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="30.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="395439100">190</cityprice>
+                <cityprice cityId="750000000">24990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="120688989_006619959">
+            <model>Набор бонбоньерок без наполнения 10 шт 6 см</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">2990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="120890799_434118572">
+            <model>Кусачки-щипчики 3 мм 10 см двойная 1 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="119187357_283879028">
+            <model>Комплект размер универсальный, розовый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="88.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">499</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="110885026_997646739">
+            <model>Поворотный стол для 3D съемки Wellamart 85U11</model>
+            <brand>wellamart</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">4400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-OS-2pcs">
+            <model>UNIQORN апельсиновая палочка 11 см 2 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">3290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="138578961_579441765">
+            <model>Маркер 458360817, 1 шт, 2 мм, Белый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="30.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132370075_371216552">
+            <model>Лампа 1 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="122461182_886404257">
+            <model>Панама размер 60, универсальный, хаки</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="4.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="BRTX-SHR-blue">
+            <model>Дрель-шуруповерт BORTEX BRTX-SHR-blue</model>
+            <brand>bortex</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="142506851_986726904">
+            <model>Набор 11in1 размер регулируемый бижутерный сплав, синтетический жемчуг, золотистый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="40.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">779</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="171585009_499598410">
+            <model>UNIQORN пинцет 4 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">3990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="BRTX-SHR-green-01">
+            <model>Дрель-шуруповерт BORTEX BRTX-SHR-green-01</model>
+            <brand>bortex</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_vlad" preOrder="0"/>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="395439100">230</cityprice>
+                <cityprice cityId="750000000">29990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-ORG-pink-02">
+            <model>UNIQORN органайзер пластик</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="50.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="162422339_529882843">
+            <model>Мини-сумка полиэстер черный</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="14.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1146</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="160914759_604261429">
+            <model>ARVO Аппликатор для волос ARVO 1</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="ALBI481380229">
+            <model>Набор столовых приборов на 6 персон</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22640</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-BR-black">
+            <model>UNIQORN расческа-щетка, массажная расческа, щетка-массажер 22</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="138630833_053483425">
+            <model>Заколка зажим 5 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">243</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="142765552_689823048">
+            <model>Фляга 30371025_457760007 1 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">2097</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="138794721_632285903">
+            <model>Воздуходувка 100 кВт 0.5 л.с. 10 куб. м/ч</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="8.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">6840</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-orange-stick">
+            <model>UNIQORN апельсиновая палочка 10см 100 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="31.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">550</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="BRTX-SHR-yellow-01">
+            <model>Дрель-шуруповерт BORTEX BRTX-SHR-yellow-01</model>
+            <brand>bortex</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_vlad" preOrder="0"/>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="395439100">200</cityprice>
+                <cityprice cityId="750000000">24990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-CZ-pnk-01">
+            <model>UNIQORN кусачки-щипчики UNQ-CZ-pnk-01  1 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="20" stockCount="88.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">2000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="112592853_652506180">
+            <model>Насадка КМИЗ 023 10С фреза пламя насечка синяя 5 шт</model>
+            <brand>kmiz</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="46.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">4249</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="120646656_297112643">
+            <model>Панама размер 54, 60, черный</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">940</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132188591_523226772">
+            <model>Haoyan пинцет 1 шт</model>
+            <brand>haoyan</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="93.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">685</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="206130049">
+            <model>UNIQORN щетка-массажер 28</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="200.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-pirs-Gun-black">
+            <model>UNIQORN набор для прокола ушей 1 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="143111375_928746650">
+            <model>Гарнитура 30398974_949104361</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="19.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1095</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="136372816_513295897">
+            <model>Форма для выпечки, для запекания, для гриля силикон, 1 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="113588651_670003723">
+            <model>BY ватные палочки спираль лопаточка тонкие для детей и взрослых 400 шт</model>
+            <brand>by</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="88.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">989</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-tapki-10p">
+            <model>UNIQORN тапочки для педикюра Универсальный 10 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="16.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">5990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="BRTX-SHR-red">
+            <model>Дрель-шуруповерт BORTEX BRTX-SHR-red</model>
+            <brand>bortex</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">23990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-tapki-05">
+            <model>UNIQORN тапочки для педикюра Универсальный 5 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="9.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">3990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="108881905_290595451">
+            <model>Atomy Toothbrush зубная щетка средняя 4 шт</model>
+            <brand>atomy</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="186.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="BRTX-SHR-red-01">
+            <model>Дрель-шуруповерт BORTEX BRTX-SHR-red-01</model>
+            <brand>bortex</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="143559602_898863743">
+            <model>Серьги MODU бижутерный сплав, без вставок</model>
+            <brand>modu</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="26.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="155510080_768869075">
+            <model>TAI мочалка для тела, для пилинга черный 1 шт</model>
+            <brand>tai</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="73.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-earrings-silver">
+            <model>Серьги UNIQORN UNQ-earrings-silver бижутерный сплав, без вставок</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-PO-PR-01-white">
+            <model>Пароочиститель UNIQORN PREMIUM белый, черный</model>
+            <brand>uniqorn-tehnika</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="8.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">29990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="144938952_362320105">
+            <model>Набор инструментов для педикюра 3 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="84.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1459</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-kogterezka-pink">
+            <model>UNIQORN когтерез-ножницы, вид животного: собаки</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="19.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="120072403_234542149">
+            <model>Поворотный стол для 3D съемки Wellamart wl0338 13 см белый</model>
+            <brand>wellamart</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="8.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">4500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="MD-AF-01">
+            <model>MadAin MD-AF-01 черно-серебристый</model>
+            <brand>madain</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_vlad" preOrder="0"/>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="395439100">120</cityprice>
+                <cityprice cityId="750000000">34990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="133859663_472594748">
+            <model>Держатель, ценникодержатель 345572</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="30.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">379</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-tapki-02">
+            <model>UNIQORN тапочки для педикюра Универсальный 2 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="48.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="146138987_939387764">
+            <model>Подушка WayToGrow OPG99 на подголовник, на шею кресла 26x28 см черный</model>
+            <brand>waytogrow</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">9990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-pinc-4pcs">
+            <model>UNIQORN пинцет 4 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="40.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-FORM-01-pink">
+            <model>UNIQORN для льда, для десерта, для конфет, для мармелада, для шоколада, для заготовок UNQ-FORM-01-pink, силикон</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1499</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="BRTX-SHR-yellow">
+            <model>Дрель-шуруповерт BORTEX BRTX-SHR-yellow</model>
+            <brand>bortex</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="110105650_059217348">
+            <model>Easy Braid канекалон гофрированный фиолетовый женский</model>
+            <brand>easy-braid</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="52.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">875</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="168055247_802148369">
+            <model>Накладные ногти 30402895_231449529 1 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="64.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-pinc-04+kys">
+            <model>UNIQORN пинцет 4 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="29.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">2990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="109923610_750713123">
+            <model>Солнцезащитные очки круглые градиент</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">389</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="BRTX-SHR-green">
+            <model>Дрель-шуруповерт BORTEX BRTX-SHR-green</model>
+            <brand>bortex</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-ORG-pink-04">
+            <model>UNIQORN органайзер пластик</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="30.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">3590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118958110_831754460">
+            <model>FASHION IS SHINING ободок 1 шт, черный</model>
+            <brand>fashion-is-shining</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">499</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="114262818_516178661">
+            <model>Серьги медицинское золото, фианит</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">2532</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="MD-AF-02">
+            <model>MadAin MD-AF-02 черный, белый</model>
+            <brand>madain</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_vlad" preOrder="0"/>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="395439100">130</cityprice>
+                <cityprice cityId="750000000">44990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="171600136_960130174">
+            <model>UNIQORN кусачки-щипчики UNQ-kys-01+4pinc 1 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="46.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">3990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="167025753_226287361">
+            <model>Брелок Клавиатура 5.5 пластик 1 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="13.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-BR-pink-blue">
+            <model>UNIQORN массажная расческа 22</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="143359120_617160391">
+            <model>Щетка-массажер 28</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="192.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="106810339_717284073">
+            <model>TATTOO пистолет, пластик 2 шт</model>
+            <brand>tattoo-odezhda</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="25.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1123</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="114457986_305732934">
+            <model>Фильтр C26W для пылесосов Deerma, 3 изделия.</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="49.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">702</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140141161_542426591">
+            <model>Пистолет 1 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">2433</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="144184995_014993593">
+            <model>Безворсовые салфетки, одноразовые полотенца, набор одноразовых расходных материалов 60х30 100 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="88.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">4528</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="063833382">
+            <model>Био-керамический карандаш для удаления Кутикулы 5шт в Наборе</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="27.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">6990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-FlossV2-02pcs">
+            <model>UNIQORN Зубная нить UNIQORN розовая 2шт ленточная 2 шт по 50 м</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="26.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">2100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-espander">
+            <model>Челюстной UNIQORN UNQ-espander 2 шт 40 кг</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="89.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-OTP-PREMIUM-white">
+            <model>Отпариватель UNIQORN UNQ-OTP-PREMIUM-white белый, золотистый</model>
+            <brand>uniqorn-tehnika</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="4.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">16990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="134609597_013765351">
+            <model>Балаклава размер 58, серый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="46.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">699</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="642163061">
+            <model>UNIQORN апельсиновая палочка 11 1 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="38.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-Dental-V2-02">
+            <model>UNIQORN Зубная нить UNIQORN 2шт в комплекте ленточная 2 шт по 50 м</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">2100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-FlossV2-pink">
+            <model>UNIQORN Зубная нить UNIQORN 1шт Розовая ленточная 1 шт</model>
+            <brand>uniqorn</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="75.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">1290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="116700084_154078116">
+            <model>Эспандер Челюстной 2 шт 40 кг</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="24.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="UNQ-PO-MD-01-grey">
+            <model>Пароочиститель UNIQORN Medium белый, серый</model>
+            <brand>uniqorn-tehnika</brand>
+            <availabilities>
+                <availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">24990</cityprice>
+            </cityprices>
+        </offer>
+    </offers>
+</kaspi_catalog>
