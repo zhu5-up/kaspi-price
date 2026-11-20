@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-11-20 08:25">
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-11-20 16:11">
 <company>16276143</company>
 <merchantid>16276143</merchantid>
 <offers>
@@ -15447,5 +15447,6 @@
 <offer sku="UNQ39058021"><model>Коврики Toyota Ist 1 NCP60 пр.руль Тойота Ист 1 2001-2006</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="9" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">33420</cityprice></cityprices></offer>
 <offer sku="UNQ177319501"><model>Коврики ЕВА ЭВО EVA Nissan Murano Мурано Z51 2</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="12" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">20260</cityprice></cityprices></offer>
 <offer sku="UNQ15410079"><model>Коврики салона Lexus GS (L10A) (2012)</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="13" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">53690</cityprice></cityprices></offer>
+<offer sku="147587413"><model>Попсокет 002 розовый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="16276143_PP3" preOrder="0" stockCount="400.0"/></availabilities><cityprices><cityprice cityId="750000000">40</cityprice></cityprices></offer>
 </offers>
 </kaspi_catalog>
