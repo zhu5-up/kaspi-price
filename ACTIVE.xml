@@ -118781,5 +118781,6 @@
 <offer sku="118413035"><model>Контейнер 845978087, пластик</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="30482413_PP1" preOrder="0" stockCount="40.0"/></availabilities><cityprices><cityprice cityId="750000000">844</cityprice></cityprices></offer>
 <offer sku="114953210"><model>Кольцо для салфеток 481326, металл</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="30482413_PP1" preOrder="0" stockCount="40.0"/></availabilities><cityprices><cityprice cityId="750000000">130</cityprice></cityprices></offer>
 <offer sku="101178551"><model>Qualita бумага для выпечки, для хранения продуктов 15 листов</model><brand>Qualita</brand><availabilities><availability available="yes" storeId="30482413_PP1" preOrder="0" stockCount="40.0"/></availabilities><cityprices><cityprice cityId="750000000">600</cityprice></cityprices></offer>
+<offer sku="104337960"><model>Haoyan пинцет серый 1 шт</model><brand>Haoyan</brand><availabilities><availability available="yes" storeId="30482413_PP1" preOrder="0" stockCount="30.0"/></availabilities><cityprices><cityprice cityId="750000000">360</cityprice></cityprices></offer>
 </offers>
 </kaspi_catalog>
