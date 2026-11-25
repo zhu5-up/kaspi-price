@@ -118776,5 +118776,6 @@
 <offer sku="ALBI490744261"><model>Ель искусственная "Новая ёлка" Итальянская Премиум 75 см</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="30482413_PP1" preOrder="14" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">48820</cityprice></cityprices></offer>
 <offer sku="ALBI1984124191"><model>Елка искусственная заснеженная с шишками новогодняя 180 см</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="30482413_PP1" preOrder="12" stockCount="5.0"/></availabilities><cityprices><cityprice cityId="750000000">78960</cityprice></cityprices></offer>
 <offer sku="147587413"><model>Попсокет 002 розовый</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="30482413_PP1" preOrder="0" stockCount="400.0"/></availabilities><cityprices><cityprice cityId="750000000">40</cityprice></cityprices></offer>
+<offer sku="113515812"><model>Скелетная расческа 24.5 см</model><brand>Без бренда</brand><availabilities><availability available="yes" storeId="30482413_PP1" preOrder="0" stockCount="40.0"/></availabilities><cityprices><cityprice cityId="750000000">230</cityprice></cityprices></offer>
 </offers>
 </kaspi_catalog>
